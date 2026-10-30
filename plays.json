@@ -1,0 +1,6738 @@
+{
+ "meta": {
+  "built": "2026-10-30",
+  "count": 672
+ },
+ "plays": {
+  "p001": {
+   "yt": "qe4TWiHMHK0",
+   "start": 1,
+   "date": "1970-05-10",
+   "year": 1970,
+   "sport": "NHL",
+   "title": "Bobby Orr's flying overtime goal wins the Stanley Cup (Bruins vs. Blues)",
+   "fame": 4,
+   "embed": true
+  },
+  "p002": {
+   "yt": "HNLam4RAbg8",
+   "start": 0,
+   "date": "1970-06-07",
+   "year": 1970,
+   "sport": "Soccer",
+   "title": "Gordon Banks' \"Save of the Century\" on Pelé (Brazil vs. England, World Cup)",
+   "fame": 5,
+   "embed": true
+  },
+  "p003": {
+   "yt": "FtkU3apSMHw",
+   "start": 0,
+   "date": "1970-07-14",
+   "year": 1970,
+   "sport": "MLB",
+   "title": "Pete Rose bowls over Ray Fosse in the All-Star Game",
+   "fame": 4,
+   "embed": true
+  },
+  "p004": {
+   "yt": "hkVXTY9m__Q",
+   "start": 0,
+   "date": "1970-10-10",
+   "year": 1970,
+   "sport": "MLB",
+   "title": "Brooks Robinson's backhand stop in the World Series (Orioles vs. Reds)",
+   "fame": 2,
+   "embed": true
+  },
+  "p005": {
+   "yt": "zrxTjgFYoU8",
+   "start": 0,
+   "date": "1970-11-08",
+   "year": 1970,
+   "sport": "NFL",
+   "title": "Tom Dempsey's 63-yard field goal (Saints vs. Lions)",
+   "fame": 4,
+   "embed": true
+  },
+  "p006": {
+   "yt": "DEYlnNmbaBk",
+   "start": 0,
+   "date": "1971-11-25",
+   "year": 1971,
+   "sport": "College football",
+   "title": "Johnny Rodgers' punt return in the \"Game of the Century\" (Nebraska vs. Oklahoma)",
+   "fame": 3,
+   "embed": true
+  },
+  "p007": {
+   "yt": "oAqTTMv714w",
+   "start": 0,
+   "date": "1972-06-18",
+   "year": 1972,
+   "sport": "Golf",
+   "title": "Jack Nicklaus's 1-iron hits the flagstick on the 17th at Pebble Beach (U.S. Open)",
+   "fame": 3,
+   "embed": true
+  },
+  "p008": {
+   "yt": "DiacXTCj4Tk",
+   "start": 6,
+   "date": "1972-09-02",
+   "year": 1972,
+   "sport": "Olympics",
+   "title": "Dave Wottle's comeback win in the 800 meters (Munich Olympics)",
+   "fame": 2,
+   "embed": true
+  },
+  "p009": {
+   "yt": "1dyoTkX7Ypc",
+   "start": 4,
+   "date": "1972-09-09",
+   "year": 1972,
+   "sport": "Olympics",
+   "title": "The controversial final seconds of USSR vs. USA basketball (Munich Olympics)",
+   "fame": 3,
+   "embed": true
+  },
+  "p010": {
+   "yt": "r8PlUqzTRRg",
+   "start": 0,
+   "date": "1972-09-30",
+   "year": 1972,
+   "sport": "MLB",
+   "title": "Roberto Clemente gets his 3,000th hit",
+   "fame": 3,
+   "embed": true
+  },
+  "p011": {
+   "yt": "H1l5aTUK228",
+   "start": 0,
+   "date": "1972-12-23",
+   "year": 1972,
+   "sport": "NFL",
+   "title": "Franco Harris and the Immaculate Reception (Steelers vs. Raiders)",
+   "fame": 5,
+   "embed": true
+  },
+  "p012": {
+   "yt": "d-pxMm_UdY4",
+   "start": 0,
+   "date": "1973-01-14",
+   "year": 1973,
+   "sport": "NFL",
+   "title": "Garo Yepremian's botched pass in Super Bowl VII (Dolphins vs. Redskins)",
+   "fame": 4,
+   "embed": false
+  },
+  "p013": {
+   "yt": "JZEIMQ42-oU",
+   "start": 0,
+   "date": "1973-01-22",
+   "year": 1973,
+   "sport": "Boxing",
+   "title": "George Foreman knocks down Joe Frazier, \"Down goes Frazier!\"",
+   "fame": 5,
+   "embed": true
+  },
+  "p014": {
+   "yt": "0BIn3b7dWVw",
+   "start": 0,
+   "date": "1973-05-15",
+   "year": 1973,
+   "sport": "MLB",
+   "title": "Nolan Ryan throws his first no-hitter (Angels vs. Royals)",
+   "fame": 4,
+   "embed": true
+  },
+  "p015": {
+   "yt": "vfCMtaNiMDM",
+   "start": 96,
+   "date": "1973-06-09",
+   "year": 1973,
+   "sport": "Horse racing",
+   "title": "Secretariat wins the Belmont Stakes by 31 lengths",
+   "fame": 5,
+   "embed": true
+  },
+  "p016": {
+   "yt": "qqB3yi8MVbQ",
+   "start": 7863,
+   "date": "1973-09-20",
+   "year": 1973,
+   "sport": "Tennis",
+   "title": "Billie Jean King beats Bobby Riggs in the \"Battle of the Sexes\"",
+   "fame": 5,
+   "embed": true
+  },
+  "p017": {
+   "yt": "k8xKLnO4hOs",
+   "start": 0,
+   "date": "1973-10-08",
+   "year": 1973,
+   "sport": "MLB",
+   "title": "Pete Rose and Bud Harrelson brawl in the NLCS (Mets vs. Reds)",
+   "fame": 3,
+   "embed": true
+  },
+  "p018": {
+   "yt": "2r0kr4drZ6k",
+   "start": 0,
+   "date": "1973-12-16",
+   "year": 1973,
+   "sport": "NFL",
+   "title": "O.J. Simpson becomes the first 2,000-yard rusher (Bills vs. Jets)",
+   "fame": 4,
+   "embed": true
+  },
+  "p019": {
+   "yt": "s_j315H7YvM",
+   "start": 0,
+   "date": "1973-12-31",
+   "year": 1973,
+   "sport": "College football",
+   "title": "Tom Clements's pass to Robin Weber seals Notre Dame's title in the Sugar Bowl (vs. Alabama)",
+   "fame": 3,
+   "embed": true
+  },
+  "p020": {
+   "yt": "DdjuJh7kNNc",
+   "start": 0,
+   "date": "1974-01-19",
+   "year": 1974,
+   "sport": "College basketball",
+   "title": "Notre Dame snaps UCLA's 88-game winning streak",
+   "fame": 3,
+   "embed": true
+  },
+  "p021": {
+   "yt": "QjqYThEVoSQ",
+   "start": 34,
+   "date": "1974-04-08",
+   "year": 1974,
+   "sport": "MLB",
+   "title": "Hank Aaron hits home run No. 715 to pass Babe Ruth",
+   "fame": 5,
+   "embed": true
+  },
+  "p022": {
+   "yt": "jVHndc9KBto",
+   "start": 0,
+   "date": "1974-05-10",
+   "year": 1974,
+   "sport": "NBA",
+   "title": "Kareem's sky hook wins Game 6 of the NBA Finals in double overtime (Bucks vs. Celtics)",
+   "fame": 4,
+   "embed": true
+  },
+  "p023": {
+   "yt": "Kd2uBWthh8M",
+   "start": 0,
+   "date": "1974-06-19",
+   "year": 1974,
+   "sport": "Soccer",
+   "title": "Johan Cruyff's turn against Sweden (World Cup)",
+   "fame": 5,
+   "embed": true
+  },
+  "p024": {
+   "yt": "GaOiRntywrk",
+   "start": 0,
+   "date": "1974-09-10",
+   "year": 1974,
+   "sport": "MLB",
+   "title": "Lou Brock breaks the single-season stolen base record",
+   "fame": 3,
+   "embed": true
+  },
+  "p025": {
+   "yt": "lekcTvu_k_4",
+   "start": 0,
+   "date": "1974-10-30",
+   "year": 1974,
+   "sport": "Boxing",
+   "title": "Muhammad Ali knocks out George Foreman, \"Rumble in the Jungle\"",
+   "fame": 5,
+   "embed": true
+  },
+  "p026": {
+   "yt": "EPYz8LMhfYg",
+   "start": 0,
+   "date": "1974-12-21",
+   "year": 1974,
+   "sport": "NFL",
+   "title": "\"Sea of Hands\" playoff game (Raiders vs. Dolphins)",
+   "fame": 4,
+   "embed": true
+  },
+  "p027": {
+   "yt": "n4P3n2TCgEE",
+   "start": 41,
+   "date": "1975-10-21",
+   "year": 1975,
+   "sport": "MLB",
+   "title": "Carlton Fisk waves his home run fair in Game 6 of the World Series (Red Sox vs. Reds)",
+   "fame": 5,
+   "embed": true
+  },
+  "p028": {
+   "yt": "m85dDaEjwsw",
+   "start": 0,
+   "date": "1975-12-28",
+   "year": 1975,
+   "sport": "NFL",
+   "title": "Staubach's Hail Mary to Drew Pearson (Cowboys vs. Vikings)",
+   "fame": 5,
+   "embed": true
+  },
+  "p029": {
+   "yt": "tAleUKVZCD8",
+   "start": 0,
+   "date": "1975-12-31",
+   "year": 1975,
+   "sport": "NHL",
+   "title": "Canadiens vs. Red Army: the best game ever played",
+   "fame": 4,
+   "embed": true
+  },
+  "p030": {
+   "yt": "BA-6wri7TKU",
+   "start": 0,
+   "date": "1976-01-18",
+   "year": 1976,
+   "sport": "NFL",
+   "title": "Lynn Swann's acrobatic catches in Super Bowl X (Steelers vs. Cowboys)",
+   "fame": 4,
+   "embed": true
+  },
+  "p031": {
+   "yt": "vRw-mN-fiAk",
+   "start": 69,
+   "date": "1976-01-27",
+   "year": 1976,
+   "sport": "NBA",
+   "title": "Dr. J's free-throw-line dunk at the ABA Slam Dunk Contest",
+   "fame": 4,
+   "embed": true
+  },
+  "p032": {
+   "yt": "CyGDoKiJIm0",
+   "start": 0,
+   "date": "1976-02-13",
+   "year": 1976,
+   "sport": "Olympics",
+   "title": "Dorothy Hamill wins Olympic gold in figure skating (Innsbruck)",
+   "fame": 4,
+   "embed": true
+  },
+  "p033": {
+   "yt": "dOF4AI5ugb0",
+   "start": 0,
+   "date": "1976-02-15",
+   "year": 1976,
+   "sport": "Motorsport",
+   "title": "Pearson and Petty crash on the final lap of the Daytona 500",
+   "fame": 3,
+   "embed": true
+  },
+  "p034": {
+   "yt": "VxXWIZULgyw",
+   "start": 2,
+   "date": "1976-06-20",
+   "year": 1976,
+   "sport": "Soccer",
+   "title": "Panenka's chipped penalty wins the Euros for Czechoslovakia",
+   "fame": 4,
+   "embed": true
+  },
+  "p035": {
+   "yt": "4m2YT-PIkEc",
+   "start": 8,
+   "date": "1976-07-18",
+   "year": 1976,
+   "sport": "Olympics",
+   "title": "Nadia Comaneci scores the first perfect 10 in Olympic gymnastics (Montreal)",
+   "fame": 5,
+   "embed": true
+  },
+  "p036": {
+   "yt": "feezbQ9BJwc",
+   "start": 1412,
+   "date": "1976-07-30",
+   "year": 1976,
+   "sport": "Olympics",
+   "title": "Bruce Jenner wins the Olympic decathlon (Montreal)",
+   "fame": 4,
+   "embed": true
+  },
+  "p037": {
+   "yt": "gcRRFy_8Gzw",
+   "start": 0,
+   "date": "1976-10-14",
+   "year": 1976,
+   "sport": "MLB",
+   "title": "Chris Chambliss's walk-off home run sends the Yankees to the World Series (ALCS Game 5)",
+   "fame": 3,
+   "embed": true
+  },
+  "p038": {
+   "yt": "xDWwhvVi29Y",
+   "start": 147,
+   "date": "1977-06-11",
+   "year": 1977,
+   "sport": "Horse racing",
+   "title": "Seattle Slew wins the Triple Crown at the Belmont",
+   "fame": 4,
+   "embed": true
+  },
+  "p039": {
+   "yt": "3n0G2Ls1Z-A",
+   "start": 4,
+   "date": "1977-10-18",
+   "year": 1977,
+   "sport": "NBA",
+   "title": "Kareem Abdul-Jabbar punches Kent Benson",
+   "fame": 4,
+   "embed": true
+  },
+  "p040": {
+   "yt": "LZNTzxVNv24",
+   "start": 0,
+   "date": "1977-10-18",
+   "year": 1977,
+   "sport": "MLB",
+   "title": "Reggie Jackson hits three home runs in Game 6 of the World Series (Yankees vs. Dodgers)",
+   "fame": 5,
+   "embed": true
+  },
+  "p041": {
+   "yt": "GW-T1DsWkjQ",
+   "start": 0,
+   "date": "1977-11-20",
+   "year": 1977,
+   "sport": "NFL",
+   "title": "Walter Payton rushes for 275 yards (Bears vs. Vikings)",
+   "fame": 4,
+   "embed": true
+  },
+  "p042": {
+   "yt": "N1lIy6dzEwg",
+   "start": 0,
+   "date": "1978-06-25",
+   "year": 1978,
+   "sport": "Soccer",
+   "title": "Rensenbrink hits the post in the last minute of the World Cup final (Argentina vs. Netherlands)",
+   "fame": 3,
+   "embed": true
+  },
+  "p043": {
+   "yt": "5Y1SeAjv5ao",
+   "start": 0,
+   "date": "1978-09-10",
+   "year": 1978,
+   "sport": "NFL",
+   "title": "The \"Holy Roller\" (Raiders vs. Chargers)",
+   "fame": 4,
+   "embed": true
+  },
+  "p044": {
+   "yt": "0tl7xW4Oxo0",
+   "start": 76,
+   "date": "1978-10-02",
+   "year": 1978,
+   "sport": "MLB",
+   "title": "Bucky Dent's home run in the AL East playoff (Yankees vs. Red Sox)",
+   "fame": 5,
+   "embed": true
+  },
+  "p045": {
+   "yt": "q7-komLkBsI",
+   "start": 0,
+   "date": "1978-11-19",
+   "year": 1978,
+   "sport": "NFL",
+   "title": "\"Miracle at the Meadowlands\" (Eagles vs. Giants)",
+   "fame": 4,
+   "embed": true
+  },
+  "p046": {
+   "yt": "v20cGIPVFQY",
+   "start": 158,
+   "date": "1979-01-01",
+   "year": 1979,
+   "sport": "College football",
+   "title": "Alabama's goal-line stand against Penn State in the Sugar Bowl",
+   "fame": 4,
+   "embed": true
+  },
+  "p047": {
+   "yt": "XtsfJgOlMjc",
+   "start": 83,
+   "date": "1979-01-01",
+   "year": 1979,
+   "sport": "College football",
+   "title": "Joe Montana's comeback for Notre Dame in the Cotton Bowl (vs. Houston)",
+   "fame": 3,
+   "embed": true
+  },
+  "p048": {
+   "yt": "VbO2wlxYeWw",
+   "start": 0,
+   "date": "1979-01-21",
+   "year": 1979,
+   "sport": "NFL",
+   "title": "Jackie Smith's dropped touchdown pass in Super Bowl XIII (Cowboys vs. Steelers)",
+   "fame": 3,
+   "embed": true
+  },
+  "p049": {
+   "yt": "hHYVRI5sMco",
+   "start": 14,
+   "date": "1979-02-18",
+   "year": 1979,
+   "sport": "Motorsport",
+   "title": "The Daytona 500 ends in a fight on the infield (Allison brothers vs. Yarborough)",
+   "fame": 4,
+   "embed": true
+  },
+  "p050": {
+   "yt": "uZDbhkX2t9A",
+   "start": 209,
+   "date": "1979-03-26",
+   "year": 1979,
+   "sport": "College basketball",
+   "title": "Magic Johnson and Larry Bird meet in the NCAA title game (Michigan State vs. Indiana State)",
+   "fame": 5,
+   "embed": true
+  },
+  "p051": {
+   "yt": "NWCRu-yVEFU",
+   "start": 0,
+   "date": "1979-07-12",
+   "year": 1979,
+   "sport": "MLB",
+   "title": "Disco Demolition Night at Comiskey Park",
+   "fame": 4,
+   "embed": true
+  },
+  "p052": {
+   "yt": "wDTLOmeW_38",
+   "start": 0,
+   "date": "1979-10-17",
+   "year": 1979,
+   "sport": "MLB",
+   "title": "Willie Stargell and the Pirates win Game 7 of the World Series (Pirates vs. Orioles)",
+   "fame": 4,
+   "embed": true
+  },
+  "p053": {
+   "yt": "b5lyICNIOrg",
+   "start": 0,
+   "date": "1972-12-02",
+   "year": 1972,
+   "sport": "College football",
+   "title": "Auburn blocks two punts to beat Alabama, \"Punt Bama Punt\"",
+   "fame": 3,
+   "embed": true
+  },
+  "p054": {
+   "yt": "I_WsJZv8XLo",
+   "start": 268,
+   "date": "1977-11-19",
+   "year": 1977,
+   "sport": "College football",
+   "title": "Jerry Butler's twisting touchdown catch beats South Carolina (Clemson vs. South Carolina)",
+   "fame": 2,
+   "embed": true
+  },
+  "p055": {
+   "yt": "HmoIjMr1BZs",
+   "start": 27,
+   "date": "1978-12-29",
+   "year": 1978,
+   "sport": "College football",
+   "title": "Woody Hayes punches a Clemson player in the Gator Bowl",
+   "fame": 5,
+   "embed": true
+  },
+  "p056": {
+   "yt": "jDGTCOCi4ec",
+   "start": 0,
+   "date": "1980-01-20",
+   "year": 1980,
+   "sport": "NFL",
+   "title": "Bradshaw's 73-yard touchdown pass to Stallworth in Super Bowl XIV",
+   "fame": 3,
+   "embed": true
+  },
+  "p057": {
+   "yt": "aJ6itnbs7Yg",
+   "start": 0,
+   "date": "1980-02-22",
+   "year": 1980,
+   "sport": "Olympics",
+   "title": "Miracle on Ice: USA beats the USSR at Lake Placid",
+   "fame": 5,
+   "embed": true
+  },
+  "p058": {
+   "yt": "b81a39Q43PY",
+   "start": 0,
+   "date": "1980-04-21",
+   "year": 1980,
+   "sport": "Other",
+   "title": "Rosie Ruiz \"wins\" the Boston Marathon",
+   "fame": 3,
+   "embed": true
+  },
+  "p059": {
+   "yt": "84n4yI9asYQ",
+   "start": 0,
+   "date": "1980-05-07",
+   "year": 1980,
+   "sport": "NBA",
+   "title": "Dr. J's baseline scoop shot (Sixers vs. Lakers, Finals Game 4)",
+   "fame": 4,
+   "embed": true
+  },
+  "p060": {
+   "yt": "OyonwHpzy0A",
+   "start": 0,
+   "date": "1980-05-24",
+   "year": 1980,
+   "sport": "NHL",
+   "title": "Bob Nystrom's overtime goal wins the Islanders' first Stanley Cup",
+   "fame": 3,
+   "embed": true
+  },
+  "p061": {
+   "yt": "lg5O8nrrI3w",
+   "start": 4,
+   "date": "1980-07-05",
+   "year": 1980,
+   "sport": "Tennis",
+   "title": "Borg beats McEnroe in the Wimbledon final, the 18-16 tiebreak",
+   "fame": 5,
+   "embed": true
+  },
+  "p062": {
+   "yt": "lPcFeaLLltY",
+   "start": 0,
+   "date": "1980-10-21",
+   "year": 1980,
+   "sport": "MLB",
+   "title": "Tug McGraw strikes out Willie Wilson to clinch the World Series (Phillies vs. Royals)",
+   "fame": 3,
+   "embed": true
+  },
+  "p063": {
+   "yt": "U_gmZn9YlXs",
+   "start": 0,
+   "date": "1980-11-25",
+   "year": 1980,
+   "sport": "Boxing",
+   "title": "Roberto Durán says \"No más\" against Sugar Ray Leonard",
+   "fame": 5,
+   "embed": true
+  },
+  "p064": {
+   "yt": "9bpov_D1m7g",
+   "start": 0,
+   "date": "1982-01-02",
+   "year": 1982,
+   "sport": "NFL",
+   "title": "Epic in Miami: Chargers vs. Dolphins, Kellen Winslow blocks the field goal",
+   "fame": 4,
+   "embed": true
+  },
+  "p065": {
+   "yt": "vsEAnDkhG7E",
+   "start": 0,
+   "date": "1982-01-10",
+   "year": 1982,
+   "sport": "NFL",
+   "title": "\"The Catch\": Joe Montana to Dwight Clark (49ers vs. Cowboys)",
+   "fame": 5,
+   "embed": true
+  },
+  "p066": {
+   "yt": "gnlWgqfB-Vs",
+   "start": 0,
+   "date": "1982-02-24",
+   "year": 1982,
+   "sport": "NHL",
+   "title": "Gretzky breaks Phil Esposito's goal record with his 77th",
+   "fame": 3,
+   "embed": true
+  },
+  "p067": {
+   "yt": "bu0aTFCE1Zc",
+   "start": 0,
+   "date": "1982-03-29",
+   "year": 1982,
+   "sport": "College basketball",
+   "title": "Michael Jordan hits the title-winning jumper for North Carolina (NCAA vs. Georgetown)",
+   "fame": 5,
+   "embed": true
+  },
+  "p068": {
+   "yt": "DO6qIg7aInw",
+   "start": 0,
+   "date": "1982-06-20",
+   "year": 1982,
+   "sport": "Golf",
+   "title": "Tom Watson's chip-in on 17 at Pebble Beach (U.S. Open)",
+   "fame": 4,
+   "embed": true
+  },
+  "p069": {
+   "yt": "tGq7VcaHoqo",
+   "start": 20,
+   "date": "1982-07-08",
+   "year": 1982,
+   "sport": "Soccer",
+   "title": "Schumacher's brutal foul on Battiston (West Germany vs. France, World Cup)",
+   "fame": 3,
+   "embed": true
+  },
+  "p070": {
+   "yt": "7XOL8o-3TZ8",
+   "start": 0,
+   "date": "1982-07-11",
+   "year": 1982,
+   "sport": "Soccer",
+   "title": "Marco Tardelli's celebration in the World Cup final (Italy vs. West Germany)",
+   "fame": 4,
+   "embed": true
+  },
+  "p071": {
+   "yt": "mfebpLfAt8g",
+   "start": 5,
+   "date": "1982-11-20",
+   "year": 1982,
+   "sport": "College football",
+   "title": "Cal vs. Stanford: \"The Play\"",
+   "fame": 5,
+   "embed": true
+  },
+  "p072": {
+   "yt": "PpGRoBw59ms",
+   "start": 0,
+   "date": "1983-01-03",
+   "year": 1983,
+   "sport": "NFL",
+   "title": "Tony Dorsett's 99-yard touchdown run (Cowboys vs. Vikings)",
+   "fame": 3,
+   "embed": true
+  },
+  "p073": {
+   "yt": "UOue5GrL5pg",
+   "start": 0,
+   "date": "1983-01-30",
+   "year": 1983,
+   "sport": "NFL",
+   "title": "John Riggins' 43-yard run on 4th-and-1 (Super Bowl XVII)",
+   "fame": 3,
+   "embed": true
+  },
+  "p074": {
+   "yt": "rGfDRlEDs34",
+   "start": 0,
+   "date": "1983-04-04",
+   "year": 1983,
+   "sport": "College basketball",
+   "title": "Lorenzo Charles's dunk wins the NCAA title for NC State (Jim Valvano)",
+   "fame": 5,
+   "embed": true
+  },
+  "p075": {
+   "yt": "HSTMFcUg67Y",
+   "start": 0,
+   "date": "1983-07-06",
+   "year": 1983,
+   "sport": "MLB",
+   "title": "Fred Lynn's grand slam in the All-Star Game",
+   "fame": 3,
+   "embed": true
+  },
+  "p076": {
+   "yt": "gbEHAsZxRYo",
+   "start": 0,
+   "date": "1983-07-24",
+   "year": 1983,
+   "sport": "MLB",
+   "title": "George Brett's \"Pine Tar Game\" home run",
+   "fame": 4,
+   "embed": true
+  },
+  "p077": {
+   "yt": "pIRgXCB_sQE",
+   "start": 0,
+   "date": "1984-01-02",
+   "year": 1984,
+   "sport": "College football",
+   "title": "Nebraska's \"Fumblerooski\" (Orange Bowl, Nebraska vs. Miami)",
+   "fame": 4,
+   "embed": true
+  },
+  "p078": {
+   "yt": "avS5h5tC8P8",
+   "start": 0,
+   "date": "1984-01-22",
+   "year": 1984,
+   "sport": "NFL",
+   "title": "Marcus Allen's 74-yard run in Super Bowl XVIII",
+   "fame": 3,
+   "embed": true
+  },
+  "p079": {
+   "yt": "KNCSij0hUp8",
+   "start": 29,
+   "date": "1984-02-14",
+   "year": 1984,
+   "sport": "Olympics",
+   "title": "Torvill and Dean's Bolero at the Sarajevo Olympics",
+   "fame": 4,
+   "embed": true
+  },
+  "p080": {
+   "yt": "K06R3Te4HAc",
+   "start": 0,
+   "date": "1984-04-05",
+   "year": 1984,
+   "sport": "NBA",
+   "title": "Kareem passes Wilt as the NBA's all-time leading scorer",
+   "fame": 4,
+   "embed": true
+  },
+  "p081": {
+   "yt": "_XEp_ElQThU",
+   "start": 0,
+   "date": "1984-06-23",
+   "year": 1984,
+   "sport": "MLB",
+   "title": "The \"Sandberg Game\": Ryne Sandberg's two game-tying homers (Cubs vs. Cardinals)",
+   "fame": 3,
+   "embed": true
+  },
+  "p082": {
+   "yt": "Sya66z4mCiA",
+   "start": 0,
+   "date": "1984-08-03",
+   "year": 1984,
+   "sport": "Olympics",
+   "title": "Mary Lou Retton's perfect 10 on the vault (Los Angeles Olympics)",
+   "fame": 4,
+   "embed": true
+  },
+  "p083": {
+   "yt": "q3ykWbu2Gl0",
+   "start": 2,
+   "date": "1984-11-23",
+   "year": 1984,
+   "sport": "College football",
+   "title": "Hail Flutie: Doug Flutie's Hail Mary beats Miami",
+   "fame": 5,
+   "embed": true
+  },
+  "p084": {
+   "yt": "Y5M1aR5pCgA",
+   "start": 4,
+   "date": "1985-07-07",
+   "year": 1985,
+   "sport": "Tennis",
+   "title": "Boris Becker wins Wimbledon at 17",
+   "fame": 4,
+   "embed": true
+  },
+  "p085": {
+   "yt": "fIOAXOpiHJo",
+   "start": 0,
+   "date": "1985-07-11",
+   "year": 1985,
+   "sport": "MLB",
+   "title": "Nolan Ryan strikes out his 4,000th batter",
+   "fame": 3,
+   "embed": true
+  },
+  "p086": {
+   "yt": "Ua5B6Zpga7c",
+   "start": 0,
+   "date": "1985-09-11",
+   "year": 1985,
+   "sport": "MLB",
+   "title": "Pete Rose breaks Ty Cobb's hit record with No. 4,192",
+   "fame": 4,
+   "embed": true
+  },
+  "p087": {
+   "yt": "L4PB0XoLbm8",
+   "start": 0,
+   "date": "1985-10-14",
+   "year": 1985,
+   "sport": "MLB",
+   "title": "Ozzie Smith's walk-off home run, \"Go crazy, folks!\" (NLCS Game 5)",
+   "fame": 3,
+   "embed": true
+  },
+  "p088": {
+   "yt": "vyt1xEvqqow",
+   "start": 0,
+   "date": "1985-10-26",
+   "year": 1985,
+   "sport": "MLB",
+   "title": "Don Denkinger's blown call in the World Series (Cardinals vs. Royals)",
+   "fame": 4,
+   "embed": true
+  },
+  "p089": {
+   "yt": "JXx7NtCspDE",
+   "start": 0,
+   "date": "1985-11-18",
+   "year": 1985,
+   "sport": "NFL",
+   "title": "Joe Theismann's leg injury (Lawrence Taylor)",
+   "fame": 3,
+   "embed": true
+  },
+  "p090": {
+   "yt": "AeUn-V1GD20",
+   "start": 0,
+   "date": "1986-01-26",
+   "year": 1986,
+   "sport": "NFL",
+   "title": "William Perry's rushing touchdown in Super Bowl XX (Bears vs. Patriots)",
+   "fame": 3,
+   "embed": true
+  },
+  "p091": {
+   "yt": "jSAGDr4kmf0",
+   "start": 944,
+   "date": "1986-02-08",
+   "year": 1986,
+   "sport": "NBA",
+   "title": "Spud Webb wins the Slam Dunk Contest",
+   "fame": 3,
+   "embed": true
+  },
+  "p092": {
+   "yt": "iCxdiHOd8sU",
+   "start": 0,
+   "date": "1986-04-13",
+   "year": 1986,
+   "sport": "Golf",
+   "title": "Jack Nicklaus wins his sixth Masters at age 46",
+   "fame": 4,
+   "embed": true
+  },
+  "p093": {
+   "yt": "-o1YnMQG6pY",
+   "start": 182,
+   "date": "1986-04-29",
+   "year": 1986,
+   "sport": "MLB",
+   "title": "Roger Clemens strikes out 20 batters",
+   "fame": 4,
+   "embed": true
+  },
+  "p094": {
+   "yt": "-ccNkksrfls",
+   "start": 0,
+   "date": "1986-06-22",
+   "year": 1986,
+   "sport": "Soccer",
+   "title": "Maradona's \"Hand of God\" (Argentina vs. England)",
+   "fame": 5,
+   "embed": true
+  },
+  "p095": {
+   "yt": "1wVho3I0NtU",
+   "start": 20,
+   "date": "1986-06-22",
+   "year": 1986,
+   "sport": "Soccer",
+   "title": "Maradona's goal of the century (Argentina vs. England)",
+   "fame": 5,
+   "embed": true
+  },
+  "p096": {
+   "yt": "fwJIeoH9u1k",
+   "start": 6439,
+   "date": "1986-07-27",
+   "year": 1986,
+   "sport": "Cycling",
+   "title": "Greg LeMond becomes the first American to win the Tour de France",
+   "fame": 3,
+   "embed": true
+  },
+  "p097": {
+   "yt": "7ujwjqIldwU",
+   "start": 251,
+   "date": "1986-10-25",
+   "year": 1986,
+   "sport": "MLB",
+   "title": "Bill Buckner's error in Game 6 of the World Series (Red Sox vs. Mets)",
+   "fame": 5,
+   "embed": true
+  },
+  "p098": {
+   "yt": "5nUrLHRrVOg",
+   "start": 416,
+   "date": "1986-11-22",
+   "year": 1986,
+   "sport": "Boxing",
+   "title": "Mike Tyson becomes the youngest heavyweight champion",
+   "fame": 4,
+   "embed": true
+  },
+  "p099": {
+   "yt": "saOJL6m70G0",
+   "start": 695,
+   "date": "1987-01-02",
+   "year": 1987,
+   "sport": "College football",
+   "title": "Penn State's goal-line interception beats Miami in the Fiesta Bowl",
+   "fame": 3,
+   "embed": true
+  },
+  "p100": {
+   "yt": "wSRfwJlnuBM",
+   "start": 5,
+   "date": "1987-01-11",
+   "year": 1987,
+   "sport": "NFL",
+   "title": "John Elway and \"The Drive\" (Broncos vs. Browns)",
+   "fame": 5,
+   "embed": true
+  },
+  "p101": {
+   "yt": "v1k62_1g7b0",
+   "start": 0,
+   "date": "1987-04-12",
+   "year": 1987,
+   "sport": "Golf",
+   "title": "Larry Mize's chip-in wins the Masters over Greg Norman",
+   "fame": 5,
+   "embed": true
+  },
+  "p102": {
+   "yt": "j1Du029dnpM",
+   "start": 0,
+   "date": "1987-05-26",
+   "year": 1987,
+   "sport": "NBA",
+   "title": "Larry Bird steals Isiah Thomas's inbound pass (Celtics vs. Pistons, Game 5)",
+   "fame": 5,
+   "embed": true
+  },
+  "p103": {
+   "yt": "lUgCALCDAws",
+   "start": 15,
+   "date": "1987-06-09",
+   "year": 1987,
+   "sport": "NBA",
+   "title": "Magic Johnson's \"junior skyhook\" wins Game 4 (Lakers vs. Celtics)",
+   "fame": 4,
+   "embed": true
+  },
+  "p104": {
+   "yt": "Frtft0LUMiE",
+   "start": 0,
+   "date": "1987-09-15",
+   "year": 1987,
+   "sport": "NHL",
+   "title": "Gretzky and Lemieux connect to win the Canada Cup",
+   "fame": 4,
+   "embed": true
+  },
+  "p105": {
+   "yt": "TnDlFKTNkeE",
+   "start": 0,
+   "date": "1987-11-30",
+   "year": 1987,
+   "sport": "NFL",
+   "title": "Bo Jackson runs over Brian Bosworth on Monday Night",
+   "fame": 4,
+   "embed": false
+  },
+  "p106": {
+   "yt": "rzQAC8kPJxo",
+   "start": 0,
+   "date": "1988-02-06",
+   "year": 1988,
+   "sport": "NBA",
+   "title": "Michael Jordan's free-throw-line dunk in the Slam Dunk Contest",
+   "fame": 5,
+   "embed": true
+  },
+  "p107": {
+   "yt": "M1aWFW8bOpo",
+   "start": 29,
+   "date": "1988-02-26",
+   "year": 1988,
+   "sport": "Olympics",
+   "title": "The Jamaican bobsled team crashes at the Calgary Olympics",
+   "fame": 3,
+   "embed": true
+  },
+  "p108": {
+   "yt": "Ly3mSsHg9T0",
+   "start": 6,
+   "date": "1988-06-25",
+   "year": 1988,
+   "sport": "Soccer",
+   "title": "Marco van Basten's volley in the Euro final (Netherlands vs. USSR)",
+   "fame": 4,
+   "embed": false
+  },
+  "p109": {
+   "yt": "Y3cWsOOoiAs",
+   "start": 0,
+   "date": "1988-06-27",
+   "year": 1988,
+   "sport": "Boxing",
+   "title": "Tyson knocks out Michael Spinks in 91 seconds",
+   "fame": 4,
+   "embed": true
+  },
+  "p110": {
+   "yt": "ftDnsxLAfaM",
+   "start": 8,
+   "date": "1988-09-10",
+   "year": 1988,
+   "sport": "Tennis",
+   "title": "Steffi Graf completes the Golden Slam at the U.S. Open",
+   "fame": 3,
+   "embed": true
+  },
+  "p111": {
+   "yt": "8i8DbrXtubg",
+   "start": 0,
+   "date": "1988-09-18",
+   "year": 1988,
+   "sport": "Olympics",
+   "title": "Greg Louganis hits his head on the springboard at the Seoul Olympics",
+   "fame": 4,
+   "embed": true
+  },
+  "p112": {
+   "yt": "qSRC-posIQw",
+   "start": 0,
+   "date": "1988-09-24",
+   "year": 1988,
+   "sport": "Olympics",
+   "title": "Ben Johnson wins the 100m in 9.79 at the Seoul Olympics",
+   "fame": 5,
+   "embed": true
+  },
+  "p113": {
+   "yt": "fMBsI_Uow_Q",
+   "start": 0,
+   "date": "1988-09-28",
+   "year": 1988,
+   "sport": "MLB",
+   "title": "Orel Hershiser's scoreless-inning streak ends at 59",
+   "fame": 3,
+   "embed": true
+  },
+  "p114": {
+   "yt": "0toCMwEBwLo",
+   "start": 0,
+   "date": "1988-10-15",
+   "year": 1988,
+   "sport": "MLB",
+   "title": "Kirk Gibson's pinch-hit home run, Game 1 of the World Series (Dodgers vs. A's)",
+   "fame": 5,
+   "embed": true
+  },
+  "p115": {
+   "yt": "_cTbpWYUC00",
+   "start": 10553,
+   "date": "1988-10-15",
+   "year": 1988,
+   "sport": "College football",
+   "title": "Notre Dame vs. Miami, \"Catholics vs. Convicts\"",
+   "fame": 3,
+   "embed": true
+  },
+  "p116": {
+   "yt": "KqxmYfMU2C8",
+   "start": 17,
+   "date": "1988-12-31",
+   "year": 1988,
+   "sport": "NFL",
+   "title": "The Fog Bowl (Eagles vs. Bears)",
+   "fame": 3,
+   "embed": true
+  },
+  "p117": {
+   "yt": "1iwBKvaoucs",
+   "start": 165,
+   "date": "1989-01-22",
+   "year": 1989,
+   "sport": "NFL",
+   "title": "Joe Montana drives the 49ers to the win in Super Bowl XXIII",
+   "fame": 4,
+   "embed": true
+  },
+  "p118": {
+   "yt": "dc-9GbuLA2I",
+   "start": 0,
+   "date": "1989-04-03",
+   "year": 1989,
+   "sport": "College basketball",
+   "title": "Rumeal Robinson's free throws win the NCAA title for Michigan",
+   "fame": 2,
+   "embed": true
+  },
+  "p119": {
+   "yt": "a0TKEofio7w",
+   "start": 0,
+   "date": "1989-05-07",
+   "year": 1989,
+   "sport": "NBA",
+   "title": "Michael Jordan hits \"The Shot\" over Craig Ehlo (Bulls vs. Cavaliers)",
+   "fame": 5,
+   "embed": true
+  },
+  "p120": {
+   "yt": "aAZK5PpOZOQ",
+   "start": 58,
+   "date": "1989-05-26",
+   "year": 1989,
+   "sport": "Soccer",
+   "title": "Michael Thomas's last-second goal wins Arsenal the league at Anfield",
+   "fame": 4,
+   "embed": true
+  },
+  "p121": {
+   "yt": "ZTPAUi0nFIs",
+   "start": 12418,
+   "date": "1989-06-05",
+   "year": 1989,
+   "sport": "Tennis",
+   "title": "Michael Chang's underhand serve against Ivan Lendl at the French Open",
+   "fame": 4,
+   "embed": true
+  },
+  "p122": {
+   "yt": "_ht4tDHfQn4",
+   "start": 0,
+   "date": "1989-07-11",
+   "year": 1989,
+   "sport": "MLB",
+   "title": "Bo Jackson's leadoff home run in the All-Star Game",
+   "fame": 3,
+   "embed": true
+  },
+  "p123": {
+   "yt": "8s_0zqK1hJ8",
+   "start": 0,
+   "date": "1989-10-17",
+   "year": 1989,
+   "sport": "MLB",
+   "title": "The World Series is halted by the Loma Prieta earthquake (Giants vs. Athletics)",
+   "fame": 4,
+   "embed": true
+  },
+  "p124": {
+   "yt": "ukpekodCQ-U",
+   "start": 0,
+   "date": "1985-02-23",
+   "year": 1985,
+   "sport": "College basketball",
+   "title": "Bobby Knight Ejected for Throwing Chair",
+   "fame": 4,
+   "embed": true
+  },
+  "p125": {
+   "yt": "t0hK1wyrrAU",
+   "start": 5,
+   "date": "1981-06-22",
+   "year": 1981,
+   "sport": "Tennis",
+   "title": "John McEnroe: \"You cannot be serious!\"",
+   "fame": 4,
+   "embed": true
+  },
+  "p126": {
+   "yt": "TZynr1TNV_g",
+   "start": 0,
+   "date": "1990-02-11",
+   "year": 1990,
+   "sport": "Boxing",
+   "title": "Buster Douglas knocks out Mike Tyson in Tokyo",
+   "fame": 5,
+   "embed": true
+  },
+  "p127": {
+   "yt": "ke1yRrJO6NI",
+   "start": 0,
+   "date": "1990-06-17",
+   "year": 1990,
+   "sport": "Golf",
+   "title": "Hale Irwin's victory lap after a 45-foot putt at the U.S. Open",
+   "fame": 3,
+   "embed": true
+  },
+  "p128": {
+   "yt": "su0NGYMaYgM",
+   "start": 307,
+   "date": "1990-07-04",
+   "year": 1990,
+   "sport": "Soccer",
+   "title": "Paul Gascoigne's tears after England loses on penalties (World Cup semifinal)",
+   "fame": 4,
+   "embed": true
+  },
+  "p129": {
+   "yt": "BnW6np_40A4",
+   "start": 0,
+   "date": "1990-07-08",
+   "year": 1990,
+   "sport": "Soccer",
+   "title": "Andreas Brehme's penalty wins the World Cup final for West Germany",
+   "fame": 3,
+   "embed": true
+  },
+  "p130": {
+   "yt": "6GA6AhOvjWc",
+   "start": 120,
+   "date": "1990-07-31",
+   "year": 1990,
+   "sport": "MLB",
+   "title": "Nolan Ryan wins his 300th game",
+   "fame": 3,
+   "embed": true
+  },
+  "p131": {
+   "yt": "YnzPNDHXjX8",
+   "start": 833,
+   "date": "1990-09-09",
+   "year": 1990,
+   "sport": "Tennis",
+   "title": "Pete Sampras wins the U.S. Open at 19",
+   "fame": 4,
+   "embed": true
+  },
+  "p132": {
+   "yt": "vCk1UY5Afus",
+   "start": 0,
+   "date": "1990-09-14",
+   "year": 1990,
+   "sport": "MLB",
+   "title": "Ken Griffey Sr. and Jr. homer back-to-back",
+   "fame": 4,
+   "embed": true
+  },
+  "p133": {
+   "yt": "ZQJT8q0MMwQ",
+   "start": 273,
+   "date": "1990-11-03",
+   "year": 1990,
+   "sport": "College football",
+   "title": "Colorado's \"Fifth Down\" win over Missouri",
+   "fame": 3,
+   "embed": true
+  },
+  "p134": {
+   "yt": "GVRNJnJt6hk",
+   "start": 0,
+   "date": "1991-01-27",
+   "year": 1991,
+   "sport": "NFL",
+   "title": "Scott Norwood's \"Wide Right\" field goal in Super Bowl XXV",
+   "fame": 4,
+   "embed": true
+  },
+  "p135": {
+   "yt": "HjUO7CTAebE",
+   "start": 89,
+   "date": "1991-03-30",
+   "year": 1991,
+   "sport": "College basketball",
+   "title": "Duke upsets UNLV in the Final Four",
+   "fame": 3,
+   "embed": true
+  },
+  "p136": {
+   "yt": "-qDpahnGE8U",
+   "start": 0,
+   "date": "1991-06-05",
+   "year": 1991,
+   "sport": "NBA",
+   "title": "Michael Jordan's switch-hands layup against the Lakers (NBA Finals Game 2)",
+   "fame": 4,
+   "embed": true
+  },
+  "p137": {
+   "yt": "Ir0-t5Yfq-Y",
+   "start": 0,
+   "date": "1991-06-12",
+   "year": 1991,
+   "sport": "NBA",
+   "title": "Jordan cries holding the first championship trophy",
+   "fame": 4,
+   "embed": true
+  },
+  "p138": {
+   "yt": "IP1THTfTh-g",
+   "start": 991,
+   "date": "1991-08-11",
+   "year": 1991,
+   "sport": "Golf",
+   "title": "John Daly wins the PGA Championship as the ninth alternate",
+   "fame": 4,
+   "embed": true
+  },
+  "p139": {
+   "yt": "rRD2IbYFf7o",
+   "start": 0,
+   "date": "1991-10-26",
+   "year": 1991,
+   "sport": "MLB",
+   "title": "Kirby Puckett's walk-off home run in Game 6 of the World Series",
+   "fame": 4,
+   "embed": true
+  },
+  "p140": {
+   "yt": "VYjjPIsMDlU",
+   "start": 0,
+   "date": "1991-11-23",
+   "year": 1991,
+   "sport": "College football",
+   "title": "Desmond Howard's Heisman pose",
+   "fame": 3,
+   "embed": true
+  },
+  "p141": {
+   "yt": "RyJ8cnwjYao",
+   "start": 0,
+   "date": "1992-02-21",
+   "year": 1992,
+   "sport": "Olympics",
+   "title": "Kristi Yamaguchi wins Olympic gold in figure skating",
+   "fame": 3,
+   "embed": true
+  },
+  "p142": {
+   "yt": "60kY0_I34zU",
+   "start": 0,
+   "date": "1992-03-28",
+   "year": 1992,
+   "sport": "College basketball",
+   "title": "Christian Laettner's buzzer-beater against Kentucky",
+   "fame": 5,
+   "embed": true
+  },
+  "p143": {
+   "yt": "Og6J5l9jcqQ",
+   "start": 3040,
+   "date": "1992-06-03",
+   "year": 1992,
+   "sport": "NBA",
+   "title": "Michael Jordan's \"shrug\" game (Bulls vs. Trail Blazers, Finals Game 1)",
+   "fame": 4,
+   "embed": true
+  },
+  "p144": {
+   "yt": "yrboO72eJKg",
+   "start": 209,
+   "date": "1992-08-03",
+   "year": 1992,
+   "sport": "Olympics",
+   "title": "Derek Redmond's father helps him finish the 400m (Barcelona Olympics)",
+   "fame": 4,
+   "embed": true
+  },
+  "p145": {
+   "yt": "WitZDHIIWL4",
+   "start": 377,
+   "date": "1992-08-08",
+   "year": 1992,
+   "sport": "Olympics",
+   "title": "The Dream Team wins gold in Barcelona",
+   "fame": 4,
+   "embed": true
+  },
+  "p146": {
+   "yt": "NfJ5fllfDUg",
+   "start": 0,
+   "date": "1992-09-20",
+   "year": 1992,
+   "sport": "NFL",
+   "title": "Brett Favre's first big comeback (Packers vs. Bengals)",
+   "fame": 3,
+   "embed": true
+  },
+  "p147": {
+   "yt": "PilAosY41eA",
+   "start": 0,
+   "date": "1992-10-14",
+   "year": 1992,
+   "sport": "MLB",
+   "title": "Francisco Cabrera's single and Sid Bream's slide (NLCS Game 7)",
+   "fame": 4,
+   "embed": true
+  },
+  "p148": {
+   "yt": "7NwCCrzarZs",
+   "start": 8925,
+   "date": "1993-01-03",
+   "year": 1993,
+   "sport": "NFL",
+   "title": "Frank Reich leads the Bills to the biggest comeback in NFL history",
+   "fame": 4,
+   "embed": true
+  },
+  "p149": {
+   "yt": "I4im74IJ-rM",
+   "start": 0,
+   "date": "1993-01-31",
+   "year": 1993,
+   "sport": "NFL",
+   "title": "Leon Lett's fumble recovery in Super Bowl XXVII (Cowboys vs. Bills)",
+   "fame": 4,
+   "embed": true
+  },
+  "p150": {
+   "yt": "aiJxgcka7BA",
+   "start": 40,
+   "date": "1993-04-05",
+   "year": 1993,
+   "sport": "College basketball",
+   "title": "Chris Webber calls a timeout Michigan doesn't have",
+   "fame": 5,
+   "embed": true
+  },
+  "p151": {
+   "yt": "UqGFFEc6Bng",
+   "start": 0,
+   "date": "1993-05-27",
+   "year": 1993,
+   "sport": "NHL",
+   "title": "Wayne Gretzky's high stick on Doug Gilmour goes unpunished (Kings vs. Maple Leafs)",
+   "fame": 3,
+   "embed": true
+  },
+  "p152": {
+   "yt": "4lL54S8Ww6A",
+   "start": 0,
+   "date": "1993-06-20",
+   "year": 1993,
+   "sport": "NBA",
+   "title": "John Paxson's three-pointer clinches the Bulls' three-peat",
+   "fame": 3,
+   "embed": true
+  },
+  "p153": {
+   "yt": "VIZB9O24BEE",
+   "start": 0,
+   "date": "1993-08-04",
+   "year": 1993,
+   "sport": "MLB",
+   "title": "Nolan Ryan and Robin Ventura fight",
+   "fame": 3,
+   "embed": true
+  },
+  "p154": {
+   "yt": "s-11R0f7I0g",
+   "start": 0,
+   "date": "1993-09-04",
+   "year": 1993,
+   "sport": "MLB",
+   "title": "Jim Abbott throws a no-hitter with one hand",
+   "fame": 3,
+   "embed": true
+  },
+  "p155": {
+   "yt": "-F5HwiGm7lg",
+   "start": 0,
+   "date": "1993-10-23",
+   "year": 1993,
+   "sport": "MLB",
+   "title": "Joe Carter's walk-off home run wins the World Series",
+   "fame": 5,
+   "embed": true
+  },
+  "p156": {
+   "yt": "TDYBQ9-FrLw",
+   "start": 0,
+   "date": "1993-11-06",
+   "year": 1993,
+   "sport": "Boxing",
+   "title": "Riddick Bowe-Holyfield II is interrupted by the \"Fan Man\"",
+   "fame": 4,
+   "embed": true
+  },
+  "p157": {
+   "yt": "iIbcjlzqZJU",
+   "start": 10237,
+   "date": "1993-11-13",
+   "year": 1993,
+   "sport": "College football",
+   "title": "Notre Dame beats Florida State in the \"Game of the Century\"",
+   "fame": 3,
+   "embed": true
+  },
+  "p158": {
+   "yt": "EoebUFaZViY",
+   "start": 0,
+   "date": "1993-11-25",
+   "year": 1993,
+   "sport": "NFL",
+   "title": "Leon Lett's Thanksgiving snow-game blunder (Cowboys vs. Dolphins)",
+   "fame": 3,
+   "embed": true
+  },
+  "p159": {
+   "yt": "voUMQrLy_uY",
+   "start": 4,
+   "date": "1994-01-06",
+   "year": 1994,
+   "sport": "Olympics",
+   "title": "Tonya Harding and Nancy Kerrigan",
+   "fame": 4,
+   "embed": true
+  },
+  "p160": {
+   "yt": "UiJidSIUpk8",
+   "start": 129,
+   "date": "1994-06-14",
+   "year": 1994,
+   "sport": "NHL",
+   "title": "Rangers win the Stanley Cup after 54 years",
+   "fame": 3,
+   "embed": true
+  },
+  "p161": {
+   "yt": "XJ4qF0QkcT4",
+   "start": 2,
+   "date": "1994-06-21",
+   "year": 1994,
+   "sport": "Soccer",
+   "title": "Maradona's celebration into the camera (World Cup vs. Greece)",
+   "fame": 3,
+   "embed": true
+  },
+  "p162": {
+   "yt": "lw8Hopu3Kuc",
+   "start": 0,
+   "date": "1994-06-22",
+   "year": 1994,
+   "sport": "NBA",
+   "title": "Hakeem Olajuwon blocks John Starks's shot (NBA Finals Game 6)",
+   "fame": 4,
+   "embed": true
+  },
+  "p163": {
+   "yt": "8pdHAGjKt2w",
+   "start": 0,
+   "date": "1994-07-17",
+   "year": 1994,
+   "sport": "Soccer",
+   "title": "Roberto Baggio misses the decisive penalty (World Cup final, Brazil vs. Italy)",
+   "fame": 5,
+   "embed": true
+  },
+  "p164": {
+   "yt": "58ncJj4L2jw",
+   "start": 0,
+   "date": "1994-09-24",
+   "year": 1994,
+   "sport": "College football",
+   "title": "Colorado's Hail Mary beats Michigan",
+   "fame": 4,
+   "embed": true
+  },
+  "p165": {
+   "yt": "UyfarxKyTAI",
+   "start": 0,
+   "date": "1994-11-05",
+   "year": 1994,
+   "sport": "Boxing",
+   "title": "George Foreman knocks out Michael Moorer at 45",
+   "fame": 4,
+   "embed": true
+  },
+  "p166": {
+   "yt": "02mhqOF0oi8",
+   "start": 0,
+   "date": "1994-11-27",
+   "year": 1994,
+   "sport": "NFL",
+   "title": "Dan Marino's fake spike (Dolphins vs. Jets)",
+   "fame": 3,
+   "embed": true
+  },
+  "p167": {
+   "yt": "6eOCxIPkvb8",
+   "start": 32,
+   "date": "1995-01-25",
+   "year": 1995,
+   "sport": "Soccer",
+   "title": "Eric Cantona's kung-fu kick on a fan (Crystal Palace vs. Manchester United)",
+   "fame": 4,
+   "embed": true
+  },
+  "p168": {
+   "yt": "xCZ0WPoGE-g",
+   "start": 0,
+   "date": "1995-05-07",
+   "year": 1995,
+   "sport": "NBA",
+   "title": "Reggie Miller scores eight points in 9 seconds",
+   "fame": 5,
+   "embed": true
+  },
+  "p169": {
+   "yt": "XLXyn1PBFd4",
+   "start": 0,
+   "date": "1995-09-06",
+   "year": 1995,
+   "sport": "MLB",
+   "title": "Cal Ripken Jr. breaks Lou Gehrig's consecutive games streak",
+   "fame": 5,
+   "embed": true
+  },
+  "p170": {
+   "yt": "dM5z_sCHNQw",
+   "start": 11,
+   "date": "1996-04-14",
+   "year": 1996,
+   "sport": "Golf",
+   "title": "Greg Norman's final-round collapse at the Masters",
+   "fame": 5,
+   "embed": true
+  },
+  "p171": {
+   "yt": "JWv-Q8Nzqz0",
+   "start": 0,
+   "date": "1996-06-10",
+   "year": 1996,
+   "sport": "NHL",
+   "title": "Avalanche win the Stanley Cup in triple overtime",
+   "fame": 2,
+   "embed": true
+  },
+  "p172": {
+   "yt": "raKOes8GZAA",
+   "start": 121,
+   "date": "1996-06-15",
+   "year": 1996,
+   "sport": "Soccer",
+   "title": "Paul Gascoigne's goal against Scotland (Euro 96)",
+   "fame": 3,
+   "embed": true
+  },
+  "p173": {
+   "yt": "DfLWeP6XnFg",
+   "start": 0,
+   "date": "1996-06-16",
+   "year": 1996,
+   "sport": "NBA",
+   "title": "Bulls win the title on Father's Day, Jordan cries on the locker room floor",
+   "fame": 3,
+   "embed": true
+  },
+  "p174": {
+   "yt": "3EiE7eLWI_M",
+   "start": 109,
+   "date": "1996-06-26",
+   "year": 1996,
+   "sport": "Soccer",
+   "title": "Gareth Southgate misses a penalty in the Euro 96 semifinal",
+   "fame": 3,
+   "embed": false
+  },
+  "p175": {
+   "yt": "80wMMFAcweQ",
+   "start": 3,
+   "date": "1996-07-19",
+   "year": 1996,
+   "sport": "Olympics",
+   "title": "Muhammad Ali lights the Olympic cauldron (Atlanta)",
+   "fame": 5,
+   "embed": true
+  },
+  "p176": {
+   "yt": "cqUjo_rOxYc",
+   "start": 78,
+   "date": "1996-07-23",
+   "year": 1996,
+   "sport": "Olympics",
+   "title": "Kerri Strug lands the vault on an injured ankle (Atlanta)",
+   "fame": 5,
+   "embed": true
+  },
+  "p177": {
+   "yt": "W7_NCGWvOcI",
+   "start": 0,
+   "date": "1996-07-27",
+   "year": 1996,
+   "sport": "Olympics",
+   "title": "Donovan Bailey wins the 100m in 9.84 (Atlanta)",
+   "fame": 3,
+   "embed": true
+  },
+  "p178": {
+   "yt": "WgQVnQ8_C0E",
+   "start": 0,
+   "date": "1996-08-01",
+   "year": 1996,
+   "sport": "Olympics",
+   "title": "Michael Johnson runs 19.32 in the 200m in golden shoes (Atlanta)",
+   "fame": 4,
+   "embed": true
+  },
+  "p179": {
+   "yt": "YVNlvnsQ828",
+   "start": 7,
+   "date": "1996-10-09",
+   "year": 1996,
+   "sport": "MLB",
+   "title": "Jeffrey Maier's catch helps Derek Jeter's home run (ALCS Game 1)",
+   "fame": 4,
+   "embed": true
+  },
+  "p180": {
+   "yt": "G_fM3OIbua4",
+   "start": 0,
+   "date": "1996-11-09",
+   "year": 1996,
+   "sport": "Boxing",
+   "title": "Evander Holyfield stops Mike Tyson",
+   "fame": 4,
+   "embed": true
+  },
+  "p181": {
+   "yt": "cmsC1bVtbx4",
+   "start": 0,
+   "date": "1997-01-26",
+   "year": 1997,
+   "sport": "NFL",
+   "title": "Desmond Howard's kickoff return in Super Bowl XXXI",
+   "fame": 3,
+   "embed": true
+  },
+  "p182": {
+   "yt": "jYjhaTG49Ws",
+   "start": 0,
+   "date": "1997-03-26",
+   "year": 1997,
+   "sport": "NHL",
+   "title": "Red Wings and Avalanche brawl",
+   "fame": 3,
+   "embed": true
+  },
+  "p183": {
+   "yt": "t2ufOethOv8",
+   "start": 0,
+   "date": "1997-04-13",
+   "year": 1997,
+   "sport": "Golf",
+   "title": "Tiger Woods wins his first Masters by 12 strokes",
+   "fame": 5,
+   "embed": true
+  },
+  "p184": {
+   "yt": "YIzrYcgfOH4",
+   "start": 147,
+   "date": "1997-06-11",
+   "year": 1997,
+   "sport": "NBA",
+   "title": "Michael Jordan's \"Flu Game\"",
+   "fame": 5,
+   "embed": true
+  },
+  "p185": {
+   "yt": "zKPMVex-UKk",
+   "start": 0,
+   "date": "1997-06-28",
+   "year": 1997,
+   "sport": "Boxing",
+   "title": "Mike Tyson bites Evander Holyfield's ear",
+   "fame": 5,
+   "embed": true
+  },
+  "p186": {
+   "yt": "2FR5c8p1GCI",
+   "start": 0,
+   "date": "1997-10-26",
+   "year": 1997,
+   "sport": "MLB",
+   "title": "Edgar Renteria's walk-off single wins Game 7 of the World Series (Marlins vs. Indians)",
+   "fame": 3,
+   "embed": true
+  },
+  "p187": {
+   "yt": "CHsdu7dOT0o",
+   "start": 0,
+   "date": "1998-01-25",
+   "year": 1998,
+   "sport": "NFL",
+   "title": "John Elway's helicopter spin in Super Bowl XXXII",
+   "fame": 4,
+   "embed": true
+  },
+  "p188": {
+   "yt": "O_F3KyllNdg",
+   "start": 59,
+   "date": "1998-02-15",
+   "year": 1998,
+   "sport": "Motorsport",
+   "title": "Dale Earnhardt finally wins the Daytona 500",
+   "fame": 5,
+   "embed": true
+  },
+  "p189": {
+   "yt": "U3qpzl3YYeM",
+   "start": 0,
+   "date": "1998-03-13",
+   "year": 1998,
+   "sport": "College basketball",
+   "title": "Bryce Drew's buzzer-beater for Valparaiso",
+   "fame": 4,
+   "embed": true
+  },
+  "p190": {
+   "yt": "KLV7xZPwvM0",
+   "start": 131,
+   "date": "1998-06-06",
+   "year": 1998,
+   "sport": "Horse racing",
+   "title": "Real Quiet loses the Triple Crown by a nose at the Belmont",
+   "fame": 3,
+   "embed": true
+  },
+  "p191": {
+   "yt": "MlzL6bT1C2U",
+   "start": 0,
+   "date": "1998-06-14",
+   "year": 1998,
+   "sport": "NBA",
+   "title": "Michael Jordan's last shot as a Bull (NBA Finals Game 6)",
+   "fame": 5,
+   "embed": true
+  },
+  "p192": {
+   "yt": "zWsEuczNj48",
+   "start": 0,
+   "date": "1998-06-30",
+   "year": 1998,
+   "sport": "Soccer",
+   "title": "David Beckham is sent off against Argentina (World Cup)",
+   "fame": 4,
+   "embed": true
+  },
+  "p193": {
+   "yt": "XsZkCFoqSBs",
+   "start": 8,
+   "date": "1998-07-04",
+   "year": 1998,
+   "sport": "Soccer",
+   "title": "Dennis Bergkamp's goal against Argentina (World Cup)",
+   "fame": 3,
+   "embed": true
+  },
+  "p194": {
+   "yt": "2TiO-6VmDRk",
+   "start": 0,
+   "date": "1998-09-08",
+   "year": 1998,
+   "sport": "MLB",
+   "title": "Mark McGwire hits home run No. 62",
+   "fame": 5,
+   "embed": true
+  },
+  "p195": {
+   "yt": "fXa8j_xbv80",
+   "start": 0,
+   "date": "1999-01-03",
+   "year": 1999,
+   "sport": "NFL",
+   "title": "Steve Young to Terrell Owens: \"The Catch II\"",
+   "fame": 3,
+   "embed": true
+  },
+  "p196": {
+   "yt": "o7eXlLooPHE",
+   "start": 6797,
+   "date": "1999-01-17",
+   "year": 1999,
+   "sport": "NFL",
+   "title": "Gary Anderson's missed field goal for the Vikings in the NFC title game",
+   "fame": 4,
+   "embed": true
+  },
+  "p197": {
+   "yt": "oTgaI5QbNLc",
+   "start": 370,
+   "date": "1999-05-26",
+   "year": 1999,
+   "sport": "Soccer",
+   "title": "Manchester United completes the Treble with injury-time goals in Barcelona",
+   "fame": 5,
+   "embed": true
+  },
+  "p198": {
+   "yt": "MNr0gR_UdPA",
+   "start": 80,
+   "date": "1999-06-19",
+   "year": 1999,
+   "sport": "NHL",
+   "title": "Brett Hull's controversial skate in the crease (Stanley Cup Final, Stars vs. Sabres)",
+   "fame": 4,
+   "embed": true
+  },
+  "p199": {
+   "yt": "Q87TbZgYZuc",
+   "start": 77,
+   "date": "1999-06-20",
+   "year": 1999,
+   "sport": "Golf",
+   "title": "Payne Stewart's putt wins the U.S. Open",
+   "fame": 4,
+   "embed": true
+  },
+  "p200": {
+   "yt": "arW_Rnh41cE",
+   "start": 318,
+   "date": "1999-07-10",
+   "year": 1999,
+   "sport": "Soccer",
+   "title": "Brandi Chastain's shirt-off celebration (Women's World Cup final)",
+   "fame": 5,
+   "embed": true
+  },
+  "p201": {
+   "yt": "Taw0BloL8ns",
+   "start": 0,
+   "date": "1999-08-06",
+   "year": 1999,
+   "sport": "MLB",
+   "title": "Tony Gwynn gets his 3,000th hit",
+   "fame": 3,
+   "embed": true
+  },
+  "p202": {
+   "yt": "CSOFz2XRJbs",
+   "start": 5063,
+   "date": "1999-09-11",
+   "year": 1999,
+   "sport": "Tennis",
+   "title": "Serena Williams wins her first Grand Slam at the U.S. Open",
+   "fame": 3,
+   "embed": true
+  },
+  "p203": {
+   "yt": "0PoJ5el9Oug",
+   "start": 0,
+   "date": "1999-09-26",
+   "year": 1999,
+   "sport": "Golf",
+   "title": "Justin Leonard's putt at the Ryder Cup, \"The Battle of Brookline\"",
+   "fame": 5,
+   "embed": true
+  },
+  "p204": {
+   "yt": "gne8XzwEqTY",
+   "start": 0,
+   "date": "2000-01-08",
+   "year": 2000,
+   "sport": "NFL",
+   "title": "The Music City Miracle (Titans vs. Bills)",
+   "fame": 5,
+   "embed": true
+  },
+  "p205": {
+   "yt": "Hx0tlnRXa-0",
+   "start": 0,
+   "date": "2000-01-30",
+   "year": 2000,
+   "sport": "NFL",
+   "title": "Mike Jones tackles Kevin Dyson one yard short in Super Bowl XXXIV",
+   "fame": 4,
+   "embed": true
+  },
+  "p206": {
+   "yt": "H8BSSCnSYds",
+   "start": 0,
+   "date": "2000-02-12",
+   "year": 2000,
+   "sport": "NBA",
+   "title": "Vince Carter's Slam Dunk Contest performance",
+   "fame": 5,
+   "embed": true
+  },
+  "p207": {
+   "yt": "sKhIDYJdsQY",
+   "start": 0,
+   "date": "2000-06-04",
+   "year": 2000,
+   "sport": "NBA",
+   "title": "Kobe to Shaq alley-oop in Game 7 of the Western Conference Finals",
+   "fame": 4,
+   "embed": true
+  },
+  "p208": {
+   "yt": "NA9M5G_KPe8",
+   "start": 145,
+   "date": "2000-06-10",
+   "year": 2000,
+   "sport": "NHL",
+   "title": "Devils win the Stanley Cup in double overtime",
+   "fame": 2,
+   "embed": true
+  },
+  "p209": {
+   "yt": "DhmL3zUWuBw",
+   "start": 153,
+   "date": "2000-06-18",
+   "year": 2000,
+   "sport": "Golf",
+   "title": "Tiger Woods wins the U.S. Open at Pebble Beach by 15 strokes",
+   "fame": 5,
+   "embed": true
+  },
+  "p210": {
+   "yt": "knul03Emmwk",
+   "start": 68,
+   "date": "2000-07-02",
+   "year": 2000,
+   "sport": "Soccer",
+   "title": "Euro 2000: Trezeguet's golden goal beats Italy",
+   "fame": 3,
+   "embed": false
+  },
+  "p211": {
+   "yt": "r0ZePJy_nZw",
+   "start": 0,
+   "date": "2000-09-19",
+   "year": 2000,
+   "sport": "Olympics",
+   "title": "Eric Moussambani \"the Eel\" swims the 100m freestyle in Sydney",
+   "fame": 3,
+   "embed": true
+  },
+  "p212": {
+   "yt": "ypoR-dblkgk",
+   "start": 42,
+   "date": "2000-09-25",
+   "year": 2000,
+   "sport": "Olympics",
+   "title": "Cathy Freeman wins the 400m in Sydney",
+   "fame": 4,
+   "embed": true
+  },
+  "p213": {
+   "yt": "k_uZeCymShQ",
+   "start": 0,
+   "date": "2000-09-25",
+   "year": 2000,
+   "sport": "Olympics",
+   "title": "Vince Carter dunks over a 7-foot-2 defender in Sydney",
+   "fame": 5,
+   "embed": true
+  },
+  "p214": {
+   "yt": "oVT3-wbL8HU",
+   "start": 678,
+   "date": "2000-09-27",
+   "year": 2000,
+   "sport": "Olympics",
+   "title": "Rulon Gardner upsets Alexander Karelin in Greco-Roman wrestling",
+   "fame": 4,
+   "embed": true
+  },
+  "p215": {
+   "yt": "QNTWUPsPrJ8",
+   "start": 0,
+   "date": "2000-10-22",
+   "year": 2000,
+   "sport": "MLB",
+   "title": "Mike Piazza and Roger Clemens' broken-bat incident in the World Series",
+   "fame": 4,
+   "embed": true
+  },
+  "p216": {
+   "yt": "yJGjNsEiqbU",
+   "start": 182,
+   "date": "2001-04-08",
+   "year": 2001,
+   "sport": "Golf",
+   "title": "Tiger Woods completes the \"Tiger Slam\" at the Masters",
+   "fame": 4,
+   "embed": true
+  },
+  "p217": {
+   "yt": "q37HY5nYxaQ",
+   "start": 1148,
+   "date": "2001-04-22",
+   "year": 2001,
+   "sport": "Boxing",
+   "title": "Hasim Rahman knocks out Lennox Lewis",
+   "fame": 3,
+   "embed": true
+  },
+  "p218": {
+   "yt": "3emK-oy0LyQ",
+   "start": 0,
+   "date": "2001-05-13",
+   "year": 2001,
+   "sport": "NBA",
+   "title": "Vince Carter misses the Game 7 buzzer-beater against the 76ers",
+   "fame": 3,
+   "embed": true
+  },
+  "p219": {
+   "yt": "nZ-IGlZKECI",
+   "start": 0,
+   "date": "2001-06-06",
+   "year": 2001,
+   "sport": "NBA",
+   "title": "Allen Iverson steps over Tyronn Lue in the NBA Finals",
+   "fame": 5,
+   "embed": true
+  },
+  "p220": {
+   "yt": "oOJYXj_ugv8",
+   "start": 0,
+   "date": "2001-06-09",
+   "year": 2001,
+   "sport": "NHL",
+   "title": "Colorado Avalanche win the Stanley Cup, Ray Bourque lifts it",
+   "fame": 4,
+   "embed": true
+  },
+  "p221": {
+   "yt": "hQhH6yZ8lxw",
+   "start": 0,
+   "date": "2001-09-21",
+   "year": 2001,
+   "sport": "MLB",
+   "title": "Mike Piazza's home run in the first game back after 9/11",
+   "fame": 4,
+   "embed": true
+  },
+  "p222": {
+   "yt": "meyHJMjJE_8",
+   "start": 0,
+   "date": "2001-10-06",
+   "year": 2001,
+   "sport": "MLB",
+   "title": "Cal Ripken Jr. plays his final game",
+   "fame": 3,
+   "embed": true
+  },
+  "p223": {
+   "yt": "zosM9cKCqos",
+   "start": 0,
+   "date": "2001-10-07",
+   "year": 2001,
+   "sport": "MLB",
+   "title": "Barry Bonds hits home run No. 73",
+   "fame": 5,
+   "embed": true
+  },
+  "p224": {
+   "yt": "P5qW27Xj7EU",
+   "start": 3,
+   "date": "2001-10-13",
+   "year": 2001,
+   "sport": "MLB",
+   "title": "Derek Jeter's \"Flip Play\" (Athletics vs. Yankees, ALDS Game 3)",
+   "fame": 5,
+   "embed": true
+  },
+  "p225": {
+   "yt": "V6jWXg6orGQ",
+   "start": 0,
+   "date": "2001-10-31",
+   "year": 2001,
+   "sport": "MLB",
+   "title": "Derek Jeter hits a walk-off home run, \"Mr. November\"",
+   "fame": 3,
+   "embed": true
+  },
+  "p226": {
+   "yt": "H9eE7fZSUt8",
+   "start": 0,
+   "date": "2001-11-04",
+   "year": 2001,
+   "sport": "MLB",
+   "title": "Luis Gonzalez's blooper wins Game 7 of the World Series (Diamondbacks vs. Yankees)",
+   "fame": 4,
+   "embed": true
+  },
+  "p227": {
+   "yt": "jnhVPnYKY7I",
+   "start": 0,
+   "date": "2002-01-19",
+   "year": 2002,
+   "sport": "NFL",
+   "title": "The Tuck Rule game (Patriots vs. Raiders)",
+   "fame": 4,
+   "embed": true
+  },
+  "p228": {
+   "yt": "TbhFKq5Gl_s",
+   "start": 0,
+   "date": "2002-02-03",
+   "year": 2002,
+   "sport": "NFL",
+   "title": "Adam Vinatieri's field goal wins Super Bowl XXXVI",
+   "fame": 4,
+   "embed": true
+  },
+  "p229": {
+   "yt": "WUi4-H6hfw8",
+   "start": 85,
+   "date": "2002-02-16",
+   "year": 2002,
+   "sport": "Olympics",
+   "title": "Steven Bradbury wins gold after the other skaters fall",
+   "fame": 4,
+   "embed": true
+  },
+  "p230": {
+   "yt": "4iEF6JXeZqI",
+   "start": 0,
+   "date": "2002-05-26",
+   "year": 2002,
+   "sport": "NBA",
+   "title": "Robert Horry's buzzer-beater against the Kings (Game 4, Western finals)",
+   "fame": 3,
+   "embed": true
+  },
+  "p231": {
+   "yt": "RaBkN-Dyx58",
+   "start": 15,
+   "date": "2002-05-31",
+   "year": 2002,
+   "sport": "Soccer",
+   "title": "Senegal stuns France in the World Cup opener",
+   "fame": 3,
+   "embed": true
+  },
+  "p232": {
+   "yt": "oBYQBSNN0PE",
+   "start": 161,
+   "date": "2002-06-08",
+   "year": 2002,
+   "sport": "Boxing",
+   "title": "Lennox Lewis knocks out Mike Tyson",
+   "fame": 4,
+   "embed": true
+  },
+  "p233": {
+   "yt": "GGPgOncLpD4",
+   "start": 36,
+   "date": "2002-06-18",
+   "year": 2002,
+   "sport": "Soccer",
+   "title": "South Korea beats Italy on a golden goal (World Cup)",
+   "fame": 3,
+   "embed": true
+  },
+  "p234": {
+   "yt": "GNiMxYb2oTA",
+   "start": 0,
+   "date": "2002-06-21",
+   "year": 2002,
+   "sport": "Soccer",
+   "title": "Ronaldinho's free kick beats Seaman (World Cup, Brazil vs. England)",
+   "fame": 4,
+   "embed": true
+  },
+  "p235": {
+   "yt": "MTbInfhszGA",
+   "start": 0,
+   "date": "2002-07-09",
+   "year": 2002,
+   "sport": "MLB",
+   "title": "The All-Star Game ends in a 7-7 tie",
+   "fame": 3,
+   "embed": true
+  },
+  "p236": {
+   "yt": "lUVlSwQ9tSU",
+   "start": 0,
+   "date": "2002-09-04",
+   "year": 2002,
+   "sport": "MLB",
+   "title": "The Athletics win their 20th straight game",
+   "fame": 3,
+   "embed": true
+  },
+  "p237": {
+   "yt": "J0PAZ2gwffk",
+   "start": 0,
+   "date": "2002-10-26",
+   "year": 2002,
+   "sport": "MLB",
+   "title": "Angels' comeback in Game 6 of the World Series (Rally Monkey)",
+   "fame": 2,
+   "embed": true
+  },
+  "p238": {
+   "yt": "lueUJqggXho",
+   "start": 0,
+   "date": "2003-01-03",
+   "year": 2003,
+   "sport": "College football",
+   "title": "Ohio State beats Miami in the Fiesta Bowl (Pass Interference)",
+   "fame": 4,
+   "embed": true
+  },
+  "p239": {
+   "yt": "pl9cPZehbQw",
+   "start": 4789,
+   "date": "2003-04-07",
+   "year": 2003,
+   "sport": "College basketball",
+   "title": "Carmelo Anthony and Syracuse win the title on Hakim Warrick's block",
+   "fame": 4,
+   "embed": true
+  },
+  "p240": {
+   "yt": "SPSC6BxF4Hg",
+   "start": 92,
+   "date": "2003-05-28",
+   "year": 2003,
+   "sport": "Soccer",
+   "title": "Milan beats Juventus on penalties in the Champions League final",
+   "fame": 2,
+   "embed": true
+  },
+  "p241": {
+   "yt": "2j-oYaY-_88",
+   "start": 0,
+   "date": "2003-06-03",
+   "year": 2003,
+   "sport": "MLB",
+   "title": "Sammy Sosa's corked bat shatters",
+   "fame": 3,
+   "embed": true
+  },
+  "p242": {
+   "yt": "48QtSYFyEZo",
+   "start": 127,
+   "date": "2003-06-13",
+   "year": 2003,
+   "sport": "MLB",
+   "title": "Roger Clemens wins his 300th game",
+   "fame": 3,
+   "embed": true
+  },
+  "p243": {
+   "yt": "y7AJ7m6CxvY",
+   "start": 829,
+   "date": "2003-07-06",
+   "year": 2003,
+   "sport": "Tennis",
+   "title": "Roger Federer wins his first Wimbledon",
+   "fame": 4,
+   "embed": true
+  },
+  "p244": {
+   "yt": "vq8G81oOHhY",
+   "start": 0,
+   "date": "2003-10-14",
+   "year": 2003,
+   "sport": "MLB",
+   "title": "Bartman: the foul ball in Game 6 of the NLCS (Cubs vs. Marlins)",
+   "fame": 5,
+   "embed": true
+  },
+  "p245": {
+   "yt": "CVlHEkh4Jeg",
+   "start": 0,
+   "date": "2003-10-16",
+   "year": 2003,
+   "sport": "MLB",
+   "title": "Aaron Boone's walk-off home run in Game 7 of the ALCS",
+   "fame": 5,
+   "embed": true
+  },
+  "p246": {
+   "yt": "MJ9NiKO5Bnk",
+   "start": 0,
+   "date": "2003-10-29",
+   "year": 2003,
+   "sport": "NBA",
+   "title": "LeBron James makes his NBA debut",
+   "fame": 3,
+   "embed": true
+  },
+  "p247": {
+   "yt": "k5VMsSXCwuU",
+   "start": 47,
+   "date": "2004-02-01",
+   "year": 2004,
+   "sport": "NFL",
+   "title": "Adam Vinatieri wins another Super Bowl in the final seconds (Super Bowl XXXVIII)",
+   "fame": 3,
+   "embed": true
+  },
+  "p248": {
+   "yt": "4IQr069iKJQ",
+   "start": 16230,
+   "date": "2004-04-11",
+   "year": 2004,
+   "sport": "Golf",
+   "title": "Phil Mickelson wins his first major, leaps after the final putt",
+   "fame": 4,
+   "embed": true
+  },
+  "p249": {
+   "yt": "rZcP88s3B_M",
+   "start": 0,
+   "date": "2004-05-13",
+   "year": 2004,
+   "sport": "NBA",
+   "title": "Derek Fisher hits a shot with 0.4 seconds left (Spurs vs. Lakers)",
+   "fame": 4,
+   "embed": true
+  },
+  "p250": {
+   "yt": "7aBRbEKKA5A",
+   "start": 0,
+   "date": "2004-05-18",
+   "year": 2004,
+   "sport": "MLB",
+   "title": "Randy Johnson throws a perfect game at age 40",
+   "fame": 3,
+   "embed": true
+  },
+  "p251": {
+   "yt": "4gAeTic_9Bo",
+   "start": 125,
+   "date": "2004-06-05",
+   "year": 2004,
+   "sport": "Horse racing",
+   "title": "Smarty Jones is beaten at the Belmont",
+   "fame": 3,
+   "embed": true
+  },
+  "p252": {
+   "yt": "GkuDViOUcG8",
+   "start": 1367,
+   "date": "2004-07-03",
+   "year": 2004,
+   "sport": "Tennis",
+   "title": "Maria Sharapova upsets Serena Williams to win Wimbledon at 17",
+   "fame": 4,
+   "embed": true
+  },
+  "p253": {
+   "yt": "OG5u1uurPik",
+   "start": 28,
+   "date": "2004-07-04",
+   "year": 2004,
+   "sport": "Soccer",
+   "title": "Greece stuns Portugal to win Euro 2004",
+   "fame": 3,
+   "embed": false
+  },
+  "p254": {
+   "yt": "BF1RGtgAtD4",
+   "start": 129,
+   "date": "2004-08-15",
+   "year": 2004,
+   "sport": "Olympics",
+   "title": "Puerto Rico beats the U.S. men's basketball team in Athens",
+   "fame": 3,
+   "embed": true
+  },
+  "p255": {
+   "yt": "h8h4S6osl-E",
+   "start": 0,
+   "date": "2004-08-29",
+   "year": 2004,
+   "sport": "Olympics",
+   "title": "Vanderlei de Lima is attacked during the Olympic marathon",
+   "fame": 3,
+   "embed": true
+  },
+  "p256": {
+   "yt": "HL-XjMCPfio",
+   "start": 0,
+   "date": "2004-10-01",
+   "year": 2004,
+   "sport": "MLB",
+   "title": "Ichiro breaks the single-season hits record",
+   "fame": 3,
+   "embed": true
+  },
+  "p257": {
+   "yt": "j9ihJMqZGD0",
+   "start": 0,
+   "date": "2005-05-01",
+   "year": 2005,
+   "sport": "Soccer",
+   "title": "Lionel Messi scores his first goal for Barcelona",
+   "fame": 3,
+   "embed": true
+  },
+  "p258": {
+   "yt": "EMEylcp7E7s",
+   "start": 0,
+   "date": "2004-10-17",
+   "year": 2004,
+   "sport": "MLB",
+   "title": "Dave Roberts steals second base (ALCS Game 4, Red Sox vs. Yankees)",
+   "fame": 5,
+   "embed": true
+  },
+  "p259": {
+   "yt": "gu-m2CYHW4Y",
+   "start": 0,
+   "date": "2004-10-18",
+   "year": 2004,
+   "sport": "MLB",
+   "title": "David Ortiz's walk-off hit in Game 5 of the ALCS",
+   "fame": 4,
+   "embed": true
+  },
+  "p260": {
+   "yt": "BeCgVHMhIjc",
+   "start": 3,
+   "date": "2004-10-27",
+   "year": 2004,
+   "sport": "MLB",
+   "title": "Red Sox win the World Series, breaking the \"Curse of the Bambino\"",
+   "fame": 5,
+   "embed": true
+  },
+  "p261": {
+   "yt": "xH-4x7f4pDA",
+   "start": 0,
+   "date": "2004-11-19",
+   "year": 2004,
+   "sport": "NBA",
+   "title": "Malice at the Palace (Pacers vs. Pistons)",
+   "fame": 4,
+   "embed": true
+  },
+  "p262": {
+   "yt": "s4QuUYG6kxI",
+   "start": 0,
+   "date": "2004-12-09",
+   "year": 2004,
+   "sport": "NBA",
+   "title": "Tracy McGrady scores 13 points in 33 seconds",
+   "fame": 5,
+   "embed": true
+  },
+  "p263": {
+   "yt": "MJe2vGVEyfo",
+   "start": 0,
+   "date": "2004-12-26",
+   "year": 2004,
+   "sport": "NFL",
+   "title": "Peyton Manning breaks the single-season touchdown record",
+   "fame": 3,
+   "embed": true
+  },
+  "p264": {
+   "yt": "DZ0U3qB5kLY",
+   "start": 69,
+   "date": "2005-04-10",
+   "year": 2005,
+   "sport": "Golf",
+   "title": "Tiger Woods's chip-in on 16 at the Masters",
+   "fame": 5,
+   "embed": true
+  },
+  "p265": {
+   "yt": "3ojXHf293M8",
+   "start": 114,
+   "date": "2005-05-25",
+   "year": 2005,
+   "sport": "Soccer",
+   "title": "Liverpool's comeback against AC Milan in Istanbul",
+   "fame": 5,
+   "embed": true
+  },
+  "p266": {
+   "yt": "3L0ZeSsghFA",
+   "start": 932,
+   "date": "2005-06-05",
+   "year": 2005,
+   "sport": "Tennis",
+   "title": "Rafael Nadal wins his first French Open",
+   "fame": 3,
+   "embed": true
+  },
+  "p267": {
+   "yt": "BZdik09RGJI",
+   "start": 76,
+   "date": "2005-06-14",
+   "year": 2005,
+   "sport": "NBA",
+   "title": "Robert Horry hits a buzzer-beater against the Pistons",
+   "fame": 3,
+   "embed": true
+  },
+  "p268": {
+   "yt": "qJJvqyPUArA",
+   "start": 0,
+   "date": "2005-10-11",
+   "year": 2005,
+   "sport": "MLB",
+   "title": "AJ Pierzynski's dropped third strike (ALCS Game 2)",
+   "fame": 3,
+   "embed": true
+  },
+  "p269": {
+   "yt": "9mWU2U_ukUc",
+   "start": 11622,
+   "date": "2005-10-15",
+   "year": 2005,
+   "sport": "College football",
+   "title": "Reggie Bush and the \"Bush Push\" (USC vs. Notre Dame)",
+   "fame": 4,
+   "embed": true
+  },
+  "p270": {
+   "yt": "lsEuTYbDRwE",
+   "start": 0,
+   "date": "2005-10-17",
+   "year": 2005,
+   "sport": "MLB",
+   "title": "Albert Pujols's three-run homer off Brad Lidge (NLCS Game 5)",
+   "fame": 4,
+   "embed": true
+  },
+  "p271": {
+   "yt": "zCoeh4zLHs0",
+   "start": 462,
+   "date": "2005-11-19",
+   "year": 2005,
+   "sport": "Soccer",
+   "title": "Ronaldinho gets a standing ovation at the Bernabéu",
+   "fame": 4,
+   "embed": true
+  },
+  "p272": {
+   "yt": "GeiXFtkGp2s",
+   "start": 0,
+   "date": "2006-01-04",
+   "year": 2006,
+   "sport": "College football",
+   "title": "Vince Young leads Texas past USC in the Rose Bowl",
+   "fame": 5,
+   "embed": true
+  },
+  "p273": {
+   "yt": "FUcDGLHCOi4",
+   "start": 0,
+   "date": "2006-01-15",
+   "year": 2006,
+   "sport": "NFL",
+   "title": "Jerome Bettis's fumble in the playoffs (Steelers vs. Colts)",
+   "fame": 4,
+   "embed": true
+  },
+  "p274": {
+   "yt": "1wFreZVVuB8",
+   "start": 6663,
+   "date": "2006-01-22",
+   "year": 2006,
+   "sport": "NBA",
+   "title": "Kobe Bryant scores 81 points against the Raptors",
+   "fame": 5,
+   "embed": true
+  },
+  "p275": {
+   "yt": "5oukZ-fvohc",
+   "start": 8,
+   "date": "2006-02-12",
+   "year": 2006,
+   "sport": "Olympics",
+   "title": "Shaun White wins halfpipe gold in Turin",
+   "fame": 3,
+   "embed": true
+  },
+  "p276": {
+   "yt": "1KYiYGVsP2w",
+   "start": 116,
+   "date": "2006-02-17",
+   "year": 2006,
+   "sport": "Olympics",
+   "title": "Lindsey Jacobellis falls on her last jump while leading",
+   "fame": 3,
+   "embed": true
+  },
+  "p277": {
+   "yt": "gGHQ6xpnahI",
+   "start": 156,
+   "date": "2006-03-26",
+   "year": 2006,
+   "sport": "College basketball",
+   "title": "George Mason beats UConn to reach the Final Four",
+   "fame": 4,
+   "embed": true
+  },
+  "p278": {
+   "yt": "Z6d-10pjcEE",
+   "start": 298,
+   "date": "2006-06-18",
+   "year": 2006,
+   "sport": "Golf",
+   "title": "Phil Mickelson's meltdown at the U.S. Open (Winged Foot)",
+   "fame": 4,
+   "embed": true
+  },
+  "p279": {
+   "yt": "aiY9Mz8N5SQ",
+   "start": 0,
+   "date": "2006-06-24",
+   "year": 2006,
+   "sport": "Soccer",
+   "title": "Maxi Rodríguez's volley against Mexico (World Cup)",
+   "fame": 3,
+   "embed": true
+  },
+  "p280": {
+   "yt": "Nlsm0RlC8zI",
+   "start": 98,
+   "date": "2006-07-09",
+   "year": 2006,
+   "sport": "Soccer",
+   "title": "Zinedine Zidane's headbutt in the World Cup final",
+   "fame": 5,
+   "embed": true
+  },
+  "p281": {
+   "yt": "5EaEQVKIDGU",
+   "start": 0,
+   "date": "2006-10-19",
+   "year": 2006,
+   "sport": "MLB",
+   "title": "Endy Chavez's leaping catch (NLCS Game 7, Mets vs. Cardinals)",
+   "fame": 4,
+   "embed": true
+  },
+  "p282": {
+   "yt": "hIQ8RFv83bw",
+   "start": 978,
+   "date": "2006-11-18",
+   "year": 2006,
+   "sport": "College football",
+   "title": "Michigan and Ohio State meet as No. 1 and No. 2",
+   "fame": 3,
+   "embed": true
+  },
+  "p283": {
+   "yt": "9O34BnFu8Kk",
+   "start": 0,
+   "date": "2007-01-01",
+   "year": 2007,
+   "sport": "College football",
+   "title": "Boise State's Statue of Liberty wins the Fiesta Bowl",
+   "fame": 5,
+   "embed": true
+  },
+  "p284": {
+   "yt": "btsDjmnO3VE",
+   "start": 0,
+   "date": "2007-01-21",
+   "year": 2007,
+   "sport": "NFL",
+   "title": "Colts rally past the Patriots in the AFC Championship",
+   "fame": 4,
+   "embed": true
+  },
+  "p285": {
+   "yt": "6kwo762iABQ",
+   "start": 0,
+   "date": "2007-02-04",
+   "year": 2007,
+   "sport": "NFL",
+   "title": "Devin Hester returns the opening kickoff for a touchdown in Super Bowl XLI",
+   "fame": 3,
+   "embed": true
+  },
+  "p286": {
+   "yt": "kne4nXTBzWs",
+   "start": 0,
+   "date": "2007-04-18",
+   "year": 2007,
+   "sport": "Soccer",
+   "title": "Lionel Messi's \"Maradona goal\" against Getafe",
+   "fame": 4,
+   "embed": true
+  },
+  "p287": {
+   "yt": "tYpwjB0IzoU",
+   "start": 0,
+   "date": "2007-04-24",
+   "year": 2007,
+   "sport": "NBA",
+   "title": "Baron Davis dunks on Andrei Kirilenko",
+   "fame": 4,
+   "embed": true
+  },
+  "p288": {
+   "yt": "CiCa4sKM7-w",
+   "start": 138,
+   "date": "2007-05-31",
+   "year": 2007,
+   "sport": "NBA",
+   "title": "LeBron James scores 29 straight points against the Pistons",
+   "fame": 4,
+   "embed": true
+  },
+  "p289": {
+   "yt": "x-IIZOEL2eI",
+   "start": 0,
+   "date": "2007-06-28",
+   "year": 2007,
+   "sport": "MLB",
+   "title": "Craig Biggio gets his 3,000th hit",
+   "fame": 3,
+   "embed": true
+  },
+  "p290": {
+   "yt": "cL3vNXIsEPM",
+   "start": 0,
+   "date": "2007-08-07",
+   "year": 2007,
+   "sport": "MLB",
+   "title": "Barry Bonds breaks Hank Aaron's career home run record with No. 756",
+   "fame": 5,
+   "embed": true
+  },
+  "p291": {
+   "yt": "N9zpDEsqrbs",
+   "start": 0,
+   "date": "2007-09-01",
+   "year": 2007,
+   "sport": "College football",
+   "title": "Appalachian State upsets Michigan",
+   "fame": 5,
+   "embed": true
+  },
+  "p292": {
+   "yt": "IUyOykaLTSc",
+   "start": 0,
+   "date": "2007-10-01",
+   "year": 2007,
+   "sport": "MLB",
+   "title": "Matt Holliday slides home in the Game 163 tiebreaker (Rockies vs. Padres)",
+   "fame": 3,
+   "embed": true
+  },
+  "p293": {
+   "yt": "OlyBEJ60Duc",
+   "start": 0,
+   "date": "2008-02-03",
+   "year": 2008,
+   "sport": "NFL",
+   "title": "Eli Manning's escape and David Tyree's helmet catch (Super Bowl XLII)",
+   "fame": 5,
+   "embed": true
+  },
+  "p294": {
+   "yt": "pDvbTrE8VBo",
+   "start": 26,
+   "date": "2008-04-07",
+   "year": 2008,
+   "sport": "College basketball",
+   "title": "Mario Chalmers hits the title-forcing shot for Kansas (NCAA vs. Memphis)",
+   "fame": 5,
+   "embed": true
+  },
+  "p295": {
+   "yt": "HSnZz0kBnqs",
+   "start": 0,
+   "date": "2008-05-21",
+   "year": 2008,
+   "sport": "Soccer",
+   "title": "Manchester United beats Chelsea on penalties as John Terry slips (Champions League final)",
+   "fame": 4,
+   "embed": true
+  },
+  "p296": {
+   "yt": "J3iennlf-OA",
+   "start": 70,
+   "date": "2008-06-05",
+   "year": 2008,
+   "sport": "NBA",
+   "title": "Paul Pierce \"wheelchair\" game (NBA Finals Game 1)",
+   "fame": 4,
+   "embed": true
+  },
+  "p297": {
+   "yt": "bZrWCzMeqmc",
+   "start": 278,
+   "date": "2008-06-15",
+   "year": 2008,
+   "sport": "Golf",
+   "title": "Tiger Woods wins the U.S. Open on a broken leg",
+   "fame": 5,
+   "embed": true
+  },
+  "p298": {
+   "yt": "I5ZQSHj1UKk",
+   "start": 153,
+   "date": "2008-06-29",
+   "year": 2008,
+   "sport": "Soccer",
+   "title": "Euro 2008: Fernando Torres's goal beats Germany",
+   "fame": 3,
+   "embed": true
+  },
+  "p299": {
+   "yt": "f8YEiCAPAbg",
+   "start": 1406,
+   "date": "2008-07-06",
+   "year": 2008,
+   "sport": "Tennis",
+   "title": "Federer vs. Nadal, the greatest Wimbledon final",
+   "fame": 5,
+   "embed": true
+  },
+  "p300": {
+   "yt": "Ax_U8HmlswA",
+   "start": 0,
+   "date": "2008-08-11",
+   "year": 2008,
+   "sport": "Olympics",
+   "title": "Jason Lezak's anchor leg in the 4x100 free relay",
+   "fame": 5,
+   "embed": true
+  },
+  "p301": {
+   "yt": "urbvFAAwM2M",
+   "start": 36,
+   "date": "2008-08-16",
+   "year": 2008,
+   "sport": "Olympics",
+   "title": "Michael Phelps wins by 0.01 seconds over Milorad Cavic",
+   "fame": 5,
+   "embed": true
+  },
+  "p302": {
+   "yt": "uMugT6TrI_c",
+   "start": 0,
+   "date": "2008-08-16",
+   "year": 2008,
+   "sport": "Olympics",
+   "title": "Usain Bolt runs 9.69 to win the 100m in Beijing",
+   "fame": 5,
+   "embed": true
+  },
+  "p303": {
+   "yt": "2TyNw_N3oXo",
+   "start": 0,
+   "date": "2008-08-20",
+   "year": 2008,
+   "sport": "Olympics",
+   "title": "Usain Bolt runs 19.30 in the 200m",
+   "fame": 4,
+   "embed": true
+  },
+  "p304": {
+   "yt": "Ny8__taCZqk",
+   "start": 0,
+   "date": "2008-10-29",
+   "year": 2008,
+   "sport": "MLB",
+   "title": "Brad Lidge records the final out of the World Series",
+   "fame": 3,
+   "embed": true
+  },
+  "p305": {
+   "yt": "dgQ1_6Mnt5I",
+   "start": 0,
+   "date": "2008-11-01",
+   "year": 2008,
+   "sport": "College football",
+   "title": "Texas Tech's Michael Crabtree beats Texas with a late touchdown",
+   "fame": 3,
+   "embed": true
+  },
+  "p306": {
+   "yt": "3pKsxtzfVbQ",
+   "start": 398,
+   "date": "2008-11-02",
+   "year": 2008,
+   "sport": "Motorsport",
+   "title": "Lewis Hamilton clinches the Formula One title on the last corner",
+   "fame": 4,
+   "embed": true
+  },
+  "p307": {
+   "yt": "5VydCkK5o3c",
+   "start": 38,
+   "date": "2009-01-01",
+   "year": 2009,
+   "sport": "NHL",
+   "title": "Winter Classic at Wrigley Field",
+   "fame": 3,
+   "embed": true
+  },
+  "p308": {
+   "yt": "VcjzomL6GeM",
+   "start": 0,
+   "date": "2009-02-01",
+   "year": 2009,
+   "sport": "NFL",
+   "title": "James Harrison's 100-yard interception return",
+   "fame": 4,
+   "embed": true
+  },
+  "p309": {
+   "yt": "3mWHZKYFD9A",
+   "start": 0,
+   "date": "2009-02-01",
+   "year": 2009,
+   "sport": "NFL",
+   "title": "Santonio Holmes's toe-tap catch wins Super Bowl XLIII",
+   "fame": 5,
+   "embed": true
+  },
+  "p310": {
+   "yt": "is4q1L6JiSI",
+   "start": 130,
+   "date": "2009-05-02",
+   "year": 2009,
+   "sport": "Horse racing",
+   "title": "Mine That Bird wins the Kentucky Derby at 50-1",
+   "fame": 3,
+   "embed": true
+  },
+  "p311": {
+   "yt": "9gx_CisURrA",
+   "start": 417,
+   "date": "2009-05-02",
+   "year": 2009,
+   "sport": "Boxing",
+   "title": "Manny Pacquiao knocks out Ricky Hatton",
+   "fame": 3,
+   "embed": true
+  },
+  "p312": {
+   "yt": "arI6X7gBu-Q",
+   "start": 0,
+   "date": "2009-05-06",
+   "year": 2009,
+   "sport": "Soccer",
+   "title": "Iniesta's goal at Stamford Bridge sends Barcelona to the final",
+   "fame": 4,
+   "embed": false
+  },
+  "p313": {
+   "yt": "VkvTLOhm-TQ",
+   "start": 0,
+   "date": "2009-05-22",
+   "year": 2009,
+   "sport": "NBA",
+   "title": "LeBron James's buzzer-beater against the Magic",
+   "fame": 4,
+   "embed": true
+  },
+  "p314": {
+   "yt": "rctOtFOXco8",
+   "start": 1405,
+   "date": "2009-07-05",
+   "year": 2009,
+   "sport": "Tennis",
+   "title": "Federer beats Roddick 16-14 in the fifth set at Wimbledon",
+   "fame": 4,
+   "embed": true
+  },
+  "p315": {
+   "yt": "3nbjhpcZ9_g",
+   "start": 0,
+   "date": "2009-08-16",
+   "year": 2009,
+   "sport": "Other",
+   "title": "Usain Bolt runs 9.58 in Berlin",
+   "fame": 5,
+   "embed": true
+  },
+  "p316": {
+   "yt": "_w0GKLUNyoA",
+   "start": 0,
+   "date": "2009-12-05",
+   "year": 2009,
+   "sport": "College football",
+   "title": "Texas escapes Nebraska in the Big 12 title game",
+   "fame": 2,
+   "embed": true
+  },
+  "p317": {
+   "yt": "PhI2we1Rqvw",
+   "start": 0,
+   "date": "2010-01-24",
+   "year": 2010,
+   "sport": "NFL",
+   "title": "Brett Favre's interception in the NFC title game (Vikings vs. Saints)",
+   "fame": 3,
+   "embed": true
+  },
+  "p318": {
+   "yt": "SWAj2jWUCc0",
+   "start": 0,
+   "date": "2010-02-07",
+   "year": 2010,
+   "sport": "NFL",
+   "title": "The Saints' onside kick to open the second half of Super Bowl XLIV",
+   "fame": 5,
+   "embed": true
+  },
+  "p319": {
+   "yt": "07-hntATz3U",
+   "start": 305,
+   "date": "2010-02-17",
+   "year": 2010,
+   "sport": "Olympics",
+   "title": "Shaun White's double McTwist 1260 in Vancouver",
+   "fame": 3,
+   "embed": false
+  },
+  "p320": {
+   "yt": "GBMriA6maIU",
+   "start": 23,
+   "date": "2010-02-28",
+   "year": 2010,
+   "sport": "Olympics",
+   "title": "Sidney Crosby's golden goal for Canada",
+   "fame": 5,
+   "embed": true
+  },
+  "p321": {
+   "yt": "GiwqEz50ipY",
+   "start": 0,
+   "date": "2010-03-20",
+   "year": 2010,
+   "sport": "College basketball",
+   "title": "Northern Iowa's Ali Farokhmanesh hits the dagger against Kansas",
+   "fame": 3,
+   "embed": true
+  },
+  "p322": {
+   "yt": "SB00wfyuQjY",
+   "start": 331,
+   "date": "2010-04-05",
+   "year": 2010,
+   "sport": "College basketball",
+   "title": "Gordon Hayward's half-court shot just misses (Butler vs. Duke)",
+   "fame": 5,
+   "embed": true
+  },
+  "p323": {
+   "yt": "tKumrQB1wRA",
+   "start": 66,
+   "date": "2010-04-11",
+   "year": 2010,
+   "sport": "Golf",
+   "title": "Phil Mickelson's 6-iron from the pine straw on 13 at the Masters",
+   "fame": 4,
+   "embed": true
+  },
+  "p324": {
+   "yt": "dfCfjT5BH9o",
+   "start": 0,
+   "date": "2010-06-02",
+   "year": 2010,
+   "sport": "MLB",
+   "title": "Armando Galarraga's near-perfect game and Jim Joyce's call",
+   "fame": 5,
+   "embed": true
+  },
+  "p325": {
+   "yt": "Yy4UZbtxxkY",
+   "start": 0,
+   "date": "2010-06-09",
+   "year": 2010,
+   "sport": "NHL",
+   "title": "Blackhawks win the Cup on Patrick Kane's overtime goal that nobody saw",
+   "fame": 3,
+   "embed": true
+  },
+  "p326": {
+   "yt": "b7eZmKWW9s4",
+   "start": 0,
+   "date": "2010-06-23",
+   "year": 2010,
+   "sport": "Soccer",
+   "title": "Landon Donovan's stoppage-time goal against Algeria (World Cup)",
+   "fame": 5,
+   "embed": true
+  },
+  "p327": {
+   "yt": "TyGO0RU7aVk",
+   "start": 40089,
+   "date": "2010-06-24",
+   "year": 2010,
+   "sport": "Tennis",
+   "title": "Isner and Mahut finish the longest tennis match, 70-68",
+   "fame": 5,
+   "embed": true
+  },
+  "p328": {
+   "yt": "o5QlBHF6ib8",
+   "start": 0,
+   "date": "2010-06-27",
+   "year": 2010,
+   "sport": "Soccer",
+   "title": "Frank Lampard's goal that wasn't (England vs. Germany, World Cup)",
+   "fame": 4,
+   "embed": true
+  },
+  "p329": {
+   "yt": "l87aWWPojFs",
+   "start": 0,
+   "date": "2010-07-02",
+   "year": 2010,
+   "sport": "Soccer",
+   "title": "Luis Suárez's goal-line handball against Ghana (World Cup)",
+   "fame": 4,
+   "embed": true
+  },
+  "p330": {
+   "yt": "aKSHgMqCwbQ",
+   "start": 169,
+   "date": "2010-07-11",
+   "year": 2010,
+   "sport": "Soccer",
+   "title": "Iniesta's extra-time goal wins the World Cup for Spain",
+   "fame": 4,
+   "embed": false
+  },
+  "p331": {
+   "yt": "8Ju2p-UrBkc",
+   "start": 0,
+   "date": "2010-10-06",
+   "year": 2010,
+   "sport": "MLB",
+   "title": "Roy Halladay throws a no-hitter in the playoffs",
+   "fame": 4,
+   "embed": true
+  },
+  "p332": {
+   "yt": "713xIUo5AfY",
+   "start": 0,
+   "date": "2010-11-21",
+   "year": 2010,
+   "sport": "NFL",
+   "title": "DeSean Jackson's walk-off punt return, \"Miracle at the New Meadowlands\"",
+   "fame": 4,
+   "embed": true
+  },
+  "p333": {
+   "yt": "rfaf5LYUzq4",
+   "start": 0,
+   "date": "2010-12-12",
+   "year": 2010,
+   "sport": "NFL",
+   "title": "The Metrodome roof collapses",
+   "fame": 2,
+   "embed": true
+  },
+  "p334": {
+   "yt": "nt0jAa6alUc",
+   "start": 0,
+   "date": "2011-01-08",
+   "year": 2011,
+   "sport": "NFL",
+   "title": "Marshawn Lynch's \"Beast Quake\" run (Seahawks vs. Saints)",
+   "fame": 4,
+   "embed": true
+  },
+  "p335": {
+   "yt": "2GebYKAlUIQ",
+   "start": 7,
+   "date": "2011-09-28",
+   "year": 2011,
+   "sport": "MLB",
+   "title": "Evan Longoria's walk-off home run clinches the playoffs for the Rays",
+   "fame": 4,
+   "embed": true
+  },
+  "p336": {
+   "yt": "T1vDF0hSfoA",
+   "start": 0,
+   "date": "2011-10-27",
+   "year": 2011,
+   "sport": "MLB",
+   "title": "David Freese's walk-off home run in Game 6 of the World Series",
+   "fame": 5,
+   "embed": true
+  },
+  "p337": {
+   "yt": "899ie2GB4wA",
+   "start": 590,
+   "date": "2011-11-05",
+   "year": 2011,
+   "sport": "College football",
+   "title": "LSU beats Alabama in the \"Game of the Century\"",
+   "fame": 2,
+   "embed": true
+  },
+  "p338": {
+   "yt": "nMVnLsODqqg",
+   "start": 0,
+   "date": "2012-01-08",
+   "year": 2012,
+   "sport": "NFL",
+   "title": "Tim Tebow's 80-yard overtime touchdown (Broncos vs. Steelers)",
+   "fame": 4,
+   "embed": false
+  },
+  "p339": {
+   "yt": "_cXqbqMgNoE",
+   "start": 0,
+   "date": "2012-02-05",
+   "year": 2012,
+   "sport": "NFL",
+   "title": "Super Bowl XLVI: Eli Manning and Mario Manningham's sideline catch",
+   "fame": 3,
+   "embed": false
+  },
+  "p340": {
+   "yt": "rR3NhE8fBs8",
+   "start": 0,
+   "date": "2012-02-14",
+   "year": 2012,
+   "sport": "NBA",
+   "title": "Jeremy Lin hits a buzzer-beating three against the Raptors",
+   "fame": 4,
+   "embed": true
+  },
+  "p341": {
+   "yt": "xLfhoD1kiuQ",
+   "start": 60,
+   "date": "2012-04-08",
+   "year": 2012,
+   "sport": "Golf",
+   "title": "Bubba Watson's hook shot from the trees at the Masters",
+   "fame": 5,
+   "embed": true
+  },
+  "p342": {
+   "yt": "xOt9dmkydwM",
+   "start": 499,
+   "date": "2012-05-13",
+   "year": 2012,
+   "sport": "Soccer",
+   "title": "Sergio Agüero's last-minute goal wins Manchester City the title",
+   "fame": 5,
+   "embed": true
+  },
+  "p343": {
+   "yt": "HhumwZ66vz4",
+   "start": 0,
+   "date": "2012-05-19",
+   "year": 2012,
+   "sport": "Soccer",
+   "title": "Chelsea wins the Champions League, Drogba's penalty",
+   "fame": 4,
+   "embed": true
+  },
+  "p344": {
+   "yt": "vFgeIfVFl58",
+   "start": 0,
+   "date": "2012-06-24",
+   "year": 2012,
+   "sport": "Soccer",
+   "title": "Andrea Pirlo's Panenka penalty against England (Euro 2012)",
+   "fame": 3,
+   "embed": true
+  },
+  "p345": {
+   "yt": "ftf_LKNRSyQ",
+   "start": 79,
+   "date": "2012-08-02",
+   "year": 2012,
+   "sport": "Olympics",
+   "title": "Gabby Douglas wins the all-around gold",
+   "fame": 3,
+   "embed": true
+  },
+  "p346": {
+   "yt": "Pe3I8NkR5oQ",
+   "start": 617,
+   "date": "2012-08-04",
+   "year": 2012,
+   "sport": "Olympics",
+   "title": "Michael Phelps wins his 19th Olympic medal",
+   "fame": 3,
+   "embed": true
+  },
+  "p347": {
+   "yt": "bVTqySCtzVI",
+   "start": 0,
+   "date": "2012-08-05",
+   "year": 2012,
+   "sport": "Olympics",
+   "title": "Usain Bolt wins the 100m in 9.63 (London)",
+   "fame": 4,
+   "embed": true
+  },
+  "p348": {
+   "yt": "3WJai4nrJ9c",
+   "start": 0,
+   "date": "2012-09-24",
+   "year": 2012,
+   "sport": "NFL",
+   "title": "The \"Fail Mary\" (Packers vs. Seahawks)",
+   "fame": 5,
+   "embed": true
+  },
+  "p349": {
+   "yt": "7mLi1SrrwpA",
+   "start": 0,
+   "date": "2012-10-03",
+   "year": 2012,
+   "sport": "MLB",
+   "title": "Miguel Cabrera clinches the Triple Crown",
+   "fame": 4,
+   "embed": false
+  },
+  "p350": {
+   "yt": "UYaMmU1effM",
+   "start": 78,
+   "date": "2012-11-10",
+   "year": 2012,
+   "sport": "College football",
+   "title": "Johnny Manziel and Texas A&M upset No. 1 Alabama",
+   "fame": 3,
+   "embed": true
+  },
+  "p351": {
+   "yt": "FNPmChbMsZQ",
+   "start": 0,
+   "date": "2012-12-08",
+   "year": 2012,
+   "sport": "Boxing",
+   "title": "Juan Manuel Márquez knocks out Manny Pacquiao",
+   "fame": 4,
+   "embed": true
+  },
+  "p352": {
+   "yt": "jZOhnmfWqn8",
+   "start": 0,
+   "date": "2013-02-03",
+   "year": 2013,
+   "sport": "NFL",
+   "title": "Jacoby Jones's 108-yard kickoff return in Super Bowl XLVII",
+   "fame": 3,
+   "embed": true
+  },
+  "p353": {
+   "yt": "jlIBRkr4Ar4",
+   "start": 0,
+   "date": "2013-03-22",
+   "year": 2013,
+   "sport": "College basketball",
+   "title": "Florida Gulf Coast's \"Dunk City\" upsets Georgetown",
+   "fame": 3,
+   "embed": true
+  },
+  "p354": {
+   "yt": "wA4ChhQ38GQ",
+   "start": 51,
+   "date": "2013-05-25",
+   "year": 2013,
+   "sport": "Soccer",
+   "title": "Arjen Robben's late winner in the Champions League final",
+   "fame": 2,
+   "embed": false
+  },
+  "p355": {
+   "yt": "tr6XsZVb-ZE",
+   "start": 0,
+   "date": "2013-06-18",
+   "year": 2013,
+   "sport": "NBA",
+   "title": "Ray Allen's corner three forces overtime in Game 6 of the NBA Finals",
+   "fame": 5,
+   "embed": true
+  },
+  "p356": {
+   "yt": "hFZZasMfEMU",
+   "start": 27,
+   "date": "2013-06-20",
+   "year": 2013,
+   "sport": "NBA",
+   "title": "LeBron James hits the jumper in Game 7 of the NBA Finals",
+   "fame": 4,
+   "embed": true
+  },
+  "p357": {
+   "yt": "S-h46vxck4g",
+   "start": 0,
+   "date": "2013-06-24",
+   "year": 2013,
+   "sport": "NHL",
+   "title": "Blackhawks score two goals in 17 seconds to win the Cup",
+   "fame": 4,
+   "embed": true
+  },
+  "p358": {
+   "yt": "2PYyEDl1bJk",
+   "start": 5,
+   "date": "2013-07-07",
+   "year": 2013,
+   "sport": "Tennis",
+   "title": "Andy Murray wins Wimbledon, first British champion since 1936",
+   "fame": 5,
+   "embed": true
+  },
+  "p359": {
+   "yt": "HJyxzaLNlNw",
+   "start": 0,
+   "date": "2013-10-13",
+   "year": 2013,
+   "sport": "MLB",
+   "title": "David Ortiz's game-tying grand slam against the Tigers (ALCS Game 2)",
+   "fame": 4,
+   "embed": true
+  },
+  "p360": {
+   "yt": "N06hP0LelFM",
+   "start": 0,
+   "date": "2013-11-16",
+   "year": 2013,
+   "sport": "College football",
+   "title": "Auburn's \"Prayer at Jordan-Hare\" (Georgia vs. Auburn)",
+   "fame": 4,
+   "embed": true
+  },
+  "p361": {
+   "yt": "vR7s2m5Z5GA",
+   "start": 182,
+   "date": "2013-11-30",
+   "year": 2013,
+   "sport": "College football",
+   "title": "The \"Kick Six\": Auburn beats Alabama in the Iron Bowl",
+   "fame": 5,
+   "embed": true
+  },
+  "p362": {
+   "yt": "Jhz8uZl8rKc",
+   "start": 154,
+   "date": "2014-01-04",
+   "year": 2014,
+   "sport": "NFL",
+   "title": "The Colts overcome a 28-point deficit against the Chiefs",
+   "fame": 3,
+   "embed": true
+  },
+  "p363": {
+   "yt": "OhtfaME_v0Y",
+   "start": 0,
+   "date": "2014-01-19",
+   "year": 2014,
+   "sport": "NFL",
+   "title": "Richard Sherman tips the ball and rants after the NFC title game",
+   "fame": 5,
+   "embed": false
+  },
+  "p364": {
+   "yt": "MUxJXzKY4LE",
+   "start": 570,
+   "date": "2014-02-15",
+   "year": 2014,
+   "sport": "Olympics",
+   "title": "T.J. Oshie's shootout heroics (USA vs. Russia, Sochi Olympics)",
+   "fame": 4,
+   "embed": true
+  },
+  "p365": {
+   "yt": "D05EmdlsM0A",
+   "start": 2,
+   "date": "2014-05-24",
+   "year": 2014,
+   "sport": "Soccer",
+   "title": "Sergio Ramos's 93rd-minute equalizer (Champions League final, Real Madrid vs. Atletico)",
+   "fame": 4,
+   "embed": false
+  },
+  "p366": {
+   "yt": "C4SVih8Rn5Y",
+   "start": 0,
+   "date": "2014-06-13",
+   "year": 2014,
+   "sport": "NHL",
+   "title": "Kings win the Stanley Cup in double overtime",
+   "fame": 2,
+   "embed": true
+  },
+  "p367": {
+   "yt": "BqDZ5EwKenI",
+   "start": 0,
+   "date": "2014-06-13",
+   "year": 2014,
+   "sport": "Soccer",
+   "title": "Robin van Persie's flying header against Spain (World Cup)",
+   "fame": 4,
+   "embed": true
+  },
+  "p368": {
+   "yt": "1f20D9HRiDE",
+   "start": 0,
+   "date": "2014-06-16",
+   "year": 2014,
+   "sport": "Soccer",
+   "title": "John Brooks's header beats Ghana (World Cup)",
+   "fame": 3,
+   "embed": true
+  },
+  "p369": {
+   "yt": "1tVdCQaH0vs",
+   "start": 0,
+   "date": "2014-06-24",
+   "year": 2014,
+   "sport": "Soccer",
+   "title": "Luis Suárez bites Giorgio Chiellini (World Cup)",
+   "fame": 4,
+   "embed": true
+  },
+  "p370": {
+   "yt": "B8XsmIfQr6o",
+   "start": 0,
+   "date": "2014-06-28",
+   "year": 2014,
+   "sport": "Soccer",
+   "title": "James Rodríguez's volley against Uruguay (World Cup)",
+   "fame": 3,
+   "embed": true
+  },
+  "p371": {
+   "yt": "aE4BdIP6bvc",
+   "start": 305,
+   "date": "2014-07-08",
+   "year": 2014,
+   "sport": "Soccer",
+   "title": "Germany beats Brazil 7-1 in the World Cup semifinal",
+   "fame": 5,
+   "embed": true
+  },
+  "p372": {
+   "yt": "ffAYByv2pLc",
+   "start": 88,
+   "date": "2014-07-13",
+   "year": 2014,
+   "sport": "Soccer",
+   "title": "Mario Götze's extra-time goal wins the World Cup",
+   "fame": 4,
+   "embed": true
+  },
+  "p373": {
+   "yt": "c_8tB8h_L68",
+   "start": 0,
+   "date": "2014-08-15",
+   "year": 2014,
+   "sport": "Other",
+   "title": "Mo'ne Davis dominates at the Little League World Series",
+   "fame": 3,
+   "embed": true
+  },
+  "p374": {
+   "yt": "zYFNXHQaCBA",
+   "start": 0,
+   "date": "2014-09-25",
+   "year": 2014,
+   "sport": "MLB",
+   "title": "Derek Jeter's walk-off single in his final home game",
+   "fame": 5,
+   "embed": true
+  },
+  "p375": {
+   "yt": "d1AWMLgjyvk",
+   "start": 12053,
+   "date": "2014-10-29",
+   "year": 2014,
+   "sport": "MLB",
+   "title": "Madison Bumgarner shuts down the Royals in Game 7 of the World Series",
+   "fame": 4,
+   "embed": true
+  },
+  "p376": {
+   "yt": "zxbz3DDQzHU",
+   "start": 0,
+   "date": "2014-11-23",
+   "year": 2014,
+   "sport": "NFL",
+   "title": "Odell Beckham Jr.'s one-handed catch",
+   "fame": 5,
+   "embed": true
+  },
+  "p377": {
+   "yt": "uQxp-A5uvkA",
+   "start": 0,
+   "date": "2015-01-11",
+   "year": 2015,
+   "sport": "NFL",
+   "title": "Dez Bryant's \"catch\" is overturned (Cowboys vs. Packers)",
+   "fame": 5,
+   "embed": true
+  },
+  "p378": {
+   "yt": "zaRpzpGIzL4",
+   "start": 921,
+   "date": "2015-01-18",
+   "year": 2015,
+   "sport": "NFL",
+   "title": "The Seahawks' incredible comeback against the Packers in the NFC title game",
+   "fame": 3,
+   "embed": true
+  },
+  "p379": {
+   "yt": "U7rPIg7ZNQ8",
+   "start": 0,
+   "date": "2015-02-01",
+   "year": 2015,
+   "sport": "NFL",
+   "title": "Malcolm Butler's goal-line interception (Super Bowl XLIX)",
+   "fame": 5,
+   "embed": true
+  },
+  "p380": {
+   "yt": "YttPqhXeNhY",
+   "start": 2504,
+   "date": "2015-05-02",
+   "year": 2015,
+   "sport": "Boxing",
+   "title": "Mayweather vs. Pacquiao, \"The Fight of the Century\"",
+   "fame": 5,
+   "embed": true
+  },
+  "p381": {
+   "yt": "w0I4Z8priHQ",
+   "start": 132,
+   "date": "2015-06-06",
+   "year": 2015,
+   "sport": "Horse racing",
+   "title": "American Pharoah wins the Triple Crown",
+   "fame": 5,
+   "embed": true
+  },
+  "p382": {
+   "yt": "mBosyOJ3PIY",
+   "start": 0,
+   "date": "2015-07-05",
+   "year": 2015,
+   "sport": "Soccer",
+   "title": "Carli Lloyd's hat-trick from midfield (Women's World Cup final)",
+   "fame": 5,
+   "embed": false
+  },
+  "p383": {
+   "yt": "9iDmyCZORRM",
+   "start": 6077,
+   "date": "2015-09-11",
+   "year": 2015,
+   "sport": "Tennis",
+   "title": "Roberta Vinci upsets Serena Williams at the U.S. Open",
+   "fame": 4,
+   "embed": true
+  },
+  "p384": {
+   "yt": "-UdsVO7HaJg",
+   "start": 0,
+   "date": "2015-10-14",
+   "year": 2015,
+   "sport": "MLB",
+   "title": "José Bautista's bat flip (Blue Jays vs. Rangers, ALDS Game 5)",
+   "fame": 5,
+   "embed": true
+  },
+  "p385": {
+   "yt": "z0BzPgi72DA",
+   "start": 0,
+   "date": "2015-10-17",
+   "year": 2015,
+   "sport": "College football",
+   "title": "Michigan State beats Michigan on the \"Trouble with the Snap\"",
+   "fame": 5,
+   "embed": true
+  },
+  "p386": {
+   "yt": "T1hkrGU2pIg",
+   "start": 0,
+   "date": "2015-10-27",
+   "year": 2015,
+   "sport": "MLB",
+   "title": "Alex Gordon's game-tying homer in the ninth inning of Game 1 of the World Series",
+   "fame": 3,
+   "embed": true
+  },
+  "p387": {
+   "yt": "qQ-Ji2ZvR4I",
+   "start": 0,
+   "date": "2016-02-07",
+   "year": 2016,
+   "sport": "NFL",
+   "title": "Von Miller's strip-sack seals Super Bowl 50",
+   "fame": 3,
+   "embed": false
+  },
+  "p388": {
+   "yt": "uC0VY3EeBnA",
+   "start": 0,
+   "date": "2016-02-27",
+   "year": 2016,
+   "sport": "NBA",
+   "title": "Stephen Curry's game-winner from 37 feet at Oklahoma City",
+   "fame": 4,
+   "embed": true
+  },
+  "p389": {
+   "yt": "L7FFJUz0tdo",
+   "start": 0,
+   "date": "2016-04-04",
+   "year": 2016,
+   "sport": "College basketball",
+   "title": "Kris Jenkins's buzzer-beater wins the NCAA title for Villanova",
+   "fame": 5,
+   "embed": true
+  },
+  "p390": {
+   "yt": "Rx2inwUj_F0",
+   "start": 253,
+   "date": "2016-04-13",
+   "year": 2016,
+   "sport": "NBA",
+   "title": "Kobe Bryant scores 60 points in his final game",
+   "fame": 5,
+   "embed": true
+  },
+  "p391": {
+   "yt": "7MHy3eS43FE",
+   "start": 5,
+   "date": "2016-05-02",
+   "year": 2016,
+   "sport": "Soccer",
+   "title": "Leicester City wins the Premier League",
+   "fame": 4,
+   "embed": true
+  },
+  "p392": {
+   "yt": "dWjigSJP0RE",
+   "start": 0,
+   "date": "2016-06-19",
+   "year": 2016,
+   "sport": "NBA",
+   "title": "Kyrie Irving's three over Stephen Curry in Game 7",
+   "fame": 5,
+   "embed": true
+  },
+  "p393": {
+   "yt": "Hgade7_mjHc",
+   "start": 0,
+   "date": "2016-06-19",
+   "year": 2016,
+   "sport": "NBA",
+   "title": "LeBron James's chasedown block on Andre Iguodala, Game 7 of the NBA Finals",
+   "fame": 5,
+   "embed": true
+  },
+  "p394": {
+   "yt": "SI9plHtH1eM",
+   "start": 185,
+   "date": "2016-06-27",
+   "year": 2016,
+   "sport": "Soccer",
+   "title": "Iceland beats England at Euro 2016",
+   "fame": 3,
+   "embed": true
+  },
+  "p395": {
+   "yt": "nLN9mEP_T5A",
+   "start": 0,
+   "date": "2016-07-10",
+   "year": 2016,
+   "sport": "Soccer",
+   "title": "Eder's long-range goal wins Euro 2016 for Portugal",
+   "fame": 3,
+   "embed": true
+  },
+  "p396": {
+   "yt": "RW94mABPEpw",
+   "start": 318,
+   "date": "2016-08-11",
+   "year": 2016,
+   "sport": "Olympics",
+   "title": "Simone Biles wins the Olympic all-around title in Rio",
+   "fame": 4,
+   "embed": true
+  },
+  "p397": {
+   "yt": "UmIYanq5gH8",
+   "start": 274,
+   "date": "2016-08-13",
+   "year": 2016,
+   "sport": "Olympics",
+   "title": "Michael Phelps wins his final Olympic gold",
+   "fame": 3,
+   "embed": true
+  },
+  "p398": {
+   "yt": "mfbaOmb23DU",
+   "start": 0,
+   "date": "2016-08-14",
+   "year": 2016,
+   "sport": "Olympics",
+   "title": "Wayde van Niekerk breaks the 400m world record from lane 8",
+   "fame": 2,
+   "embed": true
+  },
+  "p399": {
+   "yt": "-Jmjn_dJt_4",
+   "start": 47,
+   "date": "2016-08-20",
+   "year": 2016,
+   "sport": "Olympics",
+   "title": "Neymar's penalty wins Brazil its first Olympic soccer gold",
+   "fame": 3,
+   "embed": true
+  },
+  "p400": {
+   "yt": "i1Hwt23Hfjg",
+   "start": 0,
+   "date": "2016-11-02",
+   "year": 2016,
+   "sport": "MLB",
+   "title": "Rajai Davis's home run ties Game 7 of the World Series",
+   "fame": 4,
+   "embed": true
+  },
+  "p401": {
+   "yt": "HOp8w2PgHlM",
+   "start": 0,
+   "date": "2016-11-02",
+   "year": 2016,
+   "sport": "MLB",
+   "title": "The Cubs win the World Series after 108 years",
+   "fame": 5,
+   "embed": true
+  },
+  "p402": {
+   "yt": "2IVRNumSofg",
+   "start": 0,
+   "date": "2017-01-09",
+   "year": 2017,
+   "sport": "College football",
+   "title": "Deshaun Watson's last-second touchdown beats Alabama (national championship)",
+   "fame": 4,
+   "embed": true
+  },
+  "p403": {
+   "yt": "4SiUNdkIwzQ",
+   "start": 0,
+   "date": "2017-02-05",
+   "year": 2017,
+   "sport": "NFL",
+   "title": "Julian Edelman's catch in Super Bowl LI",
+   "fame": 4,
+   "embed": false
+  },
+  "p404": {
+   "yt": "016LXFHpFCk",
+   "start": 1175,
+   "date": "2017-02-05",
+   "year": 2017,
+   "sport": "NFL",
+   "title": "The Patriots complete the 28-3 comeback in Super Bowl LI",
+   "fame": 5,
+   "embed": true
+  },
+  "p405": {
+   "yt": "u4WRaHHMu0E",
+   "start": 901,
+   "date": "2017-03-08",
+   "year": 2017,
+   "sport": "Soccer",
+   "title": "Barcelona's \"La Remontada\" against PSG",
+   "fame": 4,
+   "embed": true
+  },
+  "p406": {
+   "yt": "D-AQC8Bbvhs",
+   "start": 0,
+   "date": "2017-07-16",
+   "year": 2017,
+   "sport": "Tennis",
+   "title": "Roger Federer wins his eighth Wimbledon title",
+   "fame": 3,
+   "embed": true
+  },
+  "p407": {
+   "yt": "Libsoyj8Zjw",
+   "start": 0,
+   "date": "2017-08-26",
+   "year": 2017,
+   "sport": "Boxing",
+   "title": "Floyd Mayweather beats Conor McGregor",
+   "fame": 4,
+   "embed": true
+  },
+  "p408": {
+   "yt": "zOCGNVj10XY",
+   "start": 210,
+   "date": "2017-10-29",
+   "year": 2017,
+   "sport": "MLB",
+   "title": "Game 5 of the World Series: Astros beat Dodgers 13-12",
+   "fame": 4,
+   "embed": true
+  },
+  "p409": {
+   "yt": "dzRRi2QcSEM",
+   "start": 0,
+   "date": "2018-01-14",
+   "year": 2018,
+   "sport": "NFL",
+   "title": "Case Keenum and Stefon Diggs: the \"Minneapolis Miracle\"",
+   "fame": 5,
+   "embed": true
+  },
+  "p410": {
+   "yt": "YDG3_ewrOWg",
+   "start": 0,
+   "date": "2018-02-04",
+   "year": 2018,
+   "sport": "NFL",
+   "title": "The \"Philly Special\" in Super Bowl LII",
+   "fame": 5,
+   "embed": true
+  },
+  "p411": {
+   "yt": "HoSWvxeBiWc",
+   "start": 146,
+   "date": "2018-02-22",
+   "year": 2018,
+   "sport": "Olympics",
+   "title": "U.S. women's hockey beats Canada in a shootout for Olympic gold",
+   "fame": 4,
+   "embed": false
+  },
+  "p412": {
+   "yt": "UqMzAZzVVn8",
+   "start": 89,
+   "date": "2018-03-15",
+   "year": 2018,
+   "sport": "College basketball",
+   "title": "Sister Jean and Loyola Chicago's buzzer-beater",
+   "fame": 3,
+   "embed": true
+  },
+  "p413": {
+   "yt": "snISurWcFo8",
+   "start": 3812,
+   "date": "2018-03-16",
+   "year": 2018,
+   "sport": "College basketball",
+   "title": "UMBC becomes the first 16 seed to beat a No. 1 seed",
+   "fame": 5,
+   "embed": true
+  },
+  "p414": {
+   "yt": "MDa1u3RONXQ",
+   "start": 454,
+   "date": "2018-06-07",
+   "year": 2018,
+   "sport": "NHL",
+   "title": "Capitals win their first Stanley Cup, Ovechkin lifts it",
+   "fame": 4,
+   "embed": true
+  },
+  "p415": {
+   "yt": "hZDbn9P6NqU",
+   "start": 131,
+   "date": "2018-06-09",
+   "year": 2018,
+   "sport": "Horse racing",
+   "title": "Justify wins the Triple Crown",
+   "fame": 3,
+   "embed": true
+  },
+  "p416": {
+   "yt": "6BSeFs40QOI",
+   "start": 40,
+   "date": "2018-06-17",
+   "year": 2018,
+   "sport": "Soccer",
+   "title": "Mexico beats Germany at the World Cup",
+   "fame": 4,
+   "embed": true
+  },
+  "p417": {
+   "yt": "do-tsZ3p9I0",
+   "start": 0,
+   "date": "2018-06-23",
+   "year": 2018,
+   "sport": "Soccer",
+   "title": "Toni Kroos's last-minute free kick against Sweden (World Cup)",
+   "fame": 3,
+   "embed": true
+  },
+  "p418": {
+   "yt": "6jVdO1Q5xPE",
+   "start": 0,
+   "date": "2018-07-02",
+   "year": 2018,
+   "sport": "Soccer",
+   "title": "Belgium's last-second counterattack beats Japan (World Cup)",
+   "fame": 3,
+   "embed": true
+  },
+  "p419": {
+   "yt": "GrsEAvRerTg",
+   "start": 82,
+   "date": "2018-07-15",
+   "year": 2018,
+   "sport": "Soccer",
+   "title": "France beats Croatia in the World Cup final",
+   "fame": 3,
+   "embed": true
+  },
+  "p420": {
+   "yt": "uiBrForlj-k",
+   "start": 355,
+   "date": "2018-09-08",
+   "year": 2018,
+   "sport": "Tennis",
+   "title": "Naomi Osaka beats Serena Williams in the chaotic U.S. Open final",
+   "fame": 5,
+   "embed": true
+  },
+  "p421": {
+   "yt": "7s6Fr8cDFrY",
+   "start": 12772,
+   "date": "2018-09-23",
+   "year": 2018,
+   "sport": "Golf",
+   "title": "Tiger Woods wins the Tour Championship",
+   "fame": 5,
+   "embed": true
+  },
+  "p422": {
+   "yt": "HttI-vMneRo",
+   "start": 0,
+   "date": "2018-10-26",
+   "year": 2018,
+   "sport": "MLB",
+   "title": "Dodgers beat Red Sox in 18 innings in Game 3 of the World Series",
+   "fame": 4,
+   "embed": true
+  },
+  "p423": {
+   "yt": "AkMUXct0kEc",
+   "start": 976,
+   "date": "2018-11-19",
+   "year": 2018,
+   "sport": "NFL",
+   "title": "Chiefs and Rams combine for 105 points on Monday Night",
+   "fame": 4,
+   "embed": true
+  },
+  "p424": {
+   "yt": "gqOYkapAYeI",
+   "start": 0,
+   "date": "2019-01-06",
+   "year": 2019,
+   "sport": "NFL",
+   "title": "The \"Double Doink\" (Eagles vs. Bears)",
+   "fame": 4,
+   "embed": true
+  },
+  "p425": {
+   "yt": "xjvZHMod_3E",
+   "start": 0,
+   "date": "2019-01-20",
+   "year": 2019,
+   "sport": "NFL",
+   "title": "The Rams-Saints non-call in the NFC title game",
+   "fame": 5,
+   "embed": true
+  },
+  "p426": {
+   "yt": "TmVkAQmPqS4",
+   "start": 0,
+   "date": "2019-02-20",
+   "year": 2019,
+   "sport": "College basketball",
+   "title": "Zion Williamson's shoe blows out against North Carolina",
+   "fame": 5,
+   "embed": true
+  },
+  "p427": {
+   "yt": "ldsAXXuVSSc",
+   "start": 526,
+   "date": "2019-04-14",
+   "year": 2019,
+   "sport": "Golf",
+   "title": "Tiger Woods wins the Masters",
+   "fame": 5,
+   "embed": true
+  },
+  "p428": {
+   "yt": "n1knvHCGgUY",
+   "start": 0,
+   "date": "2019-05-07",
+   "year": 2019,
+   "sport": "Soccer",
+   "title": "Liverpool 4, Barcelona 0: Origi scores from the corner",
+   "fame": 5,
+   "embed": true
+  },
+  "p429": {
+   "yt": "tY5stQvwkBA",
+   "start": 39,
+   "date": "2019-05-08",
+   "year": 2019,
+   "sport": "Soccer",
+   "title": "Lucas Moura's hat-trick eliminates Ajax",
+   "fame": 4,
+   "embed": true
+  },
+  "p430": {
+   "yt": "75iExVNvrWw",
+   "start": 0,
+   "date": "2019-05-12",
+   "year": 2019,
+   "sport": "NBA",
+   "title": "Kawhi Leonard's buzzer-beater bounces four times (Raptors vs. 76ers, Game 7)",
+   "fame": 5,
+   "embed": true
+  },
+  "p431": {
+   "yt": "mnLdAeSXZv0",
+   "start": 638,
+   "date": "2019-07-14",
+   "year": 2019,
+   "sport": "Tennis",
+   "title": "Djokovic beats Federer in the longest Wimbledon final",
+   "fame": 5,
+   "embed": true
+  },
+  "p432": {
+   "yt": "Kwu1yIC-ssg",
+   "start": 461,
+   "date": "2019-07-14",
+   "year": 2019,
+   "sport": "Other",
+   "title": "England wins the Cricket World Cup on a super over",
+   "fame": 3,
+   "embed": true
+  },
+  "p433": {
+   "yt": "YP4MR24s-8A",
+   "start": 0,
+   "date": "2019-10-09",
+   "year": 2019,
+   "sport": "MLB",
+   "title": "Howie Kendrick's grand slam in the NLDS Game 5",
+   "fame": 3,
+   "embed": true
+  },
+  "p434": {
+   "yt": "IAxYQJewtbU",
+   "start": 266,
+   "date": "2019-10-12",
+   "year": 2019,
+   "sport": "Other",
+   "title": "Eliud Kipchoge runs a marathon in under two hours",
+   "fame": 5,
+   "embed": false
+  },
+  "p435": {
+   "yt": "vmVkbdSFCaU",
+   "start": 0,
+   "date": "2019-11-14",
+   "year": 2019,
+   "sport": "NFL",
+   "title": "Mason Rudolph and Myles Garrett's helmet swing",
+   "fame": 3,
+   "embed": true
+  },
+  "p436": {
+   "yt": "UVV80kTudSM",
+   "start": 599,
+   "date": "2020-02-02",
+   "year": 2020,
+   "sport": "NFL",
+   "title": "Chiefs rally from 10 down to win Super Bowl LIV",
+   "fame": 4,
+   "embed": true
+  },
+  "p437": {
+   "yt": "dYZlrfarCIs",
+   "start": 881,
+   "date": "2020-08-14",
+   "year": 2020,
+   "sport": "Soccer",
+   "title": "Bayern Munich beats Barcelona 8-2 in the Champions League",
+   "fame": 4,
+   "embed": true
+  },
+  "p438": {
+   "yt": "OvL-L7vVo1Q",
+   "start": 0,
+   "date": "2020-09-13",
+   "year": 2020,
+   "sport": "Tennis",
+   "title": "Dominic Thiem wins the U.S. Open after coming back from two sets down",
+   "fame": 2,
+   "embed": true
+  },
+  "p439": {
+   "yt": "1svb_rpmd8U",
+   "start": 471,
+   "date": "2020-10-11",
+   "year": 2020,
+   "sport": "NBA",
+   "title": "Lakers win the NBA title in the Orlando bubble",
+   "fame": 3,
+   "embed": true
+  },
+  "p440": {
+   "yt": "dIRlvkO7aa0",
+   "start": 0,
+   "date": "2020-10-24",
+   "year": 2020,
+   "sport": "MLB",
+   "title": "Brett Phillips's walk-off hit and the Rays' wild finish in Game 4 of the World Series",
+   "fame": 5,
+   "embed": true
+  },
+  "p441": {
+   "yt": "reuYu-xjhNg",
+   "start": 0,
+   "date": "2020-11-15",
+   "year": 2020,
+   "sport": "NFL",
+   "title": "Kyler Murray's \"Hail Murray\" to DeAndre Hopkins",
+   "fame": 4,
+   "embed": true
+  },
+  "p442": {
+   "yt": "U4bqShvBI44",
+   "start": 229,
+   "date": "2021-07-11",
+   "year": 2021,
+   "sport": "Soccer",
+   "title": "Italy beats England on penalties in the Euro final",
+   "fame": 4,
+   "embed": true
+  },
+  "p443": {
+   "yt": "GjSCT97GSsA",
+   "start": 220,
+   "date": "2021-08-01",
+   "year": 2021,
+   "sport": "Olympics",
+   "title": "Mutaz Barshim and Gianmarco Tamberi share the high jump gold",
+   "fame": 5,
+   "embed": false
+  },
+  "p444": {
+   "yt": "-qFJuTpqBLM",
+   "start": 75,
+   "date": "2021-08-03",
+   "year": 2021,
+   "sport": "Olympics",
+   "title": "Karsten Warholm breaks the 400m hurdles world record",
+   "fame": 3,
+   "embed": false
+  },
+  "p445": {
+   "yt": "MTe12fH2xtQ",
+   "start": 0,
+   "date": "2021-12-12",
+   "year": 2021,
+   "sport": "Motorsport",
+   "title": "Max Verstappen passes Lewis Hamilton on the last lap in Abu Dhabi",
+   "fame": 5,
+   "embed": true
+  },
+  "p446": {
+   "yt": "jOtIpLtwXFo",
+   "start": 271,
+   "date": "2022-01-23",
+   "year": 2022,
+   "sport": "NFL",
+   "title": "The 13 seconds game: Bills vs. Chiefs in the divisional round",
+   "fame": 5,
+   "embed": true
+  },
+  "p447": {
+   "yt": "LYP91oVyUuU",
+   "start": 109,
+   "date": "2022-02-13",
+   "year": 2022,
+   "sport": "NFL",
+   "title": "Cooper Kupp and the Rams rally to win Super Bowl LVI",
+   "fame": 3,
+   "embed": true
+  },
+  "p448": {
+   "yt": "L78kHwG770s",
+   "start": 0,
+   "date": "2022-03-17",
+   "year": 2022,
+   "sport": "College basketball",
+   "title": "Saint Peter's upsets Kentucky in the NCAA Tournament",
+   "fame": 3,
+   "embed": true
+  },
+  "p449": {
+   "yt": "Zl0X3xqOSqU",
+   "start": 342,
+   "date": "2022-05-22",
+   "year": 2022,
+   "sport": "Soccer",
+   "title": "Manchester City scores three in five minutes to win the Premier League",
+   "fame": 5,
+   "embed": true
+  },
+  "p450": {
+   "yt": "jblL-wh4YmY",
+   "start": 0,
+   "date": "2022-10-04",
+   "year": 2022,
+   "sport": "MLB",
+   "title": "Aaron Judge hits his 62nd home run",
+   "fame": 5,
+   "embed": true
+  },
+  "p451": {
+   "yt": "spLV1gF0fkI",
+   "start": 46,
+   "date": "2022-11-22",
+   "year": 2022,
+   "sport": "Soccer",
+   "title": "Saudi Arabia stuns Argentina at the World Cup",
+   "fame": 4,
+   "embed": true
+  },
+  "p452": {
+   "yt": "yF5mHzhRBWE",
+   "start": 318,
+   "date": "2022-12-06",
+   "year": 2022,
+   "sport": "Soccer",
+   "title": "Morocco beats Spain on penalties at the World Cup",
+   "fame": 3,
+   "embed": true
+  },
+  "p453": {
+   "yt": "MCWJNOfJoSM",
+   "start": 347,
+   "date": "2022-12-18",
+   "year": 2022,
+   "sport": "Soccer",
+   "title": "Argentina beats France in the World Cup final, Messi and Mbappé",
+   "fame": 5,
+   "embed": true
+  },
+  "p454": {
+   "yt": "1gxvFLZZWeM",
+   "start": 0,
+   "date": "2023-03-17",
+   "year": 2023,
+   "sport": "College basketball",
+   "title": "Fairleigh Dickinson upsets Purdue as a 16 seed",
+   "fame": 4,
+   "embed": true
+  },
+  "p455": {
+   "yt": "puXSnoKM0Eo",
+   "start": 0,
+   "date": "2023-06-10",
+   "year": 2023,
+   "sport": "Soccer",
+   "title": "Manchester City wins the Champions League to complete the Treble",
+   "fame": 3,
+   "embed": true
+  },
+  "p456": {
+   "yt": "Qfjqgg5B4U0",
+   "start": 0,
+   "date": "2023-06-12",
+   "year": 2023,
+   "sport": "NBA",
+   "title": "Nuggets win their first NBA title",
+   "fame": 2,
+   "embed": true
+  },
+  "p457": {
+   "yt": "64WsO9LKE-A",
+   "start": 824,
+   "date": "2023-07-16",
+   "year": 2023,
+   "sport": "Tennis",
+   "title": "Carlos Alcaraz beats Novak Djokovic in the Wimbledon final",
+   "fame": 4,
+   "embed": true
+  },
+  "p458": {
+   "yt": "pORjd5ZkTrs",
+   "start": 0,
+   "date": "2023-07-21",
+   "year": 2023,
+   "sport": "Soccer",
+   "title": "Lionel Messi's free kick wins his Inter Miami debut",
+   "fame": 4,
+   "embed": true
+  },
+  "p459": {
+   "yt": "MFARaIVRkT8",
+   "start": 582,
+   "date": "2023-09-02",
+   "year": 2023,
+   "sport": "College football",
+   "title": "Deion Sanders's Colorado beats TCU in his debut",
+   "fame": 3,
+   "embed": true
+  },
+  "p460": {
+   "yt": "fViPGAIX254",
+   "start": 0,
+   "date": "2023-10-27",
+   "year": 2023,
+   "sport": "MLB",
+   "title": "Adolis García's walk-off home run in Game 1 (Rangers vs. Diamondbacks, World Series)",
+   "fame": 2,
+   "embed": true
+  },
+  "p461": {
+   "yt": "arUk2qurfNI",
+   "start": 0,
+   "date": "2024-02-11",
+   "year": 2024,
+   "sport": "NFL",
+   "title": "Mecole Hardman's overtime touchdown wins Super Bowl LVIII for the Chiefs",
+   "fame": 3,
+   "embed": true
+  },
+  "p462": {
+   "yt": "A1uSe2l1ENg",
+   "start": 15,
+   "date": "2024-03-03",
+   "year": 2024,
+   "sport": "College basketball",
+   "title": "Caitlin Clark breaks the all-time NCAA scoring record",
+   "fame": 5,
+   "embed": true
+  },
+  "p463": {
+   "yt": "PyutzqfX13A",
+   "start": 365,
+   "date": "2024-06-16",
+   "year": 2024,
+   "sport": "Golf",
+   "title": "Bryson DeChambeau wins the U.S. Open at Pinehurst",
+   "fame": 3,
+   "embed": true
+  },
+  "p464": {
+   "yt": "0YTf1-DEqHU",
+   "start": 131,
+   "date": "2024-07-09",
+   "year": 2024,
+   "sport": "Soccer",
+   "title": "Lamine Yamal's curler against France at Euro 2024",
+   "fame": 4,
+   "embed": true
+  },
+  "p465": {
+   "yt": "9muVsr3LXAk",
+   "start": 494,
+   "date": "2024-07-14",
+   "year": 2024,
+   "sport": "Soccer",
+   "title": "Spain beats England in the Euro 2024 final",
+   "fame": 3,
+   "embed": true
+  },
+  "p466": {
+   "yt": "heTqR_k_M3g",
+   "start": 0,
+   "date": "2024-07-29",
+   "year": 2024,
+   "sport": "Olympics",
+   "title": "Stephen Nedoroscik wins bronze on the pommel horse, \"Clark Kent\"",
+   "fame": 4,
+   "embed": false
+  },
+  "p467": {
+   "yt": "tcxyXnPIF4o",
+   "start": 25,
+   "date": "2024-08-04",
+   "year": 2024,
+   "sport": "Olympics",
+   "title": "Noah Lyles wins the 100m by five thousandths of a second",
+   "fame": 4,
+   "embed": false
+  },
+  "p468": {
+   "yt": "jL4ee1vS-ao",
+   "start": 412,
+   "date": "2024-08-05",
+   "year": 2024,
+   "sport": "Olympics",
+   "title": "Mondo Duplantis breaks the pole vault world record in Paris",
+   "fame": 3,
+   "embed": true
+  },
+  "p469": {
+   "yt": "xf-zV1uTkW0",
+   "start": 216,
+   "date": "2024-08-10",
+   "year": 2024,
+   "sport": "Olympics",
+   "title": "Steph Curry's \"night night\" three beats France for Olympic gold",
+   "fame": 5,
+   "embed": false
+  },
+  "p470": {
+   "yt": "-jYfC4YYXIw",
+   "start": 181,
+   "date": "2024-09-19",
+   "year": 2024,
+   "sport": "MLB",
+   "title": "Shohei Ohtani joins the 50-50 club",
+   "fame": 5,
+   "embed": true
+  },
+  "p471": {
+   "yt": "jrDacPNWBGA",
+   "start": 56,
+   "date": "2024-10-25",
+   "year": 2024,
+   "sport": "MLB",
+   "title": "Freddie Freeman's walk-off grand slam in Game 1 of the World Series",
+   "fame": 5,
+   "embed": true
+  },
+  "p472": {
+   "yt": "eRt-eMZWmm4",
+   "start": 0,
+   "date": "2024-10-27",
+   "year": 2024,
+   "sport": "NFL",
+   "title": "Jayden Daniels's Hail Mary beats the Bears",
+   "fame": 4,
+   "embed": true
+  },
+  "p473": {
+   "yt": "Aja2KfuoqGA",
+   "start": 110,
+   "date": "2024-11-15",
+   "year": 2024,
+   "sport": "Boxing",
+   "title": "Jake Paul vs. Mike Tyson (Netflix fight)",
+   "fame": 3,
+   "embed": true
+  },
+  "p474": {
+   "yt": "6bKoORH2sY4",
+   "start": 2,
+   "date": "2025-04-13",
+   "year": 2025,
+   "sport": "Golf",
+   "title": "Rory McIlroy completes the career Grand Slam at the Masters",
+   "fame": 5,
+   "embed": true
+  },
+  "p475": {
+   "yt": "-WLMQ1dsIAg",
+   "start": 0,
+   "date": "2025-06-22",
+   "year": 2025,
+   "sport": "NBA",
+   "title": "Thunder win Game 7 of the NBA Finals",
+   "fame": 3,
+   "embed": true
+  },
+  "p476": {
+   "yt": "BKZ4p_bN_V4",
+   "start": 304,
+   "date": "2025-11-01",
+   "year": 2025,
+   "sport": "MLB",
+   "title": "Dodgers beat the Blue Jays in Game 7 of the World Series",
+   "fame": 3,
+   "embed": true
+  },
+  "p477": {
+   "yt": "kpTM-q730Kk",
+   "start": 0,
+   "date": "2016-10-22",
+   "year": 2016,
+   "sport": "College football",
+   "title": "Penn State blocks Ohio State's field goal in the upset",
+   "fame": 3,
+   "embed": true
+  },
+  "p478": {
+   "yt": "k2J9Vnw4M-E",
+   "start": 0,
+   "date": "2016-10-22",
+   "year": 2016,
+   "sport": "MLB",
+   "title": "Cubs beat the Dodgers to win the NL pennant (NLCS Game 6)",
+   "fame": 3,
+   "embed": true
+  },
+  "p479": {
+   "yt": "dJsBk5LSGsw",
+   "start": 0,
+   "date": "2016-06-26",
+   "year": 2016,
+   "sport": "Soccer",
+   "title": "Lionel Messi misses a penalty in the Copa América final shootout (Argentina vs. Chile)",
+   "fame": 4,
+   "embed": true
+  },
+  "p480": {
+   "yt": "6TnKvlQ2h7s",
+   "start": 60,
+   "date": "2013-05-12",
+   "year": 2013,
+   "sport": "Soccer",
+   "title": "Hogg and Deeney: Troy Deeney's last-minute goal beats Leicester (Watford, Championship playoff semifinal)",
+   "fame": 3,
+   "embed": true,
+   "check": true
+  },
+  "p481": {
+   "yt": "lJKcC0EaUuk",
+   "start": 143,
+   "date": "2014-06-07",
+   "year": 2014,
+   "sport": "Horse racing",
+   "title": "California Chrome is denied the Triple Crown at the Belmont Stakes",
+   "fame": 3,
+   "embed": true
+  },
+  "p482": {
+   "yt": "TrhFR62gf1c",
+   "start": 0,
+   "date": "2013-01-12",
+   "year": 2013,
+   "sport": "NFL",
+   "title": "Justin Tucker's double-overtime field goal beats the Broncos (Ravens vs. Broncos)",
+   "fame": 4,
+   "embed": true
+  },
+  "p483": {
+   "yt": "SyPrP3gj2Rw",
+   "start": 0,
+   "date": "2011-09-10",
+   "year": 2011,
+   "sport": "Tennis",
+   "title": "Djokovic saves two match points with a forehand return winner at 40-15 against Federer (U.S. Open semifinal)",
+   "fame": 4,
+   "embed": true,
+   "check": true
+  },
+  "p484": {
+   "yt": "VyvavfpEwbI",
+   "start": 0,
+   "date": "2010-07-08",
+   "year": 2010,
+   "sport": "NBA",
+   "title": "LeBron James announces \"The Decision\"",
+   "fame": 4,
+   "embed": true
+  },
+  "p485": {
+   "yt": "Xu0cy10ZjnA",
+   "start": 0,
+   "date": "2009-12-05",
+   "year": 2009,
+   "sport": "College football",
+   "title": "Alabama beats Florida in the SEC championship game",
+   "fame": 4,
+   "embed": true,
+   "check": true
+  },
+  "p486": {
+   "yt": "ezbCtS5-0V8",
+   "start": 0,
+   "date": "1991-11-16",
+   "year": 1991,
+   "sport": "College football",
+   "title": "\"Wide Right\": Florida State misses the field goal against Miami",
+   "fame": 4,
+   "embed": true
+  },
+  "p487": {
+   "yt": "V6PuOjVb3N4",
+   "start": 443,
+   "date": "2007-01-06",
+   "year": 2007,
+   "sport": "NFL",
+   "title": "Tony Romo fumbles the field goal snap (Cowboys vs. Seahawks, playoffs)",
+   "fame": 4,
+   "embed": true
+  },
+  "p488": {
+   "yt": "TA0ZVxHRxCM",
+   "start": 13,
+   "date": "2008-08-08",
+   "year": 2008,
+   "sport": "Olympics",
+   "title": "Opening Ceremony of the Beijing Olympics",
+   "fame": 4,
+   "embed": true
+  },
+  "p489": {
+   "yt": "EpF-Pg8kN5k",
+   "start": 0,
+   "date": "2005-10-26",
+   "year": 2005,
+   "sport": "MLB",
+   "title": "White Sox win the World Series, their first title in 88 years",
+   "fame": 3,
+   "embed": true
+  },
+  "p490": {
+   "yt": "9017_xA5tn8",
+   "start": 48,
+   "date": "2002-11-09",
+   "year": 2002,
+   "sport": "College football",
+   "title": "\"Holy Buckeye\": Craig Krenzel's fourth-down pass to Michael Jenkins (Ohio State vs. Purdue)",
+   "fame": 3,
+   "embed": true
+  },
+  "p491": {
+   "yt": "PhVs14QmJdY",
+   "start": 0,
+   "date": "1994-06-17",
+   "year": 1994,
+   "sport": "Other",
+   "title": "O.J. Simpson's Bronco chase",
+   "fame": 5,
+   "embed": true
+  },
+  "p492": {
+   "yt": "Rnpmicc87zI",
+   "start": 7,
+   "date": "1996-01-02",
+   "year": 1996,
+   "sport": "College football",
+   "title": "Nebraska vs. Florida in the Fiesta Bowl",
+   "fame": 3,
+   "embed": true,
+   "check": true
+  },
+  "p493": {
+   "yt": "fQSxEjF2iVE",
+   "start": 0,
+   "date": "1996-10-05",
+   "year": 1996,
+   "sport": "College football",
+   "title": "Lee Corso's first headgear pick on College GameDay",
+   "fame": 3,
+   "embed": true
+  },
+  "p494": {
+   "yt": "KRIFsDurWfk",
+   "start": 205,
+   "date": "2025-08-30",
+   "year": 2025,
+   "sport": "College football",
+   "title": "Lee Corso's last headgear pick on College GameDay",
+   "fame": 4,
+   "embed": true
+  },
+  "p495": {
+   "yt": "NlwUFA5Sric",
+   "start": 44,
+   "date": "1997-05-13",
+   "year": 1997,
+   "sport": "NBA",
+   "title": "Michael Jordan dunks on Dikembe Mutombo",
+   "fame": 4,
+   "embed": true
+  },
+  "p496": {
+   "yt": "UuJ50Co7eUY",
+   "start": 0,
+   "date": "2002-11-16",
+   "year": 2002,
+   "sport": "College football",
+   "title": "\"Bluegrass Miracle\": Marcus Randall's Hail Mary to Devery Henderson (LSU vs. Kentucky)",
+   "fame": 4,
+   "embed": true
+  },
+  "p497": {
+   "yt": "Z7O563TE6aY",
+   "start": 28,
+   "date": "2025-05-21",
+   "year": 2025,
+   "sport": "NBA",
+   "title": "Tyrese Haliburton's buzzer-beater wins Game 1 (Pacers vs. Knicks)",
+   "fame": 4,
+   "embed": true
+  },
+  "p498": {
+   "yt": "ffJusl-xITY",
+   "start": 0,
+   "date": "2001-10-06",
+   "year": 2001,
+   "sport": "College football",
+   "title": "Roy Williams' \"Superman\" leap (Oklahoma vs. Texas)",
+   "fame": 4,
+   "embed": true
+  },
+  "p499": {
+   "yt": "AFpmYE4XOO0",
+   "start": 0,
+   "date": "2018-01-08",
+   "year": 2018,
+   "sport": "College football",
+   "title": "Tua Tagovailoa's 2nd-and-26 touchdown to DeVonta Smith (Alabama vs. Georgia, national championship)",
+   "fame": 5,
+   "embed": true
+  },
+  "p500": {
+   "yt": "5sFyHuYaV9A",
+   "start": 0,
+   "date": "2022-01-10",
+   "year": 2022,
+   "sport": "College football",
+   "title": "Kelee Ringo's pick-six seals Georgia's title over Alabama (national championship)",
+   "fame": 4,
+   "embed": true
+  },
+  "p501": {
+   "yt": "rdDS8ylet9c",
+   "start": 0,
+   "date": "2017-03-22",
+   "year": 2017,
+   "sport": "MLB",
+   "title": "USA wins the World Baseball Classic",
+   "fame": 3,
+   "embed": true
+  },
+  "p502": {
+   "yt": "NMfBdEV03j8",
+   "start": 149,
+   "date": "2023-03-21",
+   "year": 2023,
+   "sport": "MLB",
+   "title": "Shohei Ohtani strikes out Mike Trout to win the World Baseball Classic (Japan vs. USA)",
+   "fame": 5,
+   "embed": true
+  },
+  "p503": {
+   "yt": "FaQB7TdTdPY",
+   "start": 484,
+   "date": "2026-03-17",
+   "year": 2026,
+   "sport": "MLB",
+   "title": "Venezuela wins the World Baseball Classic",
+   "fame": 3,
+   "embed": true
+  },
+  "p504": {
+   "yt": "YGqnsvrlmS0",
+   "start": 0,
+   "date": "2016-11-26",
+   "year": 2016,
+   "sport": "College football",
+   "title": "J.T. Barrett's fourth-down first down in double overtime (Ohio State vs. Michigan)",
+   "fame": 3,
+   "embed": true
+  },
+  "p505": {
+   "yt": "FcgNNKJfyU0",
+   "start": 178,
+   "date": "2015-01-01",
+   "year": 2015,
+   "sport": "College football",
+   "title": "Ezekiel Elliott's 85-yard run \"through the heart of the South\" (Ohio State vs. Alabama, Sugar Bowl)",
+   "fame": 4,
+   "embed": true
+  },
+  "p506": {
+   "yt": "NjGcCI9ByWw",
+   "start": 0,
+   "date": "2001-10-30",
+   "year": 2001,
+   "sport": "MLB",
+   "title": "George W. Bush throws the first pitch of World Series Game 3 after 9/11 (Yankees vs. Diamondbacks)",
+   "fame": 4,
+   "embed": true
+  },
+  "p507": {
+   "yt": "qQZPBFI5cc4",
+   "start": 18,
+   "date": "2001-02-18",
+   "year": 2001,
+   "sport": "Motorsport",
+   "title": "Dale Earnhardt's fatal crash on the last lap of the Daytona 500",
+   "fame": 5,
+   "embed": true
+  },
+  "p508": {
+   "yt": "leEE0LD3zPk",
+   "start": 0,
+   "date": "2016-01-11",
+   "year": 2016,
+   "sport": "College football",
+   "title": "Kenyan Drake's kickoff return touchdown (Alabama vs. Clemson, national championship)",
+   "fame": 3,
+   "embed": true
+  },
+  "p509": {
+   "yt": "IPJv9YzozoQ",
+   "start": 0,
+   "date": "2019-01-20",
+   "year": 2019,
+   "sport": "NFL",
+   "title": "Dee Ford's offside erases a Chiefs interception of Tom Brady (AFC championship, Chiefs vs. Patriots)",
+   "fame": 4,
+   "embed": true
+  },
+  "p510": {
+   "yt": "O7SVmwNta_s",
+   "start": 129,
+   "date": "2020-09-06",
+   "year": 2020,
+   "sport": "Tennis",
+   "title": "Novak Djokovic is defaulted for hitting a ball at a line judge (U.S. Open)",
+   "fame": 4,
+   "embed": true
+  },
+  "p511": {
+   "yt": "uiz87A3RpEw",
+   "start": 0,
+   "date": "2018-12-09",
+   "year": 2018,
+   "sport": "NFL",
+   "title": "\"Miracle in Miami\": Dolphins beat the Patriots on a last-play lateral touchdown",
+   "fame": 5,
+   "embed": true
+  },
+  "p512": {
+   "yt": "sOQKRjP3ZJk",
+   "start": 0,
+   "date": "2026-06-10",
+   "year": 2026,
+   "sport": "NBA",
+   "title": "OG Anunoby's tip-in wins Game 4 of the NBA Finals (Knicks vs. Spurs)",
+   "fame": 4,
+   "embed": true
+  },
+  "p513": {
+   "yt": "e6a6lppWZkQ",
+   "start": 0,
+   "date": "2026-07-19",
+   "year": 2026,
+   "sport": "Soccer",
+   "title": "Ferran Torres's extra-time goal wins the World Cup for Spain (Spain vs. Argentina)",
+   "fame": 5,
+   "embed": true
+  },
+  "p514": {
+   "yt": "yTY04Bon48U",
+   "start": 0,
+   "date": "2021-04-03",
+   "year": 2021,
+   "sport": "College basketball",
+   "title": "Jalen Suggs's half-court buzzer-beater (Gonzaga vs. UCLA, Final Four)",
+   "fame": 5,
+   "embed": true
+  },
+  "p515": {
+   "yt": "nBCS-Tc_dgQ",
+   "start": 4496,
+   "date": "1999-03-18",
+   "year": 1999,
+   "sport": "College basketball",
+   "title": "Gonzaga beats Florida in the Sweet 16: \"the slipper still fits\"",
+   "fame": 3,
+   "embed": true,
+   "check": true
+  },
+  "p516": {
+   "yt": "caIHp2WYn4c",
+   "start": 0,
+   "date": "2018-04-01",
+   "year": 2018,
+   "sport": "College basketball",
+   "title": "Arike Ogunbowale's buzzer-beater wins the national title for Notre Dame (vs. Mississippi State)",
+   "fame": 4,
+   "embed": true,
+   "check": true
+  },
+  "p517": {
+   "yt": "crG-q5w9EBA",
+   "start": 164,
+   "date": "1980-09-06",
+   "year": 1980,
+   "sport": "College football",
+   "title": "Herschel Walker runs over Tennessee's Bill Bates (Georgia vs. Tennessee)",
+   "fame": 4,
+   "embed": true
+  },
+  "p518": {
+   "yt": "2JYx-_eXQa4",
+   "start": 0,
+   "date": "2013-01-01",
+   "year": 2013,
+   "sport": "College football",
+   "title": "Jadeveon Clowney's hit on Vincent Smith (South Carolina vs. Michigan, Outback Bowl)",
+   "fame": 4,
+   "embed": true
+  },
+  "p519": {
+   "yt": "8c47m212Mkk",
+   "start": 0,
+   "date": "2026-02-22",
+   "year": 2026,
+   "sport": "Olympics",
+   "title": "Jack Hughes's overtime golden goal wins Olympic hockey gold for the USA",
+   "fame": 5,
+   "embed": false
+  },
+  "p520": {
+   "yt": "-YSvHFNUUU8",
+   "start": 6,
+   "date": "2014-04-27",
+   "year": 2014,
+   "sport": "Soccer",
+   "title": "Steven Gerrard slips and Demba Ba scores (Liverpool vs. Chelsea)",
+   "fame": 4,
+   "embed": true
+  },
+  "p521": {
+   "yt": "dqJ0E-4sfXM",
+   "start": 0,
+   "date": "2017-01-02",
+   "year": 2017,
+   "sport": "College football",
+   "title": "USC beats Penn State 52-49 on a last-second field goal (Rose Bowl)",
+   "fame": 4,
+   "embed": true
+  },
+  "p522": {
+   "yt": "3rRerS2UawA",
+   "start": 0,
+   "date": "2014-01-06",
+   "year": 2014,
+   "sport": "College football",
+   "title": "Levonte Whitfield's kickoff return touchdown (Florida State vs. Auburn, national championship)",
+   "fame": 3,
+   "embed": true
+  },
+  "p523": {
+   "yt": "aTyYNAuID7Q",
+   "start": 0,
+   "date": "2011-01-10",
+   "year": 2011,
+   "sport": "College football",
+   "title": "Michael Dyer keeps running after being ruled not down (Auburn vs. Oregon, national championship)",
+   "fame": 4,
+   "embed": true
+  },
+  "p524": {
+   "yt": "bV0YvPnmZsU",
+   "start": 0,
+   "date": "2015-10-24",
+   "year": 2015,
+   "sport": "College football",
+   "title": "\"Miracle on Techwood Drive\": Georgia Tech beats Florida State on a blocked-field-goal return",
+   "fame": 3,
+   "embed": true
+  },
+  "p525": {
+   "yt": "RUM2p7M9tYs",
+   "start": 51,
+   "date": "2024-01-01",
+   "year": 2024,
+   "sport": "College football",
+   "title": "Michigan beats Alabama in overtime in the Rose Bowl, Nick Saban's last game",
+   "fame": 3,
+   "embed": true
+  },
+  "p526": {
+   "yt": "xkpnKA7qR18",
+   "start": 10,
+   "date": "2025-01-20",
+   "year": 2025,
+   "sport": "College football",
+   "title": "Jeremiah Smith's 3rd-and-11 catch (Ohio State vs. Notre Dame, national championship)",
+   "fame": 4,
+   "embed": true
+  },
+  "p527": {
+   "yt": "WpK7QUG3cbE",
+   "start": 139,
+   "date": "2012-10-13",
+   "year": 2012,
+   "sport": "College football",
+   "title": "Notre Dame's goal-line stand in overtime against Stanford",
+   "fame": 3,
+   "embed": true,
+   "check": true
+  },
+  "p528": {
+   "yt": "tRnJRQmVMTg",
+   "start": 802,
+   "date": "2026-05-30",
+   "year": 2026,
+   "sport": "Soccer",
+   "title": "PSG beats Arsenal on penalties in the Champions League final",
+   "fame": 4,
+   "embed": true
+  },
+  "p529": {
+   "yt": "4rp2aLQl7vg",
+   "start": 94,
+   "date": "2018-06-15",
+   "year": 2018,
+   "sport": "Soccer",
+   "title": "Cristiano Ronaldo's hat-trick against Spain (Portugal vs. Spain, World Cup)",
+   "fame": 5,
+   "embed": true
+  },
+  "p530": {
+   "yt": "8KbNmJQllmg",
+   "start": 0,
+   "date": "2011-12-10",
+   "year": 2011,
+   "sport": "College basketball",
+   "title": "Christian Watford's buzzer-beater beats No. 1 Kentucky (Indiana vs. Kentucky)",
+   "fame": 4,
+   "embed": true
+  },
+  "p531": {
+   "yt": "sOaOxFbMljI",
+   "start": 906,
+   "date": "2022-04-02",
+   "year": 2022,
+   "sport": "College basketball",
+   "title": "North Carolina beats Duke in the Final Four, Coach K's last game",
+   "fame": 4,
+   "embed": true
+  },
+  "p532": {
+   "yt": "FMiMzq0YTwc",
+   "start": 62,
+   "date": "1972-09-28",
+   "year": 1972,
+   "sport": "NHL",
+   "title": "Paul Henderson scores in the final minute of Game 8 (Canada vs. USSR, Summit Series)",
+   "fame": 5,
+   "embed": true
+  },
+  "p533": {
+   "yt": "yjIrvVOlzOk",
+   "start": 27,
+   "date": "1994-03-23",
+   "year": 1994,
+   "sport": "NHL",
+   "title": "Wayne Gretzky breaks Gordie Howe's goal record with No. 802 (Kings vs. Canucks)",
+   "fame": 4,
+   "embed": true
+  },
+  "p534": {
+   "yt": "n2Kii2xUHa0",
+   "start": 0,
+   "date": "2025-04-06",
+   "year": 2025,
+   "sport": "NHL",
+   "title": "Alex Ovechkin scores No. 895 to pass Wayne Gretzky (Capitals vs. Islanders)",
+   "fame": 5,
+   "embed": true
+  },
+  "p535": {
+   "yt": "PLWYnTFz9PE",
+   "start": 20,
+   "date": "1971-03-08",
+   "year": 1971,
+   "sport": "Boxing",
+   "title": "Joe Frazier knocks down Muhammad Ali with a left hook, \"Fight of the Century\"",
+   "fame": 5,
+   "embed": true
+  },
+  "p536": {
+   "yt": "oNEfN2R4oRc",
+   "start": 4040,
+   "date": "1975-10-01",
+   "year": 1975,
+   "sport": "Boxing",
+   "title": "Ali vs. Frazier, \"Thrilla in Manila\": Frazier's corner stops the fight",
+   "fame": 5,
+   "embed": true
+  },
+  "p537": {
+   "yt": "pGzmZde6Pgc",
+   "start": 63,
+   "date": "1981-09-16",
+   "year": 1981,
+   "sport": "Boxing",
+   "title": "Sugar Ray Leonard stops Thomas Hearns in the 14th round, \"The Showdown\"",
+   "fame": 3,
+   "embed": true
+  },
+  "p538": {
+   "yt": "D5mRv3xGY80",
+   "start": 175,
+   "date": "2002-05-18",
+   "year": 2002,
+   "sport": "Boxing",
+   "title": "Arturo Gatti vs. Micky Ward, Round 9 of the first fight",
+   "fame": 3,
+   "embed": true
+  },
+  "p539": {
+   "yt": "Lg2uQ1uoBJU",
+   "start": 5,
+   "date": "2018-12-01",
+   "year": 2018,
+   "sport": "Boxing",
+   "title": "Tyson Fury gets up after a knockdown in the 12th round (Fury vs. Wilder I)",
+   "fame": 4,
+   "embed": true
+  },
+  "p540": {
+   "yt": "ZtHqbo6J-p0",
+   "start": 0,
+   "date": "2017-04-29",
+   "year": 2017,
+   "sport": "Boxing",
+   "title": "Anthony Joshua knocks out Wladimir Klitschko in the 11th round",
+   "fame": 3,
+   "embed": true
+  },
+  "p541": {
+   "yt": "9MiwQO-qhpc",
+   "start": 613,
+   "date": "2021-10-09",
+   "year": 2021,
+   "sport": "Boxing",
+   "title": "Tyson Fury knocks out Deontay Wilder in the 11th round (Fury vs. Wilder III)",
+   "fame": 3,
+   "embed": true
+  },
+  "p542": {
+   "yt": "F2Nh8irpaFQ",
+   "start": 0,
+   "date": "1994-05-01",
+   "year": 1994,
+   "sport": "Motorsport",
+   "title": "Ayrton Senna dies in a crash at the San Marino Grand Prix",
+   "fame": 4,
+   "embed": true
+  },
+  "p543": {
+   "yt": "JDKRNlzUDCE",
+   "start": 144,
+   "date": "2015-11-15",
+   "year": 2015,
+   "sport": "Other",
+   "title": "Holly Holm knocks out Ronda Rousey with a head kick (UFC 193)",
+   "fame": 4,
+   "embed": true
+  },
+  "p544": {
+   "yt": "7qrVQwjieac",
+   "start": 26,
+   "date": "2015-12-12",
+   "year": 2015,
+   "sport": "Other",
+   "title": "Conor McGregor knocks out José Aldo in 13 seconds (UFC 194)",
+   "fame": 4,
+   "embed": true
+  },
+  "p545": {
+   "yt": "_IsdTgMfh1s",
+   "start": 2085,
+   "date": "2012-01-29",
+   "year": 2012,
+   "sport": "Tennis",
+   "title": "Novak Djokovic beats Rafael Nadal in the longest Australian Open final",
+   "fame": 3,
+   "embed": true
+  },
+  "p546": {
+   "yt": "gTCAhLPpXjo",
+   "start": 800,
+   "date": "1975-07-05",
+   "year": 1975,
+   "sport": "Tennis",
+   "title": "Arthur Ashe upsets Jimmy Connors in the Wimbledon final",
+   "fame": 3,
+   "embed": true
+  },
+  "p547": {
+   "yt": "mMnynoBGdo0",
+   "start": 675,
+   "date": "2025-06-08",
+   "year": 2025,
+   "sport": "Tennis",
+   "title": "Carlos Alcaraz saves championship points to beat Jannik Sinner in the French Open final",
+   "fame": 3,
+   "embed": true
+  },
+  "p548": {
+   "yt": "ua4Rg7wjuyc",
+   "start": 118,
+   "date": "1978-06-10",
+   "year": 1978,
+   "sport": "Horse racing",
+   "title": "Affirmed holds off Alydar in the Belmont Stakes to win the Triple Crown",
+   "fame": 3,
+   "embed": true
+  },
+  "p549": {
+   "yt": "Ci_ychn7ga0",
+   "start": 159,
+   "date": "2019-05-04",
+   "year": 2019,
+   "sport": "Horse racing",
+   "title": "Maximum Security is disqualified at the Kentucky Derby",
+   "fame": 4,
+   "embed": true
+  },
+  "p550": {
+   "yt": "y3V6hfAUU9g",
+   "start": 0,
+   "date": "1971-10-17",
+   "year": 1971,
+   "sport": "MLB",
+   "title": "Roberto Clemente homers in Game 7 of the World Series (Pirates vs. Orioles)",
+   "fame": 3,
+   "embed": true
+  },
+  "p551": {
+   "yt": "DS_ZNHPsmaI",
+   "start": 93,
+   "date": "2025-10-27",
+   "year": 2025,
+   "sport": "MLB",
+   "title": "Freddie Freeman's walk-off home run in the 18th inning of Game 3 (Dodgers vs. Blue Jays, World Series)",
+   "fame": 4,
+   "embed": true,
+   "check": true
+  },
+  "p552": {
+   "yt": "h3iLEYHvex4",
+   "start": 0,
+   "date": "1970-05-08",
+   "year": 1970,
+   "sport": "NBA",
+   "title": "Willis Reed limps onto the court (Knicks vs. Lakers, Finals Game 7)",
+   "fame": 4,
+   "embed": true
+  },
+  "p553": {
+   "yt": "HMm5NtXLVDY",
+   "start": 0,
+   "date": "2019-04-23",
+   "year": 2019,
+   "sport": "NBA",
+   "title": "Damian Lillard's series-ending three over Paul George (Trail Blazers vs. Thunder)",
+   "fame": 4,
+   "embed": true
+  },
+  "p554": {
+   "yt": "LhcyGIS12ns",
+   "start": 3,
+   "date": "2017-06-07",
+   "year": 2017,
+   "sport": "NBA",
+   "title": "Kevin Durant's three-pointer over LeBron James in Game 3 of the Finals (Warriors vs. Cavaliers)",
+   "fame": 3,
+   "embed": true
+  },
+  "p555": {
+   "yt": "asziWjSFdfg",
+   "start": 5219,
+   "date": "1985-04-01",
+   "year": 1985,
+   "sport": "College basketball",
+   "title": "Villanova upsets Georgetown in the NCAA title game",
+   "fame": 3,
+   "embed": true
+  },
+  "p556": {
+   "yt": "zNSPHx9S-wM",
+   "start": 23,
+   "date": "1987-03-30",
+   "year": 1987,
+   "sport": "College basketball",
+   "title": "Keith Smart's jumper wins the NCAA title for Indiana (vs. Syracuse)",
+   "fame": 3,
+   "embed": true
+  },
+  "p557": {
+   "yt": "dH0NURiktuA",
+   "start": 0,
+   "date": "2019-04-06",
+   "year": 2019,
+   "sport": "College basketball",
+   "title": "Kyle Guy hits three free throws to beat Auburn in the Final Four (Virginia)",
+   "fame": 3,
+   "embed": true
+  },
+  "p558": {
+   "yt": "qZV9UWY5wwY",
+   "start": 0,
+   "date": "2011-02-12",
+   "year": 2011,
+   "sport": "Soccer",
+   "title": "Wayne Rooney's bicycle kick in the Manchester derby (Manchester United vs. Manchester City)",
+   "fame": 3,
+   "embed": true
+  },
+  "p559": {
+   "yt": "RM_5tJncHww",
+   "start": 0,
+   "date": "2012-11-14",
+   "year": 2012,
+   "sport": "Soccer",
+   "title": "Zlatan Ibrahimović's overhead kick against England (Sweden vs. England)",
+   "fame": 3,
+   "embed": true
+  },
+  "p560": {
+   "yt": "Nt8198a0acA",
+   "start": 0,
+   "date": "2018-04-03",
+   "year": 2018,
+   "sport": "Soccer",
+   "title": "Cristiano Ronaldo's bicycle kick against Juventus (Real Madrid)",
+   "fame": 4,
+   "embed": false
+  },
+  "p561": {
+   "yt": "VfhFW18uhBE",
+   "start": 0,
+   "date": "2018-05-26",
+   "year": 2018,
+   "sport": "Soccer",
+   "title": "Gareth Bale's bicycle kick in the Champions League final (Real Madrid vs. Liverpool)",
+   "fame": 4,
+   "embed": true
+  },
+  "p562": {
+   "yt": "UlOSfRkOiv8",
+   "start": 558,
+   "date": "2019-11-09",
+   "year": 2019,
+   "sport": "College football",
+   "title": "Joe Burrow leads LSU past Alabama in Tuscaloosa",
+   "fame": 3,
+   "embed": true
+  },
+  "p563": {
+   "yt": "xe-qakPqNCc",
+   "start": 0,
+   "date": "2026-01-19",
+   "year": 2026,
+   "sport": "College football",
+   "title": "Fernando Mendoza's fourth-down touchdown run in the national championship (Indiana vs. Miami)",
+   "fame": 4,
+   "embed": true
+  },
+  "p564": {
+   "yt": "-eBLz8ZsUTY",
+   "start": 0,
+   "date": "2006-09-25",
+   "year": 2006,
+   "sport": "NFL",
+   "title": "Steve Gleason blocks a punt in the Saints' first game back in the Superdome after Hurricane Katrina (Saints vs. Falcons)",
+   "fame": 4,
+   "embed": true
+  },
+  "p565": {
+   "yt": "oCu5rO2ETvs",
+   "start": 0,
+   "date": "1987-05-23",
+   "year": 1987,
+   "sport": "NBA",
+   "title": "Bill Laimbeer and Larry Bird fight (Pistons vs. Celtics, Eastern Conference finals)",
+   "fame": 3,
+   "embed": true,
+   "check": true
+  },
+  "p566": {
+   "yt": "v31gYAWA7Vg",
+   "start": 0,
+   "date": "1981-04-09",
+   "year": 1981,
+   "sport": "MLB",
+   "title": "Fernando Valenzuela's shutout on Opening Day starts Fernandomania (Dodgers vs. Astros)",
+   "fame": 3,
+   "embed": true
+  },
+  "p567": {
+   "yt": "eMbVFl1dxVM",
+   "start": 628,
+   "date": "2015-04-04",
+   "year": 2015,
+   "sport": "College basketball",
+   "title": "Wisconsin ends Kentucky's unbeaten season in the Final Four",
+   "fame": 4,
+   "embed": true
+  },
+  "p568": {
+   "yt": "x7DTNEa2E7w",
+   "start": 0,
+   "date": "2007-11-26",
+   "year": 2007,
+   "sport": "NFL",
+   "title": "Brandon Fields' punt sticks in the mud in the \"Mud Bowl\" (Steelers vs. Dolphins)",
+   "fame": 3,
+   "embed": true
+  },
+  "p569": {
+   "yt": "BER_-PP1nbM",
+   "start": 0,
+   "date": "2020-01-04",
+   "year": 2020,
+   "sport": "NFL",
+   "title": "Logan Ryan's pick-six off Tom Brady, his last game as a Patriot (Patriots vs. Titans)",
+   "fame": 4,
+   "embed": true
+  },
+  "p570": {
+   "yt": "jOOiMcMlnI8",
+   "start": 1845,
+   "date": "2026-09-19",
+   "year": 2026,
+   "sport": "College football",
+   "title": "Lane Kiffin returns to Oxford as LSU's coach (LSU at Ole Miss)",
+   "fame": 4,
+   "embed": true
+  },
+  "p571": {
+   "yt": "8SiydPdJY0Q",
+   "start": 0,
+   "date": "1992-01-05",
+   "year": 1992,
+   "sport": "NFL",
+   "title": "Barry Sanders' 47-yard touchdown run (Lions vs. Cowboys, NFC divisional playoff)",
+   "fame": 3,
+   "embed": true
+  },
+  "p572": {
+   "yt": "oO4e5a2FEtM",
+   "start": 0,
+   "date": "2016-09-03",
+   "year": 2016,
+   "sport": "College football",
+   "title": "Josh Rosen leads UCLA's late comeback to force overtime at Texas A&M",
+   "fame": 3,
+   "embed": true
+  },
+  "p573": {
+   "yt": "mOk36_I2Pho",
+   "start": 0,
+   "date": "2026-09-05",
+   "year": 2026,
+   "sport": "College football",
+   "title": "Michigan's second-chance Hail Mary after the clock is reset to one second (Michigan vs. Western Michigan)",
+   "fame": 4,
+   "embed": true
+  },
+  "p574": {
+   "yt": "iA3CqVZrFZs",
+   "start": 0,
+   "date": "2021-06-19",
+   "year": 2021,
+   "sport": "NBA",
+   "title": "Kevin Durant's toe-on-the-line shot forces overtime in Game 7 (Nets vs. Bucks)",
+   "fame": 4,
+   "embed": true
+  },
+  "p575": {
+   "yt": "nWfmFK3lsag",
+   "start": 42,
+   "date": "2026-03-29",
+   "year": 2026,
+   "sport": "College basketball",
+   "title": "Braylon Mullins' buzzer-beater lifts UConn past Duke (Elite Eight)",
+   "fame": 4,
+   "embed": true
+  },
+  "p576": {
+   "yt": "VrmJq8XFwkA",
+   "start": 4,
+   "date": "2017-03-26",
+   "year": 2017,
+   "sport": "College basketball",
+   "title": "Luke Maye's jumper beats Kentucky (North Carolina vs. Kentucky, Elite Eight)",
+   "fame": 4,
+   "embed": true
+  },
+  "p577": {
+   "yt": "86d54qn5_dc",
+   "start": 413,
+   "date": "2018-11-24",
+   "year": 2018,
+   "sport": "College football",
+   "title": "Texas A&M beats LSU in seven overtimes",
+   "fame": 4,
+   "embed": true
+  },
+  "p578": {
+   "yt": "-z950ovP7N4",
+   "start": 87,
+   "date": "1975-11-08",
+   "year": 1975,
+   "sport": "College football",
+   "title": "Rudy Ruettiger sacks the quarterback on the last play (Notre Dame vs. Georgia Tech)",
+   "fame": 4,
+   "embed": true
+  },
+  "p579": {
+   "yt": "fzWGnA4Ll-0",
+   "start": 0,
+   "date": "1970-04-29",
+   "year": 1970,
+   "sport": "NBA",
+   "title": "Jerry West hits a 60-foot buzzer-beater to force overtime in NBA Finals Game 3 (Lakers vs. Knicks)",
+   "fame": 4,
+   "embed": true
+  },
+  "p580": {
+   "yt": "rRdWHhWUbp4",
+   "start": 19,
+   "date": "1971-01-17",
+   "year": 1971,
+   "sport": "NFL",
+   "title": "Jim O'Brien's last-second 32-yard field goal wins Super Bowl V (Colts vs. Cowboys)",
+   "fame": 4,
+   "embed": true
+  },
+  "p581": {
+   "yt": "enkfX2-uhYE",
+   "start": 0,
+   "date": "1971-07-13",
+   "year": 1971,
+   "sport": "MLB",
+   "title": "Reggie Jackson's All-Star Game home run hits the light tower at Tiger Stadium",
+   "fame": 4,
+   "embed": true
+  },
+  "p582": {
+   "yt": "sJRXlCeAXPY",
+   "start": 0,
+   "date": "1975-10-22",
+   "year": 1975,
+   "sport": "MLB",
+   "title": "Tony Perez's two-run home run sparks the Reds' Game 7 World Series comeback (Reds vs. Red Sox)",
+   "fame": 4,
+   "embed": true
+  },
+  "p583": {
+   "yt": "hbr1hNp-nI4",
+   "start": 0,
+   "date": "1976-04-25",
+   "year": 1976,
+   "sport": "MLB",
+   "title": "Rick Monday rescues the American flag from protesters at Dodger Stadium",
+   "fame": 4,
+   "embed": true
+  },
+  "p584": {
+   "yt": "3ZjNDvuMxzc",
+   "start": 130,
+   "date": "1976-06-04",
+   "year": 1976,
+   "sport": "NBA",
+   "title": "Gar Heard's 'Shot Heard Round the World' forces triple overtime in NBA Finals Game 5 (Suns vs. Celtics)",
+   "fame": 4,
+   "embed": true
+  },
+  "p585": {
+   "yt": "j7B7HA-1hu4",
+   "start": 54,
+   "date": "1981-03-19",
+   "year": 1981,
+   "sport": "College basketball",
+   "title": "Danny Ainge's coast-to-coast layup beats Notre Dame at the buzzer (NCAA Sweet 16)",
+   "fame": 4,
+   "embed": true
+  },
+  "p586": {
+   "yt": "wvwiC_-wIew",
+   "start": 0,
+   "date": "1981-10-23",
+   "year": 1981,
+   "sport": "MLB",
+   "title": "Fernando Valenzuela strikes out Lou Piniella to finish a 147-pitch complete game in World Series Game 3 (Dodgers vs. Yankees)",
+   "fame": 4,
+   "embed": true
+  },
+  "p587": {
+   "yt": "VYJStJ9p_T0",
+   "start": 4,
+   "date": "1984-05-31",
+   "year": 1984,
+   "sport": "NBA",
+   "title": "Gerald Henderson steals James Worthy's pass to force OT in NBA Finals Game 2 (Celtics vs. Lakers)",
+   "fame": 4,
+   "embed": true
+  },
+  "p588": {
+   "yt": "q24w0OaXfa0",
+   "start": 0,
+   "date": "1986-04-30",
+   "year": 1986,
+   "sport": "NHL",
+   "title": "Steve Smith accidentally banks the puck off his own goalie to eliminate the Oilers in Game 7",
+   "fame": 4,
+   "embed": true
+  },
+  "p589": {
+   "yt": "0zuQo8rCRiM",
+   "start": 290,
+   "date": "1987-04-18",
+   "year": 1987,
+   "sport": "NHL",
+   "title": "Pat LaFontaine's 4OT goal ends the 'Easter Epic' Game 7 (Islanders vs. Capitals)",
+   "fame": 4,
+   "embed": true
+  },
+  "p590": {
+   "yt": "mFfiPLazt1w",
+   "start": 0,
+   "date": "1987-12-08",
+   "year": 1987,
+   "sport": "NHL",
+   "title": "Ron Hextall becomes the first NHL goalie to score a goal by shooting the puck (Flyers vs. Bruins)",
+   "fame": 4,
+   "embed": true
+  },
+  "p591": {
+   "yt": "RfWrClt7M2I",
+   "start": 0,
+   "date": "1988-01-17",
+   "year": 1988,
+   "sport": "NFL",
+   "title": "Earnest Byner's 'The Fumble' at the 2-yard line in the AFC Championship (Browns vs. Broncos)",
+   "fame": 4,
+   "embed": true
+  },
+  "p592": {
+   "yt": "eB9wi_zvMdM",
+   "start": 0,
+   "date": "1989-06-05",
+   "year": 1989,
+   "sport": "MLB",
+   "title": "Bo Jackson throws out Harold Reynolds at home plate on a 300-foot flat-footed laser from the wall",
+   "fame": 4,
+   "embed": true
+  },
+  "p593": {
+   "yt": "OQMOYb20yjk",
+   "start": 0,
+   "date": "1989-09-10",
+   "year": 1989,
+   "sport": "NFL",
+   "title": "Deion Sanders returns a punt 68 yards for a touchdown in his NFL debut (5 days after hitting an MLB HR)",
+   "fame": 4,
+   "embed": true
+  },
+  "p594": {
+   "yt": "Lk3l_L-VJ3w",
+   "start": 0,
+   "date": "1990-07-17",
+   "year": 1990,
+   "sport": "MLB",
+   "title": "Bo Jackson catches a deep fly ball and runs horizontally along the Baltimore outfield wall",
+   "fame": 4,
+   "embed": true
+  },
+  "p595": {
+   "yt": "9yeFak3D7MU",
+   "start": 0,
+   "date": "1991-05-17",
+   "year": 1991,
+   "sport": "NHL",
+   "title": "Mario Lemieux splits two North Stars defenders for an unforgettable Stanley Cup Final goal",
+   "fame": 4,
+   "embed": true
+  },
+  "p596": {
+   "yt": "7YVKjsbyH-s",
+   "start": 0,
+   "date": "1993-05-25",
+   "year": 1993,
+   "sport": "NBA",
+   "title": "John Starks dunks over Horace Grant and Michael Jordan ('The Dunk', Game 2 ECF)",
+   "fame": 4,
+   "embed": true
+  },
+  "p597": {
+   "yt": "gEQgHW_3vOQ",
+   "start": 23,
+   "date": "1994-05-07",
+   "year": 1994,
+   "sport": "NBA",
+   "title": "Dikembe Mutombo collapses clutching the ball after #8 Nuggets upset #1 SuperSonics (Game 5)",
+   "fame": 4,
+   "embed": true
+  },
+  "p598": {
+   "yt": "1Z0jaFnft50",
+   "start": 0,
+   "date": "1994-05-27",
+   "year": 1994,
+   "sport": "NHL",
+   "title": "Stéphan Matteau's double-overtime wraparound goal in Game 7 ('Matteau! Matteau! Matteau!')",
+   "fame": 4,
+   "embed": true
+  },
+  "p599": {
+   "yt": "NS8QCoYfzW8",
+   "start": 69,
+   "date": "1995-03-19",
+   "year": 1995,
+   "sport": "College basketball",
+   "title": "Tyus Edney goes coast-to-coast in 4.8 seconds to save UCLA's title run (vs. Missouri)",
+   "fame": 4,
+   "embed": true
+  },
+  "p600": {
+   "yt": "OZcsEo2KOAk",
+   "start": 0,
+   "date": "1995-05-20",
+   "year": 1995,
+   "sport": "NBA",
+   "title": "Mario Elie hits the 'Kiss of Death' three-pointer in Game 7 (Rockets vs. Suns)",
+   "fame": 4,
+   "embed": true
+  },
+  "p601": {
+   "yt": "F8SBJzOEcyU",
+   "start": 0,
+   "date": "1995-10-08",
+   "year": 1995,
+   "sport": "MLB",
+   "title": "Edgar Martínez hits 'The Double' to walk off the Yankees in ALDS Game 5 (Griffey scores from first)",
+   "fame": 4,
+   "embed": true
+  },
+  "p602": {
+   "yt": "kGtGQQUMDjs",
+   "start": 0,
+   "date": "1997-05-29",
+   "year": 1997,
+   "sport": "NBA",
+   "title": "John Stockton's buzzer-beating three sends the Jazz to their first NBA Finals (Game 6 vs. Rockets)",
+   "fame": 4,
+   "embed": true
+  },
+  "p603": {
+   "yt": "TmJkSiIY4kA",
+   "start": 0,
+   "date": "1997-06-07",
+   "year": 1997,
+   "sport": "NHL",
+   "title": "Darren McCarty's inside-out goal seals the Red Wings' Stanley Cup sweep (vs. Flyers)",
+   "fame": 4,
+   "embed": true
+  },
+  "p604": {
+   "yt": "ORmD_ahH2zE",
+   "start": 0,
+   "date": "1999-05-16",
+   "year": 1999,
+   "sport": "NBA",
+   "title": "Allan Houston's running floater bounces off the rim and backboard to eliminate the #1 Heat (Game 5)",
+   "fame": 4,
+   "embed": true
+  },
+  "p605": {
+   "yt": "wvInU8m8k-U",
+   "start": 0,
+   "date": "1999-06-05",
+   "year": 1999,
+   "sport": "NBA",
+   "title": "Larry Johnson's 4-point play with 5.7 seconds left in Game 3 of the ECF (Knicks vs. Pacers)",
+   "fame": 4,
+   "embed": true
+  },
+  "p606": {
+   "yt": "0K73sMKe_Lk",
+   "start": 0,
+   "date": "2000-11-06",
+   "year": 2000,
+   "sport": "NFL",
+   "title": "Antonio Freeman's 'He Did What?!' Monday Night overtime catch off his back (Packers vs. Vikings)",
+   "fame": 4,
+   "embed": true
+  },
+  "p607": {
+   "yt": "Ih_ovjbwQGk",
+   "start": 0,
+   "date": "2001-03-24",
+   "year": 2001,
+   "sport": "MLB",
+   "title": "Randy Johnson's fastball hits a dove mid-pitch in Spring Training",
+   "fame": 4,
+   "embed": true
+  },
+  "p608": {
+   "yt": "4TuggkDPw6A",
+   "start": 0,
+   "date": "2002-05-15",
+   "year": 2002,
+   "sport": "Soccer",
+   "title": "Zinedine Zidane's left-footed volley wins the Champions League Final (Real Madrid vs. Leverkusen)",
+   "fame": 4,
+   "embed": false
+  },
+  "p609": {
+   "yt": "O7f7cpoJz_s",
+   "start": 0,
+   "date": "2003-06-07",
+   "year": 2003,
+   "sport": "NHL",
+   "title": "Paul Kariya's 'Off the Floor, On the Board' slapshot goal after Scott Stevens' hit (SCF Game 6)",
+   "fame": 4,
+   "embed": true
+  },
+  "p610": {
+   "yt": "co1jpglyrWw",
+   "start": 0,
+   "date": "2003-10-05",
+   "year": 2003,
+   "sport": "NFL",
+   "title": "Dante Hall's 'Human Joystick' 93-yard punt return TD juking multiple Broncos",
+   "fame": 4,
+   "embed": true
+  },
+  "p611": {
+   "yt": "ftLUlmZl3yc",
+   "start": 0,
+   "date": "2004-05-24",
+   "year": 2004,
+   "sport": "NBA",
+   "title": "Tayshaun Prince's chasedown block on Reggie Miller saves ECF Game 2 (Pistons vs. Pacers)",
+   "fame": 4,
+   "embed": true
+  },
+  "p612": {
+   "yt": "Kc7HztZS9R4",
+   "start": 0,
+   "date": "2007-01-04",
+   "year": 2007,
+   "sport": "NHL",
+   "title": "Patrik Štefan misses an empty net from two feet out and the Oilers race back to tie with 2 seconds left",
+   "fame": 4,
+   "embed": true
+  },
+  "p613": {
+   "yt": "luhIFZE7Y-E",
+   "start": 50,
+   "date": "2007-02-18",
+   "year": 2007,
+   "sport": "Motorsport",
+   "title": "Kevin Harvick edges Mark Martin by 0.020 seconds in a chaotic Daytona 500 finish",
+   "fame": 4,
+   "embed": true
+  },
+  "p614": {
+   "yt": "G6eMBvSiOq0",
+   "start": 0,
+   "date": "2011-03-10",
+   "year": 2011,
+   "sport": "College basketball",
+   "title": "Kemba Walker's step-back ankle-breaker beats Pittsburgh at the buzzer (Big East Tournament)",
+   "fame": 4,
+   "embed": true
+  },
+  "p615": {
+   "yt": "82RIfy-gRa4",
+   "start": 0,
+   "date": "2012-11-22",
+   "year": 2012,
+   "sport": "NFL",
+   "title": "Mark Sanchez's 'Butt Fumble' on Thanksgiving Night (Jets vs. Patriots)",
+   "fame": 4,
+   "embed": false
+  },
+  "p616": {
+   "yt": "mejFtEY5faU",
+   "start": 8,
+   "date": "2014-05-02",
+   "year": 2014,
+   "sport": "NBA",
+   "title": "Damian Lillard's 0.9-second series-winning three beats the Rockets (Game 6)",
+   "fame": 4,
+   "embed": true
+  },
+  "p617": {
+   "yt": "r0vVqStvh_8",
+   "start": 0,
+   "date": "2015-12-03",
+   "year": 2015,
+   "sport": "NFL",
+   "title": "Aaron Rodgers' 'Miracle in Motown' 61-yard Hail Mary to Richard Rodgers (Packers vs. Lions)",
+   "fame": 4,
+   "embed": false
+  },
+  "p618": {
+   "yt": "GCfDXStrXZs",
+   "start": 0,
+   "date": "2018-05-30",
+   "year": 2018,
+   "sport": "NHL",
+   "title": "Braden Holtby's diving paddle save ('The Save') in Game 2 of the Stanley Cup Final (Capitals vs. Golden Knights)",
+   "fame": 4,
+   "embed": true
+  },
+  "p619": {
+   "yt": "OlBsR1WIT0U",
+   "start": 162,
+   "date": "2020-02-22",
+   "year": 2020,
+   "sport": "NHL",
+   "title": "42-year-old Zamboni driver David Ayres records the final save to beat the Maple Leafs as an emergency goalie",
+   "fame": 4,
+   "embed": true
+  },
+  "p620": {
+   "yt": "In3yIwP0NgU",
+   "start": 0,
+   "date": "2021-07-17",
+   "year": 2021,
+   "sport": "NBA",
+   "title": "Jrue Holiday's steal and alley-oop to Giannis Antetokounmpo seals NBA Finals Game 5 (Bucks vs. Suns)",
+   "fame": 4,
+   "embed": true
+  },
+  "p621": {
+   "yt": "MGrfP1UZnjk",
+   "start": 0,
+   "date": "2022-05-26",
+   "year": 2022,
+   "sport": "NHL",
+   "title": "Connor McDavid's overtime goal wins the Battle of Alberta in Game 5 (Oilers vs. Flames)",
+   "fame": 4,
+   "embed": true
+  },
+  "p622": {
+   "yt": "dtnLZd9unlw",
+   "start": 0,
+   "date": "2024-04-13",
+   "year": 2024,
+   "sport": "Other",
+   "title": "Max Holloway points to the center of the Octagon and knocks out Justin Gaethje at 4:59 of Round 5 (UFC 300)",
+   "fame": 4,
+   "embed": true
+  },
+  "p623": {
+   "yt": "zeB5DRnoY64",
+   "start": 0,
+   "date": "2024-06-24",
+   "year": 2024,
+   "sport": "NHL",
+   "title": "Florida Panthers survive the final seconds of Game 7 to win their first Stanley Cup (vs. Oilers)",
+   "fame": 4,
+   "embed": true
+  },
+  "p624": {
+   "yt": "gvBue3otWvE",
+   "start": 0,
+   "date": "2024-11-03",
+   "year": 2024,
+   "sport": "NFL",
+   "title": "Saquon Barkley's backwards hurdle over a defender (Eagles vs. Jaguars)",
+   "fame": 4,
+   "embed": true
+  },
+  "p625": {
+   "yt": "i0ve4xwQIj8",
+   "start": 0,
+   "date": "2010-09-18",
+   "year": 2010,
+   "sport": "College football",
+   "title": "Notre Dame's \"Little Giants\" fake field goal beats Michigan State",
+   "fame": 3,
+   "embed": true
+  },
+  "p626": {
+   "yt": "VMyXGZC_Bwc",
+   "start": 0,
+   "date": "2018-03-17",
+   "year": 2018,
+   "sport": "College basketball",
+   "title": "Jordan Poole's buzzer-beater sends Michigan past Houston in the NCAA Tournament",
+   "fame": 4,
+   "embed": true
+  },
+  "p627": {
+   "yt": "JHbNKX3VkIM",
+   "start": 684,
+   "date": "2012-07-31",
+   "year": 2012,
+   "sport": "Olympics",
+   "title": "Katie Ledecky wins her first Olympic gold in the 800m freestyle (London)",
+   "fame": 3,
+   "embed": false
+  },
+  "p628": {
+   "yt": "3opTwpiCZ6c",
+   "start": 31,
+   "date": "2018-02-13",
+   "year": 2018,
+   "sport": "Olympics",
+   "title": "Chloe Kim lands back-to-back 1080s to win halfpipe gold (Pyeongchang)",
+   "fame": 3,
+   "embed": false
+  },
+  "p629": {
+   "yt": "6hVcBKxXTXc",
+   "start": 53,
+   "date": "2024-05-18",
+   "year": 2024,
+   "sport": "Boxing",
+   "title": "Oleksandr Usyk knocks down Tyson Fury in the ninth round (undisputed heavyweight title)",
+   "fame": 3,
+   "embed": true
+  },
+  "p630": {
+   "yt": "5wreD7QKcrk",
+   "start": 0,
+   "date": "2005-05-29",
+   "year": 2005,
+   "sport": "Motorsport",
+   "title": "Danica Patrick leads the Indy 500",
+   "fame": 3,
+   "embed": true
+  },
+  "p631": {
+   "yt": "OouZ1ScKHi8",
+   "start": 0,
+   "date": "2010-09-12",
+   "year": 2010,
+   "sport": "NFL",
+   "title": "Calvin Johnson's \"non-catch\" in the end zone (Lions vs. Bears)",
+   "fame": 3,
+   "embed": true
+  },
+  "p632": {
+   "yt": "NbDmAPife-s",
+   "start": 0,
+   "date": "2019-10-19",
+   "year": 2019,
+   "sport": "MLB",
+   "title": "Jose Altuve's walk-off home run sends the Astros to the World Series (ALCS Game 6 vs. Yankees)",
+   "fame": 4,
+   "embed": true
+  },
+  "p633": {
+   "yt": "bwQzsMXQ1HE",
+   "start": 0,
+   "date": "1991-05-01",
+   "year": 1991,
+   "sport": "MLB",
+   "title": "Rickey Henderson steals his 939th base to break Lou Brock's record (Athletics vs. Yankees)",
+   "fame": 3,
+   "embed": true
+  },
+  "p634": {
+   "yt": "l-AGOvmLvdo",
+   "start": 42,
+   "date": "2021-12-14",
+   "year": 2021,
+   "sport": "NBA",
+   "title": "Stephen Curry breaks Ray Allen's career three-point record (Warriors at Knicks)",
+   "fame": 4,
+   "embed": true
+  },
+  "p635": {
+   "yt": "UXOI3jQDJ3U",
+   "start": 19,
+   "date": "2023-02-07",
+   "year": 2023,
+   "sport": "NBA",
+   "title": "LeBron James passes Kareem Abdul-Jabbar as the NBA's all-time leading scorer (Lakers vs. Thunder)",
+   "fame": 4,
+   "embed": true
+  },
+  "p636": {
+   "yt": "a4mhWyBb5Ow",
+   "start": 6,
+   "date": "1970-06-21",
+   "year": 1970,
+   "sport": "Soccer",
+   "title": "Carlos Alberto finishes the best team goal ever (Brazil vs. Italy, World Cup final)",
+   "fame": 4,
+   "embed": true
+  },
+  "p637": {
+   "yt": "L2wpH09cOU4",
+   "start": 4,
+   "date": "2001-10-06",
+   "year": 2001,
+   "sport": "Soccer",
+   "title": "David Beckham's free kick sends England to the World Cup (England vs. Greece)",
+   "fame": 3,
+   "embed": true
+  },
+  "p638": {
+   "yt": "xSZxik7CUg8",
+   "start": 7,
+   "date": "2009-11-18",
+   "year": 2009,
+   "sport": "Soccer",
+   "title": "Thierry Henry's handball sets up the goal that sends France to the World Cup (France vs. Ireland)",
+   "fame": 4,
+   "embed": true
+  },
+  "p639": {
+   "yt": "fqZi-1YUAEo",
+   "start": 1,
+   "date": "2002-03-02",
+   "year": 2002,
+   "sport": "Soccer",
+   "title": "Dennis Bergkamp's turn and finish against Newcastle (Arsenal)",
+   "fame": 3,
+   "embed": true
+  },
+  "p640": {
+   "yt": "LgMjNN88m5o",
+   "start": 0,
+   "date": "2004-12-08",
+   "year": 2004,
+   "sport": "Soccer",
+   "title": "Steven Gerrard's volley against Olympiakos keeps Liverpool alive (Champions League)",
+   "fame": 3,
+   "embed": true
+  },
+  "p641": {
+   "yt": "wQZQADpna9Q",
+   "start": 0,
+   "date": "2017-04-23",
+   "year": 2017,
+   "sport": "Soccer",
+   "title": "Lionel Messi shows his shirt to the Bernabéu after the last-minute winner (El Clásico)",
+   "fame": 4,
+   "embed": true
+  },
+  "p642": {
+   "yt": "DXB4MApF4Lo",
+   "start": 12,
+   "date": "2009-09-12",
+   "year": 2009,
+   "sport": "Tennis",
+   "title": "Roger Federer's between-the-legs shot against Novak Djokovic (U.S. Open semifinal)",
+   "fame": 4,
+   "embed": true
+  },
+  "p643": {
+   "yt": "Y6dpZ_ynxhk",
+   "start": 61,
+   "date": "2017-01-28",
+   "year": 2017,
+   "sport": "Tennis",
+   "title": "Serena Williams wins her 23rd Grand Slam singles title at the Australian Open",
+   "fame": 3,
+   "embed": true
+  },
+  "p644": {
+   "yt": "2Bpip0p4k4c",
+   "start": 275,
+   "date": "2021-05-23",
+   "year": 2021,
+   "sport": "Golf",
+   "title": "Phil Mickelson wins the PGA Championship at 50",
+   "fame": 4,
+   "embed": true
+  },
+  "p645": {
+   "yt": "Vp5eshCqXkc",
+   "start": 0,
+   "date": "2026-07-05",
+   "year": 2026,
+   "sport": "Soccer",
+   "title": "Jude Bellingham scores twice in 98 seconds (England vs. Mexico, World Cup round of 16)",
+   "fame": 4,
+   "embed": true
+  },
+  "p646": {
+   "yt": "GKRC_JfNFms",
+   "start": 0,
+   "date": "2026-07-05",
+   "year": 2026,
+   "sport": "Soccer",
+   "title": "Erling Haaland's late second goal beats Brazil (Norway vs. Brazil, World Cup round of 16)",
+   "fame": 4,
+   "embed": true
+  },
+  "p647": {
+   "yt": "LwiBW6j80kI",
+   "start": 0,
+   "date": "2016-01-16",
+   "year": 2016,
+   "sport": "NFL",
+   "title": "Aaron Rodgers' Hail Mary to Jeff Janis forces overtime (Packers vs. Cardinals, playoffs)",
+   "fame": 4,
+   "embed": false
+  },
+  "p648": {
+   "yt": "o8iFSP_S5h8",
+   "start": 0,
+   "date": "2016-01-09",
+   "year": 2016,
+   "sport": "NFL",
+   "title": "Vontaze Burfict's hit on Antonio Brown (Bengals vs. Steelers, playoffs)",
+   "fame": 4,
+   "embed": true
+  },
+  "p649": {
+   "yt": "5dmqGg6Ccvw",
+   "start": 0,
+   "date": "2005-01-09",
+   "year": 2005,
+   "sport": "NFL",
+   "title": "Randy Moss moons the crowd at Lambeau Field after a touchdown (Vikings at Packers, playoffs)",
+   "fame": 4,
+   "embed": true
+  },
+  "p650": {
+   "yt": "jp88zT0fMMw",
+   "start": 47,
+   "date": "2012-12-01",
+   "year": 2012,
+   "sport": "College football",
+   "title": "Georgia runs out of time at the Alabama 8-yard line (SEC championship game)",
+   "fame": 4,
+   "embed": true
+  },
+  "p651": {
+   "yt": "Fh0JVilYrwk",
+   "start": 1098,
+   "date": "2021-10-09",
+   "year": 2021,
+   "sport": "College football",
+   "title": "Caleb Williams comes off the bench to lead Oklahoma's comeback over Texas (Red River Rivalry)",
+   "fame": 3,
+   "embed": true
+  },
+  "p652": {
+   "yt": "h2jjxHOLU0U",
+   "start": 220,
+   "date": "2017-10-10",
+   "year": 2017,
+   "sport": "Soccer",
+   "title": "USA loses to Trinidad and Tobago and misses the World Cup",
+   "fame": 4,
+   "embed": true
+  },
+  "p653": {
+   "yt": "gHPke43iqNg",
+   "start": 89,
+   "date": "2018-07-01",
+   "year": 2018,
+   "sport": "Soccer",
+   "title": "Russia beats Spain on penalties at the World Cup",
+   "fame": 3,
+   "embed": true
+  },
+  "p654": {
+   "yt": "tvnkj8sbpVg",
+   "start": 0,
+   "date": "1981-05-15",
+   "year": 1981,
+   "sport": "MLB",
+   "title": "Len Barker throws a perfect game (Indians vs. Blue Jays)",
+   "fame": 2,
+   "embed": true
+  },
+  "p655": {
+   "yt": "rSsmuF2O8w0",
+   "start": 0,
+   "date": "1984-09-30",
+   "year": 1984,
+   "sport": "MLB",
+   "title": "Mike Witt throws a perfect game (Angels vs. Rangers)",
+   "fame": 2,
+   "embed": true
+  },
+  "p656": {
+   "yt": "8zFZ5MtcHHw",
+   "start": 0,
+   "date": "1988-09-16",
+   "year": 1988,
+   "sport": "MLB",
+   "title": "Tom Browning throws a perfect game (Reds vs. Dodgers)",
+   "fame": 2,
+   "embed": true
+  },
+  "p657": {
+   "yt": "tv8jsRyyJr8",
+   "start": 0,
+   "date": "1991-07-28",
+   "year": 1991,
+   "sport": "MLB",
+   "title": "Dennis Martínez throws a perfect game (Expos vs. Dodgers)",
+   "fame": 2,
+   "embed": true
+  },
+  "p658": {
+   "yt": "YuO5ydSHENI",
+   "start": 0,
+   "date": "1994-07-28",
+   "year": 1994,
+   "sport": "MLB",
+   "title": "Kenny Rogers throws a perfect game (Rangers vs. Angels)",
+   "fame": 2,
+   "embed": true
+  },
+  "p659": {
+   "yt": "PPnoAcpYU3U",
+   "start": 0,
+   "date": "1998-05-17",
+   "year": 1998,
+   "sport": "MLB",
+   "title": "David Wells throws a perfect game (Yankees vs. Twins)",
+   "fame": 2,
+   "embed": true
+  },
+  "p660": {
+   "yt": "vPahIUdK8Xg",
+   "start": 0,
+   "date": "1999-07-18",
+   "year": 1999,
+   "sport": "MLB",
+   "title": "David Cone throws a perfect game on Yogi Berra Day (Yankees vs. Expos)",
+   "fame": 3,
+   "embed": true
+  },
+  "p661": {
+   "yt": "WDdEwD-E69Y",
+   "start": 0,
+   "date": "2009-07-23",
+   "year": 2009,
+   "sport": "MLB",
+   "title": "Mark Buehrle throws a perfect game (White Sox vs. Rays)",
+   "fame": 2,
+   "embed": true
+  },
+  "p662": {
+   "yt": "bcwBrnTCaPQ",
+   "start": 334,
+   "date": "2010-05-09",
+   "year": 2010,
+   "sport": "MLB",
+   "title": "Dallas Braden throws a perfect game (Athletics vs. Rays)",
+   "fame": 2,
+   "embed": true
+  },
+  "p663": {
+   "yt": "yJs9BmsL0GQ",
+   "start": 64,
+   "date": "2010-05-29",
+   "year": 2010,
+   "sport": "MLB",
+   "title": "Roy Halladay throws a perfect game (Phillies vs. Marlins)",
+   "fame": 3,
+   "embed": true
+  },
+  "p664": {
+   "yt": "wmjxigWT1f0",
+   "start": 0,
+   "date": "2012-04-21",
+   "year": 2012,
+   "sport": "MLB",
+   "title": "Philip Humber throws a perfect game (White Sox vs. Mariners)",
+   "fame": 2,
+   "embed": true
+  },
+  "p665": {
+   "yt": "KHvXlbwHAXU",
+   "start": 6,
+   "date": "2012-06-13",
+   "year": 2012,
+   "sport": "MLB",
+   "title": "Matt Cain throws a perfect game (Giants vs. Astros)",
+   "fame": 2,
+   "embed": true
+  },
+  "p666": {
+   "yt": "H-zFYjB5Tos",
+   "start": 0,
+   "date": "2012-08-15",
+   "year": 2012,
+   "sport": "MLB",
+   "title": "Félix Hernández throws a perfect game (Mariners vs. Rays)",
+   "fame": 2,
+   "embed": true
+  },
+  "p667": {
+   "yt": "UeeE0OY2e-8",
+   "start": 175,
+   "date": "2023-06-28",
+   "year": 2023,
+   "sport": "MLB",
+   "title": "Domingo Germán throws a perfect game (Yankees vs. Athletics)",
+   "fame": 2,
+   "embed": true
+  },
+  "p668": {
+   "yt": "-DFhHfLzuZM",
+   "start": 0,
+   "date": "2009-10-24",
+   "year": 2009,
+   "sport": "College football",
+   "title": "Terrence Cody blocks a field goal as time expires, the \"Rocky Block\" (Alabama vs. Tennessee)",
+   "fame": 3,
+   "embed": true
+  },
+  "p669": {
+   "yt": "LBJPiDYHHU4",
+   "start": 541,
+   "date": "2016-09-17",
+   "year": 2016,
+   "sport": "College football",
+   "title": "Lamar Jackson dominates No. 2 Florida State in his Heisman campaign (Louisville vs. Florida State)",
+   "fame": 3,
+   "embed": true
+  },
+  "p670": {
+   "yt": "Wi_L-2W-oiw",
+   "start": 0,
+   "date": "2024-11-30",
+   "year": 2024,
+   "sport": "College football",
+   "title": "Michigan players plant a flag at midfield at Ohio Stadium, setting off a brawl (Michigan vs. Ohio State)",
+   "fame": 4,
+   "embed": true,
+   "check": true
+  },
+  "p671": {
+   "yt": "vyHSOvej2W8",
+   "start": 45,
+   "date": "2000-10-08",
+   "year": 2000,
+   "sport": "NFL",
+   "title": "Terrell Owens celebrates on the Cowboys star at midfield (49ers at Cowboys)",
+   "fame": 4,
+   "embed": true
+  },
+  "p672": {
+   "yt": "wIYD42DV3Ro",
+   "start": 102,
+   "date": "2022-05-07",
+   "year": 2022,
+   "sport": "Horse racing",
+   "title": "Rich Strike wins the Kentucky Derby at 80-1",
+   "fame": 3,
+   "embed": true
+  }
+ }
+}

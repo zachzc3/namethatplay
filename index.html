@@ -1,0 +1,323 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0f1115">
+<link rel="manifest" href="./manifest.webmanifest">
+<title>Name that Play</title>
+<style>
+  :root{ --bg:#0f1115; --panel:#1a1d24; --line:#2b2f38; --ink:#f0f1f4; --muted:#9aa1ae; --accent:#f2b134; --accent-ink:#1d1403; }
+  *{box-sizing:border-box}
+  html,body{margin:0;min-height:100%}
+  body{
+    background:var(--bg);color:var(--ink);
+    font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    min-height:100dvh;
+    padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom);
+  }
+  .wrap{width:100%;max-width:640px;margin:0 auto;padding:14px 16px 28px;display:flex;flex-direction:column;gap:14px}
+  header{display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+  header h1{margin:0;font-size:1.05rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);font-weight:700}
+  #progress{font-size:.8rem;color:var(--muted);font-variant-numeric:tabular-nums}
+
+  /* video */
+  .player{position:relative;width:100%;aspect-ratio:16/9;background:#000;border-radius:14px;overflow:hidden;border:1px solid var(--line)}
+  .player #yt, .player iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+  .player .shield{position:absolute;left:0;right:0;top:0;height:13%;min-height:34px;background:#000;z-index:2;
+                  display:flex;align-items:center;justify-content:center;
+                  font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#555}
+  .player .empty{position:absolute;inset:0;z-index:3;display:flex;flex-direction:column;align-items:center;justify-content:center;
+                 gap:10px;padding:18px;text-align:center;background:var(--panel);color:var(--muted);font-size:.95rem}
+  .player .empty b{color:var(--ink);font-size:1.05rem}
+  .hidden{display:none !important}
+
+  /* flip card */
+  .scene{perspective:1100px}
+  .card{display:grid;transform-style:preserve-3d;transition:transform .55s cubic-bezier(.3,.7,.2,1);min-height:250px}
+  .card.flipped{transform:rotateY(180deg)}
+  .face{grid-area:1/1;backface-visibility:hidden;-webkit-backface-visibility:hidden;
+        background:var(--panel);border:1px solid var(--line);border-radius:20px;padding:24px 20px;
+        display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;gap:8px}
+  .face.back{transform:rotateY(180deg)}
+  .q{font-size:clamp(4rem,22vw,6rem);font-weight:800;line-height:1;color:var(--accent)}
+  .face .sub{color:var(--muted);font-size:.95rem}
+  .face .big{font-size:clamp(3rem,17vw,4.8rem);font-weight:800;letter-spacing:-.02em;line-height:1}
+  .face .date{font-size:1.05rem;font-weight:650}
+  .face .answer{font-size:1.2rem;font-weight:700;line-height:1.25;margin-top:6px}
+  .badge{display:inline-block;padding:4px 12px;border-radius:999px;background:var(--accent);color:var(--accent-ink);
+         font-size:.78rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+  .stars{color:var(--accent);letter-spacing:.15em;font-size:.95rem}
+  .note{font-size:.8rem;color:var(--muted)}
+
+  /* buttons */
+  .btns{display:grid;gap:10px}
+  button, a.btn{font:inherit;font-weight:650;border:1px solid var(--line);background:var(--panel);
+         color:var(--ink);border-radius:14px;padding:15px;cursor:pointer;-webkit-tap-highlight-color:transparent;
+         display:block;text-align:center;text-decoration:none}
+  button:active, a.btn:active{transform:translateY(1px)}
+  button.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:800}
+  button:disabled{opacity:.4;cursor:default}
+  .row3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px}
+  .row3 button, .row3 a.btn{padding:15px 6px;white-space:nowrap}
+  .row2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+
+  /* deck settings */
+  details{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:0 14px}
+  summary{cursor:pointer;padding:13px 0;font-weight:650;list-style:none;display:flex;justify-content:space-between;gap:10px}
+  summary::-webkit-details-marker{display:none}
+  summary .cnt{color:var(--muted);font-weight:500;font-variant-numeric:tabular-nums}
+  .grp{margin:2px 0 14px}
+  .grp h3{margin:0 0 8px;font-size:.75rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);font-weight:700}
+  .chips{display:flex;flex-wrap:wrap;gap:7px}
+  .chip{padding:7px 12px;font-size:.82rem;font-weight:650;border-radius:999px;background:var(--bg);color:var(--muted)}
+  .chip.on{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+  .chip small{opacity:.7;font-weight:500;margin-left:3px}
+  label.tog{display:flex;align-items:center;gap:10px;margin:8px 0;font-size:.92rem}
+  label.tog input{width:18px;height:18px;accent-color:var(--accent)}
+  footer{color:var(--muted);font-size:12px;text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header><h1>Name that Play</h1><span id="progress"></span></header>
+
+  <div class="player" id="playerbox">
+    <div id="yt"></div>
+    <div class="shield hidden" id="shield">video title hidden</div>
+    <div class="empty" id="idle"><b>Watch the clip, then guess when it happened.</b><span>Year, month and day. Tap Draw card to start.</span></div>
+    <div class="empty hidden" id="noembed"><b>This clip can't play inside the page</b><span>The uploader turned off embedding. Open it on YouTube instead.</span>
+      <a class="btn primary" id="noembedLink" target="_blank" rel="noopener" style="padding:11px 18px">Open on YouTube &#8599;</a></div>
+  </div>
+
+  <div class="scene"><div class="card" id="card">
+    <div class="face front" id="front"></div>
+    <div class="face back" id="back"></div>
+  </div></div>
+
+  <div class="btns" id="btns"></div>
+
+  <details id="deckbox">
+    <summary><span>Deck &amp; settings</span><span class="cnt" id="deckcnt"></span></summary>
+    <div class="grp"><h3>Sport</h3><div class="chips" id="sportChips"></div></div>
+    <div class="grp"><h3>Decade</h3><div class="chips" id="decChips"></div></div>
+    <div class="grp"><h3>Fame (how well known)</h3><div class="chips" id="fameChips"></div></div>
+    <div class="grp">
+      <label class="tog"><input type="checkbox" id="optShield" checked> Cover the video's title bar until you flip</label>
+      <label class="tog"><input type="checkbox" id="optHint"> Show the sport as a hint on the front</label>
+    </div>
+    <div class="row2" style="margin-bottom:14px"><button id="btnClear">Clear filters</button><button id="btnReshuffle">Reshuffle deck</button></div>
+  </details>
+
+  <footer><span id="status">loading&hellip;</span></footer>
+</div>
+
+<script src="https://www.youtube.com/iframe_api"></script>
+<script>
+(function(){
+  "use strict";
+  var DATA = null, deck = [], pos = -1, cur = null, revealed = false;
+  var player = null, apiReady = false, pendingLoad = null;
+  var SPORTS = [], DECADES = [];
+  var sel = { sport:[], dec:[], fame:[] };
+  var opt = { shield:true, hint:false };
+  var DAYS = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+  var MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+
+  function $(id){ return document.getElementById(id); }
+  function esc(s){ return ("" + s).replace(/[&<>"]/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); }
+  function store(k, v){ try{ localStorage.setItem("ntp_" + k, JSON.stringify(v)); }catch(e){} }
+  function recall(k, d){ try{ var v = localStorage.getItem("ntp_" + k); return v === null ? d : JSON.parse(v); }catch(e){ return d; } }
+  function prettyDate(iso){
+    var p = iso.split("-"), d = new Date(+p[0], +p[1]-1, +p[2]);
+    return DAYS[d.getDay()] + ", " + MONTHS[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+  }
+  function ytUrl(p){ return "https://www.youtube.com/watch?v=" + encodeURIComponent(p.yt) + (p.start ? "&t=" + p.start + "s" : ""); }
+  function stars(n){ var s = ""; for(var i=1;i<=5;i++) s += i <= n ? "★" : "☆"; return s; }
+
+  /* ---------- YouTube ---------- */
+  window.onYouTubeIframeAPIReady = function(){
+    player = new YT.Player("yt", {
+      width:"100%", height:"100%",
+      playerVars:{ playsinline:1, rel:0, modestbranding:1, fs:1 },
+      events:{
+        onReady:function(){ apiReady = true; if(pendingLoad){ var p = pendingLoad; pendingLoad = null; loadClip(p); } },
+        onError:function(){ if(cur) showNoEmbed(cur); }
+      }
+    });
+  };
+  function loadClip(p){
+    $("idle").classList.add("hidden");
+    if(!p.embed){ showNoEmbed(p); return; }
+    $("noembed").classList.add("hidden");
+    if(!apiReady){ pendingLoad = p; return; }
+    try{ player.loadVideoById({ videoId:p.yt, startSeconds:p.start || 0 }); }catch(e){ showNoEmbed(p); }
+  }
+  function showNoEmbed(p){
+    try{ if(player && player.pauseVideo) player.pauseVideo(); }catch(e){}
+    $("noembedLink").href = ytUrl(p);
+    $("noembed").classList.remove("hidden");
+  }
+  function updateShield(){
+    $("shield").classList.toggle("hidden", !(opt.shield && cur && !revealed && cur.embed));
+  }
+
+  /* ---------- deck ---------- */
+  function decadeOf(p){ return Math.floor(p.year / 10) * 10; }
+  function inFilter(p){
+    if(sel.sport.length && sel.sport.indexOf(p.sport) < 0) return false;
+    if(sel.dec.length && sel.dec.indexOf(decadeOf(p)) < 0) return false;
+    if(sel.fame.length && sel.fame.indexOf(p.fame) < 0) return false;
+    return true;
+  }
+  function shuffle(a){
+    for(var i=a.length-1;i>0;i--){ var j = Math.floor(Math.random()*(i+1)); var t = a[i]; a[i] = a[j]; a[j] = t; }
+    return a;
+  }
+  function buildDeck(keepCurrent){
+    var ids = Object.keys(DATA.plays).filter(function(id){ return inFilter(DATA.plays[id]); });
+    deck = shuffle(ids);
+    if(keepCurrent && cur){ // keep the card on screen as position 0 so a reshuffle doesn't swap it out
+      var i = deck.indexOf(cur.id); if(i > 0){ deck.splice(i,1); deck.unshift(cur.id); }
+      pos = i >= 0 ? 0 : -1;
+    } else pos = -1;
+    $("deckcnt").textContent = deck.length + " cards";
+    renderProgress();
+  }
+  function renderProgress(){
+    $("progress").textContent = deck.length ? (pos >= 0 ? "card " + (pos+1) + " of " + deck.length : deck.length + " cards in deck") : "no cards match";
+  }
+  function go(delta){
+    if(!deck.length) return;
+    if(delta > 0 && pos >= deck.length - 1){ buildDeck(false); }   // end of deck: reshuffle and keep going
+    var np = pos + delta;
+    if(np < 0) return;
+    pos = np;
+    setCard(deck[pos]);
+  }
+  function setCard(id){
+    var p = DATA.plays[id];
+    if(!p){ alert("No card " + id + " in this deck"); return; }
+    cur = Object.assign({ id:id }, p);
+    revealed = false;
+    $("card").classList.remove("flipped");
+    renderFace(); updateShield(); renderBtns(); renderProgress();
+    history.replaceState(null, "", "./");
+    loadClip(cur);
+  }
+  function reveal(){
+    if(!cur || revealed) return;
+    revealed = true;
+    $("card").classList.add("flipped");
+    updateShield(); renderBtns();
+  }
+
+  /* ---------- render ---------- */
+  function renderFace(){
+    var f = $("front"), b = $("back");
+    if(!cur){
+      f.innerHTML = '<div class="q">?</div><div class="sub">Draw a card, watch the clip, then guess the date.</div>';
+      b.innerHTML = "";
+      return;
+    }
+    f.innerHTML = '<div class="q">?</div><div class="sub">When did this happen?</div>' +
+      (opt.hint ? '<div style="margin-top:4px"><span class="badge">' + esc(cur.sport) + '</span></div>' : '') +
+      '<div class="note" style="margin-top:6px">Guess the year, then the month and day.</div>';
+    b.innerHTML =
+      '<span class="badge">' + esc(cur.sport) + '</span>' +
+      '<div class="big">' + cur.year + '</div>' +
+      '<div class="date">' + esc(prettyDate(cur.date)) + '</div>' +
+      '<div class="answer">' + esc(cur.title) + '</div>' +
+      '<div class="stars" title="how well known">' + stars(cur.fame) + '</div>' +
+      (cur.check ? '<div class="note">Date not fully confirmed yet.</div>' : '') +
+      '<div class="note">' + cur.id + '</div>';
+  }
+  function renderBtns(){
+    var h = [];
+    if(!cur){
+      h.push('<button class="primary" data-a="next"' + (deck.length ? "" : " disabled") + '>&#127922; Draw card</button>');
+    } else {
+      if(!revealed) h.push('<button class="primary" data-a="flip">Flip card</button>');
+      else          h.push('<button class="primary" data-a="next">Next card</button>');
+      h.push('<div class="row3"><button data-a="prev"' + (pos > 0 ? "" : " disabled") + '>&#8592; Back</button>' +
+             '<button data-a="replay">Replay</button>' +
+             '<a class="btn" href="' + ytUrl(cur) + '" target="_blank" rel="noopener">YouTube &#8599;</a></div>');
+    }
+    $("btns").innerHTML = h.join("");
+  }
+
+  /* ---------- filters ---------- */
+  function chip(label, count, on, attr, val){
+    return '<button class="chip' + (on ? " on" : "") + '" data-' + attr + '="' + esc(val) + '">' + esc(label) + '<small>' + count + '</small></button>';
+  }
+  function renderChips(){
+    var cs = {}, cd = {}, cf = {};
+    Object.keys(DATA.plays).forEach(function(id){
+      var p = DATA.plays[id];
+      cs[p.sport] = (cs[p.sport]||0) + 1; cd[decadeOf(p)] = (cd[decadeOf(p)]||0) + 1; cf[p.fame] = (cf[p.fame]||0) + 1;
+    });
+    SPORTS = Object.keys(cs).sort(function(a,b){ return cs[b] - cs[a]; });
+    DECADES = Object.keys(cd).map(Number).sort();
+    $("sportChips").innerHTML = SPORTS.map(function(s){ return chip(s, cs[s], sel.sport.indexOf(s) >= 0, "sport", s); }).join("");
+    $("decChips").innerHTML = DECADES.map(function(d){ return chip(d + "s", cd[d], sel.dec.indexOf(d) >= 0, "dec", d); }).join("");
+    var fl = [1,2,3,4,5].filter(function(n){ return cf[n]; });
+    $("fameChips").innerHTML = fl.map(function(n){ return chip(stars(n), cf[n], sel.fame.indexOf(n) >= 0, "fame", n); }).join("");
+  }
+  function toggle(arr, v){ var i = arr.indexOf(v); if(i >= 0) arr.splice(i,1); else arr.push(v); }
+  function filtersChanged(){
+    store("sel", sel); renderChips(); buildDeck(false); cur = null; revealed = false;
+    $("card").classList.remove("flipped"); renderFace(); renderBtns(); updateShield();
+    try{ if(player && player.pauseVideo) player.pauseVideo(); }catch(e){}
+    $("idle").classList.remove("hidden"); $("noembed").classList.add("hidden");
+  }
+
+  /* ---------- events ---------- */
+  document.addEventListener("click", function(e){
+    var c = e.target.closest(".chip");
+    if(c){
+      if(c.dataset.sport !== undefined) toggle(sel.sport, c.dataset.sport);
+      else if(c.dataset.dec !== undefined) toggle(sel.dec, +c.dataset.dec);
+      else if(c.dataset.fame !== undefined) toggle(sel.fame, +c.dataset.fame);
+      filtersChanged(); return;
+    }
+    var b = e.target.closest("button[data-a]");
+    if(!b) return;
+    switch(b.dataset.a){
+      case "flip": reveal(); break;
+      case "next": go(1); break;
+      case "prev": go(-1); break;
+      case "replay": if(cur) loadClip(cur); break;
+    }
+  });
+  $("btnClear").onclick = function(){ sel = { sport:[], dec:[], fame:[] }; filtersChanged(); };
+  $("btnReshuffle").onclick = function(){ filtersChanged(); };
+  $("optShield").onchange = function(){ opt.shield = this.checked; store("opt", opt); updateShield(); };
+  $("optHint").onchange = function(){ opt.hint = this.checked; store("opt", opt); renderFace(); };
+  document.addEventListener("keydown", function(e){
+    if(e.target.tagName === "INPUT" || e.target.tagName === "SUMMARY") return;
+    if(e.key === " " || e.key === "Enter"){ e.preventDefault(); if(!cur) go(1); else if(!revealed) reveal(); else go(1); }
+    else if(e.key === "ArrowRight") go(1);
+    else if(e.key === "ArrowLeft") go(-1);
+  });
+
+  /* ---------- boot ---------- */
+  sel = Object.assign({ sport:[], dec:[], fame:[] }, recall("sel", {}));
+  opt = Object.assign(opt, recall("opt", {}));
+  $("optShield").checked = opt.shield; $("optHint").checked = opt.hint;
+
+  fetch("./plays.json", { cache:"no-cache" })
+    .then(function(r){ return r.json(); })
+    .then(function(j){
+      DATA = j;
+      $("status").textContent = "the deck · " + (j.meta && j.meta.count || Object.keys(j.plays).length) + " plays";
+      renderChips(); buildDeck(false); renderFace(); renderBtns();
+      var q = new URLSearchParams(location.search).get("p");
+      if(q && DATA.plays[q.toLowerCase()]){ pos = -1; setCard(q.toLowerCase()); }
+    })
+    .catch(function(){ $("status").textContent = "offline — data not cached yet"; });
+
+  if("serviceWorker" in navigator){ navigator.serviceWorker.register("./sw.js").catch(function(){}); }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "name": "Name that Play",
+  "short_name": "Name that Play",
+  "description": "Watch a famous sports moment, guess when it happened, flip the card.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1115",
+  "theme_color": "#0f1115"
+}
