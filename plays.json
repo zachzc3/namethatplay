@@ -1,6 +1,6 @@
 {
  "meta": {
-  "built": "2026-10-30",
+  "built": "2026-11-01",
   "count": 672
  },
  "plays": {
@@ -52,7 +52,7 @@
    "sport": "NFL",
    "title": "Tom Dempsey's 63-yard field goal (Saints vs. Lions)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p006": {
    "yt": "DEYlnNmbaBk",
@@ -302,7 +302,7 @@
    "sport": "NFL",
    "title": "Lynn Swann's acrobatic catches in Super Bowl X (Steelers vs. Cowboys)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p031": {
    "yt": "vRw-mN-fiAk",
@@ -482,7 +482,7 @@
    "sport": "NFL",
    "title": "Jackie Smith's dropped touchdown pass in Super Bowl XIII (Cowboys vs. Steelers)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p049": {
    "yt": "hHYVRI5sMco",
@@ -552,7 +552,7 @@
    "sport": "College football",
    "title": "Woody Hayes punches a Clemson player in the Gator Bowl",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p056": {
    "yt": "jDGTCOCi4ec",
@@ -562,7 +562,7 @@
    "sport": "NFL",
    "title": "Bradshaw's 73-yard touchdown pass to Stallworth in Super Bowl XIV",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p057": {
    "yt": "aJ6itnbs7Yg",
@@ -642,7 +642,7 @@
    "sport": "NFL",
    "title": "Epic in Miami: Chargers vs. Dolphins, Kellen Winslow blocks the field goal",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p065": {
    "yt": "vsEAnDkhG7E",
@@ -652,7 +652,7 @@
    "sport": "NFL",
    "title": "\"The Catch\": Joe Montana to Dwight Clark (49ers vs. Cowboys)",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p066": {
    "yt": "gnlWgqfB-Vs",
@@ -782,7 +782,7 @@
    "sport": "NFL",
    "title": "Marcus Allen's 74-yard run in Super Bowl XVIII",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p079": {
    "yt": "KNCSij0hUp8",
@@ -892,7 +892,7 @@
    "sport": "NFL",
    "title": "Joe Theismann's leg injury (Lawrence Taylor)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p090": {
    "yt": "AeUn-V1GD20",
@@ -902,7 +902,7 @@
    "sport": "NFL",
    "title": "William Perry's rushing touchdown in Super Bowl XX (Bears vs. Patriots)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p091": {
    "yt": "jSAGDr4kmf0",
@@ -1002,7 +1002,7 @@
    "sport": "NFL",
    "title": "John Elway and \"The Drive\" (Broncos vs. Browns)",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p101": {
    "yt": "v1k62_1g7b0",
@@ -1172,7 +1172,7 @@
    "sport": "NFL",
    "title": "Joe Montana drives the 49ers to the win in Super Bowl XXIII",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p118": {
    "yt": "dc-9GbuLA2I",
@@ -1462,7 +1462,7 @@
    "sport": "NFL",
    "title": "Brett Favre's first big comeback (Packers vs. Bengals)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p147": {
    "yt": "PilAosY41eA",
@@ -1482,7 +1482,7 @@
    "sport": "NFL",
    "title": "Frank Reich leads the Bills to the biggest comeback in NFL history",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p149": {
    "yt": "I4im74IJ-rM",
@@ -1492,7 +1492,7 @@
    "sport": "NFL",
    "title": "Leon Lett's fumble recovery in Super Bowl XXVII (Cowboys vs. Bills)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p150": {
    "yt": "aiJxgcka7BA",
@@ -1582,7 +1582,7 @@
    "sport": "NFL",
    "title": "Leon Lett's Thanksgiving snow-game blunder (Cowboys vs. Dolphins)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p159": {
    "yt": "voUMQrLy_uY",
@@ -1662,7 +1662,7 @@
    "sport": "NFL",
    "title": "Dan Marino's fake spike (Dolphins vs. Jets)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p167": {
    "yt": "6eOCxIPkvb8",
@@ -1822,7 +1822,7 @@
    "sport": "NHL",
    "title": "Red Wings and Avalanche brawl",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p183": {
    "yt": "t2ufOethOv8",
@@ -1872,7 +1872,7 @@
    "sport": "NFL",
    "title": "John Elway's helicopter spin in Super Bowl XXXII",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p188": {
    "yt": "O_F3KyllNdg",
@@ -1952,7 +1952,7 @@
    "sport": "NFL",
    "title": "Steve Young to Terrell Owens: \"The Catch II\"",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p196": {
    "yt": "o7eXlLooPHE",
@@ -1962,7 +1962,7 @@
    "sport": "NFL",
    "title": "Gary Anderson's missed field goal for the Vikings in the NFC title game",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p197": {
    "yt": "oTgaI5QbNLc",
@@ -2002,7 +2002,7 @@
    "sport": "Soccer",
    "title": "Brandi Chastain's shirt-off celebration (Women's World Cup final)",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p201": {
    "yt": "Taw0BloL8ns",
@@ -2052,7 +2052,7 @@
    "sport": "NFL",
    "title": "Mike Jones tackles Kevin Dyson one yard short in Super Bowl XXXIV",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p206": {
    "yt": "H8BSSCnSYds",
@@ -2112,7 +2112,7 @@
    "sport": "Olympics",
    "title": "Eric Moussambani \"the Eel\" swims the 100m freestyle in Sydney",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p212": {
    "yt": "ypoR-dblkgk",
@@ -2272,7 +2272,7 @@
    "sport": "NFL",
    "title": "The Tuck Rule game (Patriots vs. Raiders)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p228": {
    "yt": "TbhFKq5Gl_s",
@@ -2332,7 +2332,7 @@
    "sport": "Soccer",
    "title": "South Korea beats Italy on a golden goal (World Cup)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p234": {
    "yt": "GNiMxYb2oTA",
@@ -2342,7 +2342,7 @@
    "sport": "Soccer",
    "title": "Ronaldinho's free kick beats Seaman (World Cup, Brazil vs. England)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p235": {
    "yt": "MTbInfhszGA",
@@ -2472,7 +2472,7 @@
    "sport": "NFL",
    "title": "Adam Vinatieri wins another Super Bowl in the final seconds (Super Bowl XXXVIII)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p248": {
    "yt": "4IQr069iKJQ",
@@ -2612,7 +2612,7 @@
    "sport": "NBA",
    "title": "Malice at the Palace (Pacers vs. Pistons)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p262": {
    "yt": "s4QuUYG6kxI",
@@ -2632,7 +2632,7 @@
    "sport": "NFL",
    "title": "Peyton Manning breaks the single-season touchdown record",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p264": {
    "yt": "DZ0U3qB5kLY",
@@ -2712,7 +2712,7 @@
    "sport": "Soccer",
    "title": "Ronaldinho gets a standing ovation at the Bernabéu",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p272": {
    "yt": "GeiXFtkGp2s",
@@ -2732,7 +2732,7 @@
    "sport": "NFL",
    "title": "Jerome Bettis's fumble in the playoffs (Steelers vs. Colts)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p274": {
    "yt": "1wFreZVVuB8",
@@ -2792,7 +2792,7 @@
    "sport": "Soccer",
    "title": "Maxi Rodríguez's volley against Mexico (World Cup)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p280": {
    "yt": "Nlsm0RlC8zI",
@@ -2802,7 +2802,7 @@
    "sport": "Soccer",
    "title": "Zinedine Zidane's headbutt in the World Cup final",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p281": {
    "yt": "5EaEQVKIDGU",
@@ -2842,7 +2842,7 @@
    "sport": "NFL",
    "title": "Colts rally past the Patriots in the AFC Championship",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p285": {
    "yt": "6kwo762iABQ",
@@ -2852,7 +2852,7 @@
    "sport": "NFL",
    "title": "Devin Hester returns the opening kickoff for a touchdown in Super Bowl XLI",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p286": {
    "yt": "kne4nXTBzWs",
@@ -2932,7 +2932,7 @@
    "sport": "NFL",
    "title": "Eli Manning's escape and David Tyree's helmet catch (Super Bowl XLII)",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p294": {
    "yt": "pDvbTrE8VBo",
@@ -3062,7 +3062,7 @@
    "sport": "Motorsport",
    "title": "Lewis Hamilton clinches the Formula One title on the last corner",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p307": {
    "yt": "5VydCkK5o3c",
@@ -3082,7 +3082,7 @@
    "sport": "NFL",
    "title": "James Harrison's 100-yard interception return",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p309": {
    "yt": "3mWHZKYFD9A",
@@ -3092,7 +3092,7 @@
    "sport": "NFL",
    "title": "Santonio Holmes's toe-tap catch wins Super Bowl XLIII",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p310": {
    "yt": "is4q1L6JiSI",
@@ -3152,7 +3152,7 @@
    "sport": "Other",
    "title": "Usain Bolt runs 9.58 in Berlin",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p316": {
    "yt": "_w0GKLUNyoA",
@@ -3172,7 +3172,7 @@
    "sport": "NFL",
    "title": "Brett Favre's interception in the NFC title game (Vikings vs. Saints)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p318": {
    "yt": "SWAj2jWUCc0",
@@ -3182,7 +3182,7 @@
    "sport": "NFL",
    "title": "The Saints' onside kick to open the second half of Super Bowl XLIV",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p319": {
    "yt": "07-hntATz3U",
@@ -3342,7 +3342,7 @@
    "sport": "NFL",
    "title": "Marshawn Lynch's \"Beast Quake\" run (Seahawks vs. Saints)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p335": {
    "yt": "2GebYKAlUIQ",
@@ -3372,7 +3372,7 @@
    "sport": "College football",
    "title": "LSU beats Alabama in the \"Game of the Century\"",
    "fame": 2,
-   "embed": true
+   "embed": false
   },
   "p338": {
    "yt": "nMVnLsODqqg",
@@ -3482,7 +3482,7 @@
    "sport": "NFL",
    "title": "The \"Fail Mary\" (Packers vs. Seahawks)",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p349": {
    "yt": "7mLi1SrrwpA",
@@ -3502,7 +3502,7 @@
    "sport": "College football",
    "title": "Johnny Manziel and Texas A&M upset No. 1 Alabama",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p351": {
    "yt": "FNPmChbMsZQ",
@@ -3522,7 +3522,7 @@
    "sport": "NFL",
    "title": "Jacoby Jones's 108-yard kickoff return in Super Bowl XLVII",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p353": {
    "yt": "jlIBRkr4Ar4",
@@ -3622,7 +3622,7 @@
    "sport": "NFL",
    "title": "The Colts overcome a 28-point deficit against the Chiefs",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p363": {
    "yt": "OhtfaME_v0Y",
@@ -3702,7 +3702,7 @@
    "sport": "Soccer",
    "title": "James Rodríguez's volley against Uruguay (World Cup)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p371": {
    "yt": "aE4BdIP6bvc",
@@ -3712,7 +3712,7 @@
    "sport": "Soccer",
    "title": "Germany beats Brazil 7-1 in the World Cup semifinal",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p372": {
    "yt": "ffAYByv2pLc",
@@ -3722,7 +3722,7 @@
    "sport": "Soccer",
    "title": "Mario Götze's extra-time goal wins the World Cup",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p373": {
    "yt": "c_8tB8h_L68",
@@ -3762,7 +3762,7 @@
    "sport": "NFL",
    "title": "Odell Beckham Jr.'s one-handed catch",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p377": {
    "yt": "uQxp-A5uvkA",
@@ -3772,7 +3772,7 @@
    "sport": "NFL",
    "title": "Dez Bryant's \"catch\" is overturned (Cowboys vs. Packers)",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p378": {
    "yt": "zaRpzpGIzL4",
@@ -3782,7 +3782,7 @@
    "sport": "NFL",
    "title": "The Seahawks' incredible comeback against the Packers in the NFC title game",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p379": {
    "yt": "U7rPIg7ZNQ8",
@@ -3792,7 +3792,7 @@
    "sport": "NFL",
    "title": "Malcolm Butler's goal-line interception (Super Bowl XLIX)",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p380": {
    "yt": "YttPqhXeNhY",
@@ -4042,7 +4042,7 @@
    "sport": "NFL",
    "title": "The Patriots complete the 28-3 comeback in Super Bowl LI",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p405": {
    "yt": "u4WRaHHMu0E",
@@ -4092,7 +4092,7 @@
    "sport": "NFL",
    "title": "Case Keenum and Stefon Diggs: the \"Minneapolis Miracle\"",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p410": {
    "yt": "YDG3_ewrOWg",
@@ -4102,7 +4102,7 @@
    "sport": "NFL",
    "title": "The \"Philly Special\" in Super Bowl LII",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p411": {
    "yt": "HoSWvxeBiWc",
@@ -4162,7 +4162,7 @@
    "sport": "Soccer",
    "title": "Mexico beats Germany at the World Cup",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p417": {
    "yt": "do-tsZ3p9I0",
@@ -4172,7 +4172,7 @@
    "sport": "Soccer",
    "title": "Toni Kroos's last-minute free kick against Sweden (World Cup)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p418": {
    "yt": "6jVdO1Q5xPE",
@@ -4182,7 +4182,7 @@
    "sport": "Soccer",
    "title": "Belgium's last-second counterattack beats Japan (World Cup)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p419": {
    "yt": "GrsEAvRerTg",
@@ -4192,7 +4192,7 @@
    "sport": "Soccer",
    "title": "France beats Croatia in the World Cup final",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p420": {
    "yt": "uiBrForlj-k",
@@ -4232,7 +4232,7 @@
    "sport": "NFL",
    "title": "Chiefs and Rams combine for 105 points on Monday Night",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p424": {
    "yt": "gqOYkapAYeI",
@@ -4242,7 +4242,7 @@
    "sport": "NFL",
    "title": "The \"Double Doink\" (Eagles vs. Bears)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p425": {
    "yt": "xjvZHMod_3E",
@@ -4252,7 +4252,7 @@
    "sport": "NFL",
    "title": "The Rams-Saints non-call in the NFC title game",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p426": {
    "yt": "TmVkAQmPqS4",
@@ -4352,7 +4352,7 @@
    "sport": "NFL",
    "title": "Mason Rudolph and Myles Garrett's helmet swing",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p436": {
    "yt": "UVV80kTudSM",
@@ -4362,7 +4362,7 @@
    "sport": "NFL",
    "title": "Chiefs rally from 10 down to win Super Bowl LIV",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p437": {
    "yt": "dYZlrfarCIs",
@@ -4412,7 +4412,7 @@
    "sport": "NFL",
    "title": "Kyler Murray's \"Hail Murray\" to DeAndre Hopkins",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p442": {
    "yt": "U4bqShvBI44",
@@ -4452,7 +4452,7 @@
    "sport": "Motorsport",
    "title": "Max Verstappen passes Lewis Hamilton on the last lap in Abu Dhabi",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p446": {
    "yt": "jOtIpLtwXFo",
@@ -4462,7 +4462,7 @@
    "sport": "NFL",
    "title": "The 13 seconds game: Bills vs. Chiefs in the divisional round",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p447": {
    "yt": "LYP91oVyUuU",
@@ -4472,7 +4472,7 @@
    "sport": "NFL",
    "title": "Cooper Kupp and the Rams rally to win Super Bowl LVI",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p448": {
    "yt": "L78kHwG770s",
@@ -4512,7 +4512,7 @@
    "sport": "Soccer",
    "title": "Saudi Arabia stuns Argentina at the World Cup",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p452": {
    "yt": "yF5mHzhRBWE",
@@ -4522,7 +4522,7 @@
    "sport": "Soccer",
    "title": "Morocco beats Spain on penalties at the World Cup",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p453": {
    "yt": "MCWJNOfJoSM",
@@ -4532,7 +4532,7 @@
    "sport": "Soccer",
    "title": "Argentina beats France in the World Cup final, Messi and Mbappé",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p454": {
    "yt": "1gxvFLZZWeM",
@@ -4612,7 +4612,7 @@
    "sport": "NFL",
    "title": "Mecole Hardman's overtime touchdown wins Super Bowl LVIII for the Chiefs",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p462": {
    "yt": "A1uSe2l1ENg",
@@ -4722,7 +4722,7 @@
    "sport": "NFL",
    "title": "Jayden Daniels's Hail Mary beats the Bears",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p473": {
    "yt": "Aja2KfuoqGA",
@@ -4823,7 +4823,7 @@
    "sport": "NFL",
    "title": "Justin Tucker's double-overtime field goal beats the Broncos (Ravens vs. Broncos)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p483": {
    "yt": "SyPrP3gj2Rw",
@@ -4875,7 +4875,7 @@
    "sport": "NFL",
    "title": "Tony Romo fumbles the field goal snap (Cowboys vs. Seahawks, playoffs)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p488": {
    "yt": "TA0ZVxHRxCM",
@@ -5096,7 +5096,7 @@
    "sport": "NFL",
    "title": "Dee Ford's offside erases a Chiefs interception of Tom Brady (AFC championship, Chiefs vs. Patriots)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p510": {
    "yt": "O7SVmwNta_s",
@@ -5116,7 +5116,7 @@
    "sport": "NFL",
    "title": "\"Miracle in Miami\": Dolphins beat the Patriots on a last-play lateral touchdown",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p512": {
    "yt": "sOQKRjP3ZJk",
@@ -5136,7 +5136,7 @@
    "sport": "Soccer",
    "title": "Ferran Torres's extra-time goal wins the World Cup for Spain (Spain vs. Argentina)",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p514": {
    "yt": "yTY04Bon48U",
@@ -5299,7 +5299,7 @@
    "sport": "Soccer",
    "title": "Cristiano Ronaldo's hat-trick against Spain (Portugal vs. Spain, World Cup)",
    "fame": 5,
-   "embed": true
+   "embed": false
   },
   "p530": {
    "yt": "8KbNmJQllmg",
@@ -5429,7 +5429,7 @@
    "sport": "Motorsport",
    "title": "Ayrton Senna dies in a crash at the San Marino Grand Prix",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p543": {
    "yt": "JDKRNlzUDCE",
@@ -5650,7 +5650,7 @@
    "sport": "NFL",
    "title": "Steve Gleason blocks a punt in the Saints' first game back in the Superdome after Hurricane Katrina (Saints vs. Falcons)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p565": {
    "yt": "oCu5rO2ETvs",
@@ -5660,7 +5660,7 @@
    "sport": "NBA",
    "title": "Bill Laimbeer and Larry Bird fight (Pistons vs. Celtics, Eastern Conference finals)",
    "fame": 3,
-   "embed": true,
+   "embed": false,
    "check": true
   },
   "p566": {
@@ -5691,7 +5691,7 @@
    "sport": "NFL",
    "title": "Brandon Fields' punt sticks in the mud in the \"Mud Bowl\" (Steelers vs. Dolphins)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p569": {
    "yt": "BER_-PP1nbM",
@@ -5701,7 +5701,7 @@
    "sport": "NFL",
    "title": "Logan Ryan's pick-six off Tom Brady, his last game as a Patriot (Patriots vs. Titans)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p570": {
    "yt": "jOOiMcMlnI8",
@@ -5721,7 +5721,7 @@
    "sport": "NFL",
    "title": "Barry Sanders' 47-yard touchdown run (Lions vs. Cowboys, NFC divisional playoff)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p572": {
    "yt": "oO4e5a2FEtM",
@@ -5921,7 +5921,7 @@
    "sport": "NFL",
    "title": "Earnest Byner's 'The Fumble' at the 2-yard line in the AFC Championship (Browns vs. Broncos)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p592": {
    "yt": "eB9wi_zvMdM",
@@ -5941,7 +5941,7 @@
    "sport": "NFL",
    "title": "Deion Sanders returns a punt 68 yards for a touchdown in his NFL debut (5 days after hitting an MLB HR)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p594": {
    "yt": "Lk3l_L-VJ3w",
@@ -6071,7 +6071,7 @@
    "sport": "NFL",
    "title": "Antonio Freeman's 'He Did What?!' Monday Night overtime catch off his back (Packers vs. Vikings)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p607": {
    "yt": "Ih_ovjbwQGk",
@@ -6111,7 +6111,7 @@
    "sport": "NFL",
    "title": "Dante Hall's 'Human Joystick' 93-yard punt return TD juking multiple Broncos",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p611": {
    "yt": "ftLUlmZl3yc",
@@ -6181,7 +6181,7 @@
    "sport": "NFL",
    "title": "Aaron Rodgers' 'Miracle in Motown' 61-yard Hail Mary to Richard Rodgers (Packers vs. Lions)",
    "fame": 4,
-   "embed": false
+   "embed": true
   },
   "p618": {
    "yt": "GCfDXStrXZs",
@@ -6251,7 +6251,7 @@
    "sport": "NFL",
    "title": "Saquon Barkley's backwards hurdle over a defender (Eagles vs. Jaguars)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p625": {
    "yt": "i0ve4xwQIj8",
@@ -6421,7 +6421,7 @@
    "sport": "Soccer",
    "title": "Lionel Messi shows his shirt to the Bernabéu after the last-minute winner (El Clásico)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p642": {
    "yt": "DXB4MApF4Lo",
@@ -6471,7 +6471,7 @@
    "sport": "Soccer",
    "title": "Erling Haaland's late second goal beats Brazil (Norway vs. Brazil, World Cup round of 16)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p647": {
    "yt": "LwiBW6j80kI",
@@ -6491,7 +6491,7 @@
    "sport": "NFL",
    "title": "Vontaze Burfict's hit on Antonio Brown (Bengals vs. Steelers, playoffs)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p649": {
    "yt": "5dmqGg6Ccvw",
@@ -6501,7 +6501,7 @@
    "sport": "NFL",
    "title": "Randy Moss moons the crowd at Lambeau Field after a touchdown (Vikings at Packers, playoffs)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p650": {
    "yt": "jp88zT0fMMw",
@@ -6521,7 +6521,7 @@
    "sport": "College football",
    "title": "Caleb Williams comes off the bench to lead Oklahoma's comeback over Texas (Red River Rivalry)",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p652": {
    "yt": "h2jjxHOLU0U",
@@ -6541,7 +6541,7 @@
    "sport": "Soccer",
    "title": "Russia beats Spain on penalties at the World Cup",
    "fame": 3,
-   "embed": true
+   "embed": false
   },
   "p654": {
    "yt": "tvnkj8sbpVg",
@@ -6722,7 +6722,7 @@
    "sport": "NFL",
    "title": "Terrell Owens celebrates on the Cowboys star at midfield (49ers at Cowboys)",
    "fame": 4,
-   "embed": true
+   "embed": false
   },
   "p672": {
    "yt": "wIYD42DV3Ro",
