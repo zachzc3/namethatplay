@@ -1,7 +1,7 @@
 {
  "meta": {
   "built": "2026-11-01",
-  "count": 672
+  "count": 671
  },
  "plays": {
   "p001": {
@@ -43,16 +43,6 @@
    "title": "Brooks Robinson's backhand stop in the World Series (Orioles vs. Reds)",
    "fame": 2,
    "embed": true
-  },
-  "p005": {
-   "yt": "zrxTjgFYoU8",
-   "start": 0,
-   "date": "1970-11-08",
-   "year": 1970,
-   "sport": "NFL",
-   "title": "Tom Dempsey's 63-yard field goal (Saints vs. Lions)",
-   "fame": 4,
-   "embed": false
   },
   "p006": {
    "yt": "DEYlnNmbaBk",
@@ -113,16 +103,6 @@
    "title": "Franco Harris and the Immaculate Reception (Steelers vs. Raiders)",
    "fame": 5,
    "embed": true
-  },
-  "p012": {
-   "yt": "d-pxMm_UdY4",
-   "start": 0,
-   "date": "1973-01-14",
-   "year": 1973,
-   "sport": "NFL",
-   "title": "Garo Yepremian's botched pass in Super Bowl VII (Dolphins vs. Redskins)",
-   "fame": 4,
-   "embed": false
   },
   "p013": {
    "yt": "JZEIMQ42-oU",
@@ -294,16 +274,6 @@
    "fame": 4,
    "embed": true
   },
-  "p030": {
-   "yt": "BA-6wri7TKU",
-   "start": 0,
-   "date": "1976-01-18",
-   "year": 1976,
-   "sport": "NFL",
-   "title": "Lynn Swann's acrobatic catches in Super Bowl X (Steelers vs. Cowboys)",
-   "fame": 4,
-   "embed": false
-  },
   "p031": {
    "yt": "vRw-mN-fiAk",
    "start": 69,
@@ -474,16 +444,6 @@
    "fame": 3,
    "embed": true
   },
-  "p048": {
-   "yt": "VbO2wlxYeWw",
-   "start": 0,
-   "date": "1979-01-21",
-   "year": 1979,
-   "sport": "NFL",
-   "title": "Jackie Smith's dropped touchdown pass in Super Bowl XIII (Cowboys vs. Steelers)",
-   "fame": 3,
-   "embed": false
-  },
   "p049": {
    "yt": "hHYVRI5sMco",
    "start": 14,
@@ -543,26 +503,6 @@
    "title": "Jerry Butler's twisting touchdown catch beats South Carolina (Clemson vs. South Carolina)",
    "fame": 2,
    "embed": true
-  },
-  "p055": {
-   "yt": "HmoIjMr1BZs",
-   "start": 27,
-   "date": "1978-12-29",
-   "year": 1978,
-   "sport": "College football",
-   "title": "Woody Hayes punches a Clemson player in the Gator Bowl",
-   "fame": 5,
-   "embed": false
-  },
-  "p056": {
-   "yt": "jDGTCOCi4ec",
-   "start": 0,
-   "date": "1980-01-20",
-   "year": 1980,
-   "sport": "NFL",
-   "title": "Bradshaw's 73-yard touchdown pass to Stallworth in Super Bowl XIV",
-   "fame": 3,
-   "embed": false
   },
   "p057": {
    "yt": "aJ6itnbs7Yg",
@@ -633,26 +573,6 @@
    "title": "Roberto Durán says \"No más\" against Sugar Ray Leonard",
    "fame": 5,
    "embed": true
-  },
-  "p064": {
-   "yt": "9bpov_D1m7g",
-   "start": 0,
-   "date": "1982-01-02",
-   "year": 1982,
-   "sport": "NFL",
-   "title": "Epic in Miami: Chargers vs. Dolphins, Kellen Winslow blocks the field goal",
-   "fame": 4,
-   "embed": false
-  },
-  "p065": {
-   "yt": "vsEAnDkhG7E",
-   "start": 0,
-   "date": "1982-01-10",
-   "year": 1982,
-   "sport": "NFL",
-   "title": "\"The Catch\": Joe Montana to Dwight Clark (49ers vs. Cowboys)",
-   "fame": 5,
-   "embed": false
   },
   "p066": {
    "yt": "gnlWgqfB-Vs",
@@ -774,16 +694,6 @@
    "fame": 4,
    "embed": true
   },
-  "p078": {
-   "yt": "avS5h5tC8P8",
-   "start": 0,
-   "date": "1984-01-22",
-   "year": 1984,
-   "sport": "NFL",
-   "title": "Marcus Allen's 74-yard run in Super Bowl XVIII",
-   "fame": 3,
-   "embed": false
-  },
   "p079": {
    "yt": "KNCSij0hUp8",
    "start": 29,
@@ -884,26 +794,6 @@
    "fame": 4,
    "embed": true
   },
-  "p089": {
-   "yt": "JXx7NtCspDE",
-   "start": 0,
-   "date": "1985-11-18",
-   "year": 1985,
-   "sport": "NFL",
-   "title": "Joe Theismann's leg injury (Lawrence Taylor)",
-   "fame": 3,
-   "embed": false
-  },
-  "p090": {
-   "yt": "AeUn-V1GD20",
-   "start": 0,
-   "date": "1986-01-26",
-   "year": 1986,
-   "sport": "NFL",
-   "title": "William Perry's rushing touchdown in Super Bowl XX (Bears vs. Patriots)",
-   "fame": 3,
-   "embed": false
-  },
   "p091": {
    "yt": "jSAGDr4kmf0",
    "start": 944,
@@ -994,16 +884,6 @@
    "fame": 3,
    "embed": true
   },
-  "p100": {
-   "yt": "wSRfwJlnuBM",
-   "start": 5,
-   "date": "1987-01-11",
-   "year": 1987,
-   "sport": "NFL",
-   "title": "John Elway and \"The Drive\" (Broncos vs. Browns)",
-   "fame": 5,
-   "embed": false
-  },
   "p101": {
    "yt": "v1k62_1g7b0",
    "start": 0,
@@ -1044,16 +924,6 @@
    "fame": 4,
    "embed": true
   },
-  "p105": {
-   "yt": "TnDlFKTNkeE",
-   "start": 0,
-   "date": "1987-11-30",
-   "year": 1987,
-   "sport": "NFL",
-   "title": "Bo Jackson runs over Brian Bosworth on Monday Night",
-   "fame": 4,
-   "embed": false
-  },
   "p106": {
    "yt": "rzQAC8kPJxo",
    "start": 0,
@@ -1073,16 +943,6 @@
    "title": "The Jamaican bobsled team crashes at the Calgary Olympics",
    "fame": 3,
    "embed": true
-  },
-  "p108": {
-   "yt": "Ly3mSsHg9T0",
-   "start": 6,
-   "date": "1988-06-25",
-   "year": 1988,
-   "sport": "Soccer",
-   "title": "Marco van Basten's volley in the Euro final (Netherlands vs. USSR)",
-   "fame": 4,
-   "embed": false
   },
   "p109": {
    "yt": "Y3cWsOOoiAs",
@@ -1163,16 +1023,6 @@
    "title": "The Fog Bowl (Eagles vs. Bears)",
    "fame": 3,
    "embed": true
-  },
-  "p117": {
-   "yt": "1iwBKvaoucs",
-   "start": 165,
-   "date": "1989-01-22",
-   "year": 1989,
-   "sport": "NFL",
-   "title": "Joe Montana drives the 49ers to the win in Super Bowl XXIII",
-   "fame": 4,
-   "embed": false
   },
   "p118": {
    "yt": "dc-9GbuLA2I",
@@ -1454,16 +1304,6 @@
    "fame": 4,
    "embed": true
   },
-  "p146": {
-   "yt": "NfJ5fllfDUg",
-   "start": 0,
-   "date": "1992-09-20",
-   "year": 1992,
-   "sport": "NFL",
-   "title": "Brett Favre's first big comeback (Packers vs. Bengals)",
-   "fame": 3,
-   "embed": false
-  },
   "p147": {
    "yt": "PilAosY41eA",
    "start": 0,
@@ -1473,16 +1313,6 @@
    "title": "Francisco Cabrera's single and Sid Bream's slide (NLCS Game 7)",
    "fame": 4,
    "embed": true
-  },
-  "p148": {
-   "yt": "7NwCCrzarZs",
-   "start": 8925,
-   "date": "1993-01-03",
-   "year": 1993,
-   "sport": "NFL",
-   "title": "Frank Reich leads the Bills to the biggest comeback in NFL history",
-   "fame": 4,
-   "embed": false
   },
   "p149": {
    "yt": "I4im74IJ-rM",
@@ -6733,6 +6563,166 @@
    "title": "Rich Strike wins the Kentucky Derby at 80-1",
    "fame": 3,
    "embed": true
+  },
+  "p673": {
+   "yt": "cjqiq4S9bqA",
+   "start": 49,
+   "date": "1970-11-08",
+   "year": 1970,
+   "sport": "NFL",
+   "title": "Tom Dempsey's 63-yard field goal (Saints vs. Lions)",
+   "fame": 4,
+   "embed": false
+  },
+  "p674": {
+   "yt": "DjYzMt5PFHg",
+   "start": 5,
+   "date": "1973-01-14",
+   "year": 1973,
+   "sport": "NFL",
+   "title": "Garo Yepremian's botched pass in Super Bowl VII (Dolphins vs. Redskins)",
+   "fame": 4,
+   "embed": false
+  },
+  "p675": {
+   "yt": "uHpYUS06G_I",
+   "start": 47,
+   "date": "1976-01-18",
+   "year": 1976,
+   "sport": "NFL",
+   "title": "Lynn Swann's acrobatic catches in Super Bowl X (Steelers vs. Cowboys)",
+   "fame": 4,
+   "embed": false
+  },
+  "p676": {
+   "yt": "wHh9GJfJiIs",
+   "start": 4947,
+   "date": "1979-01-21",
+   "year": 1979,
+   "sport": "NFL",
+   "title": "Jackie Smith's dropped touchdown pass in Super Bowl XIII (Cowboys vs. Steelers)",
+   "fame": 3,
+   "embed": false
+  },
+  "p677": {
+   "yt": "rJ9K0ggt_Uk",
+   "start": 8295,
+   "date": "1978-12-29",
+   "year": 1978,
+   "sport": "College football",
+   "title": "Woody Hayes punches a Clemson player in the Gator Bowl",
+   "fame": 5,
+   "embed": true
+  },
+  "p678": {
+   "yt": "qikq5aVg0Nc",
+   "start": 0,
+   "date": "1980-01-20",
+   "year": 1980,
+   "sport": "NFL",
+   "title": "Bradshaw's 73-yard touchdown pass to Stallworth in Super Bowl XIV",
+   "fame": 3,
+   "embed": false
+  },
+  "p679": {
+   "yt": "fHS7YdY3GDU",
+   "start": 1026,
+   "date": "1982-01-02",
+   "year": 1982,
+   "sport": "NFL",
+   "title": "Epic in Miami: Chargers vs. Dolphins, Kellen Winslow blocks the field goal",
+   "fame": 4,
+   "embed": false
+  },
+  "p680": {
+   "yt": "gjVipGX6ihg",
+   "start": 0,
+   "date": "1982-01-10",
+   "year": 1982,
+   "sport": "NFL",
+   "title": "\"The Catch\": Joe Montana to Dwight Clark (49ers vs. Cowboys)",
+   "fame": 5,
+   "embed": false
+  },
+  "p681": {
+   "yt": "2i_Vp0I4L9k",
+   "start": 0,
+   "date": "1984-01-22",
+   "year": 1984,
+   "sport": "NFL",
+   "title": "Marcus Allen's 74-yard run in Super Bowl XVIII",
+   "fame": 3,
+   "embed": true
+  },
+  "p682": {
+   "yt": "ITeozxHXzVE",
+   "start": 3,
+   "date": "1986-01-26",
+   "year": 1986,
+   "sport": "NFL",
+   "title": "William Perry's rushing touchdown in Super Bowl XX (Bears vs. Patriots)",
+   "fame": 3,
+   "embed": true
+  },
+  "p683": {
+   "yt": "Yb6QxLx2adk",
+   "start": 775,
+   "date": "1987-01-11",
+   "year": 1987,
+   "sport": "NFL",
+   "title": "John Elway and \"The Drive\" (Broncos vs. Browns)",
+   "fame": 5,
+   "embed": false
+  },
+  "p684": {
+   "yt": "1wsYnxEGceU",
+   "start": 5118,
+   "date": "1987-11-30",
+   "year": 1987,
+   "sport": "NFL",
+   "title": "Bo Jackson runs over Brian Bosworth on Monday Night",
+   "fame": 4,
+   "embed": false
+  },
+  "p685": {
+   "yt": "HAfLnP-5oK8",
+   "start": 122,
+   "date": "1988-06-25",
+   "year": 1988,
+   "sport": "Soccer",
+   "title": "Marco van Basten's volley in the Euro final (Netherlands vs. USSR)",
+   "fame": 4,
+   "embed": true
+  },
+  "p686": {
+   "yt": "ED8bh4cYEXM",
+   "start": 0,
+   "date": "1989-01-22",
+   "year": 1989,
+   "sport": "NFL",
+   "title": "Joe Montana drives the 49ers to the win in Super Bowl XXIII",
+   "fame": 4,
+   "embed": false
+  },
+  "p687": {
+   "yt": "uHqddcD8P2I",
+   "start": 124,
+   "date": "1992-09-20",
+   "year": 1992,
+   "sport": "NFL",
+   "title": "Brett Favre's first big comeback (Packers vs. Bengals)",
+   "fame": 3,
+   "embed": false
+  },
+  "p688": {
+   "yt": "u1lgLXsO2Ag",
+   "start": 1023,
+   "date": "1993-01-03",
+   "year": 1993,
+   "sport": "NFL",
+   "title": "Frank Reich leads the Bills to the biggest comeback in NFL history",
+   "fame": 4,
+   "embed": false
   }
  }
 }
